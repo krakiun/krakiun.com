@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "@Craciun Florentin Simion" 
+copyright = "@copyright Craciun Florentin Simion" 
 
 # googleAnalytics = ""
 # disqusShortname = ""
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "timeline"
+  name = "Craciun Florentin Simion"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -54,14 +54,14 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Timeline hugo template for your work experience, researches, achievement and more"
-  keywords = "timeline hugo template"
+  description = "This is the Craciun Florentin Simion alias KRAKIUN personal website."
+  keywords = "krakiun, craciun florentin simion, bussiness, marketing, blockchain, investiments, security"
   images = [""]
 
-  homeSubtitle = "timeline template for hugo"
+  homeSubtitle = "This is a personal blog of Craciun Florentin Simion alias krakiun."
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = ""
+  gitUrl = "https://github.com/krakiun"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -119,7 +119,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "github"
-    url  = "#"
+    url  = "https://github.com/krakiun"
 
   [[params.social]]
     name = "reddit"
@@ -131,14 +131,14 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Timeline"
+    subtitle  = "Craciun Florentin Simion Website"
     weight    = 1
     copyright = ''
 
   [languages.fr]
-    subtitle  = "Timeline"
+    subtitle  = "Craciun Florentin Simion"
     weight    = 2
-    copyright = '<a href="https://github.com/s4n7h0/hugo-theme-timeline/blob/main/LICENSE" target="_blank" rel="noopener">MIT</a>'
+    copyright = '<a href="https://github.com/krakiun" target="_blank" rel="noopener">@Craciun Florentin Simion</a>'
 
 [menu]
   [[menu.main]]

@@ -2,6 +2,8 @@
 title: "My First Post"
 date: 2021-05-24T12:21:58+03:00
 draft: false
+author:
+  name: "krakiun"
 ---
 
 
