@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>krakiun</title>
+    <link>https://krakiun.com/</link>
+    <description>Recent content on krakiun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 May 2021 12:21:58 +0300</lastBuildDate>
+    
+	<atom:link href="https://krakiun.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://krakiun.com/timeline/my-first-post/</link>
+      <pubDate>Mon, 24 May 2021 12:21:58 +0300</pubDate>
+      
+      <guid>https://krakiun.com/timeline/my-first-post/</guid>
+      <description>După mult timp în care nu am mai publicat nimic personal despre mine pe internet, am decis sa îmi fac din un blog.
+Scopul acestui blog este sa public ganduri/emotii din viața mea / din business care consider ca merita sa fie cunoscute și de alții.
+Nu am de gand sa public regular, dacă vrei sa fii la curent cu noile mele postări, îți recomand sa te abonezi la newsletter sau la feed rss.</description>
+    </item>
+    
+  </channel>
+</rss>
