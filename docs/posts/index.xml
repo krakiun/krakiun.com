@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on KRAKIUN BLOG</title>
-    <link>https://krakiun.com/posts/</link>
+    <link>http://localhost:61504/posts/</link>
     <description>Recent content in Blog on KRAKIUN BLOG</description>
     <generator>Hugo</generator>
     <language>ro-ro</language>
-    <lastBuildDate>Sat, 28 Dec 2024 01:16:12 +0200</lastBuildDate>
-    <atom:link href="https://krakiun.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2025 13:27:51 +0200</lastBuildDate>
+    <atom:link href="http://localhost:61504/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Be Your Own Champion</title>
+      <link>http://localhost:61504/posts/be-your-own-champion/</link>
+      <pubDate>Tue, 07 Jan 2025 13:27:51 +0200</pubDate>
+      <guid>http://localhost:61504/posts/be-your-own-champion/</guid>
+      <description>&lt;p&gt;Indiferent de domeniul în care activezi, dacă îți dorești să fii cu adevărat valoros, să fii apreciat, să câștigi respect, bani sau orice altceva visezi, există o singură cale: să fii cel mai bun. Nu doar bun. Nu doar peste medie. CEL MAI BUN.&lt;/p&gt;&#xA;&lt;h2 id=&#34;de-ce-să-fii-cel-mai-bun&#34;&gt;De ce să fii cel mai bun?&lt;/h2&gt;&#xA;&lt;p&gt;Când ești doar competent, vei fi plătit pentru timpul tău. Cei din jur vor evalua cât valorează ora ta și îți vor oferi ceea ce consideră că merită. În schimb, când devii campion în ceea ce faci, tu vei decide cât valorează munca ta. Prețul nu mai este negociabil. Oamenii vor plăti ceea ce ceri, pentru că știu că nu există altcineva care poate livra aceleași rezultate.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Vulcanizare Mobila - Cum sa faci extra 1000 euro/luna</title>
-      <link>https://krakiun.com/posts/vulcanizare-mobila-focsani/</link>
+      <link>http://localhost:61504/posts/vulcanizare-mobila-focsani/</link>
       <pubDate>Sat, 28 Dec 2024 01:16:12 +0200</pubDate>
-      <guid>https://krakiun.com/posts/vulcanizare-mobila-focsani/</guid>
+      <guid>http://localhost:61504/posts/vulcanizare-mobila-focsani/</guid>
       <description>&lt;p&gt;Hei, dragilor! Azi vreau să vă povestesc despre o problemă pe care am avut-o recent și cum am realizat că ar putea fi transformată într-o afacere profitabilă, mai ales pentru cineva care caută să facă un ban în plus, poate chiar în afara programului de muncă.&lt;/p&gt;&#xA;&lt;p&gt;Acum câteva zile, am avut o pană. Am găsit mașina în parcare, pneul era complet dezumflat și, ghici ce, n-aveam roată de rezervă. Cum să scap din asta? Am început să mă gândesc: ori desfac roata și o duc la vulcanizare (lucru care presupune timp, efort și câteva unelte pe care nu le aveam).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Primul meu articol pe blog</title>
-      <link>https://krakiun.com/posts/primul-meu-articol-pe-blog/</link>
+      <link>http://localhost:61504/posts/primul-meu-articol-pe-blog/</link>
       <pubDate>Tue, 24 Dec 2024 15:36:21 +0200</pubDate>
-      <guid>https://krakiun.com/posts/primul-meu-articol-pe-blog/</guid>
+      <guid>http://localhost:61504/posts/primul-meu-articol-pe-blog/</guid>
       <description>&lt;p&gt;Salut și bine ați venit pe blogul meu! Dacă ai ajuns până aici, deja ai făcut primul pas într-un spațiu în care codul întâlnește creativitatea, iar ideile nu sunt doar variabile temporare. Acesta este primul meu articol și, sincer, nu o să încep cu &amp;ldquo;a fost odată&amp;rdquo;. Trecutul e doar un return, iar eu prefer să mă concentrez pe ceea ce urmează să construiesc.&lt;/p&gt;&#xA;&lt;p&gt;Pe acest blog vei găsi proiecte viitoare, idei de business și soluții digitale. Nu pierd timp să scriu despre trecut – nu pentru că n-aș avea povești, dar, sincer, timpul e o resursă non-renewable, și prefer să-l investesc în noi funcționalități. În plus, despre proiectele de succes nu o să scriu. Motive? Simple: contracte NDA, concurență care se creează singură și, bineînțeles, invidia – un bug al societății care nu merită debug-uit.&lt;/p&gt;</description>
     </item>
   </channel>
