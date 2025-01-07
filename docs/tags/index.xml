@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on KRAKIUN BLOG</title>
-    <link>http://localhost:61504/tags/</link>
+    <link>https://krakiun.com/tags/</link>
     <description>Recent content in Tags on KRAKIUN BLOG</description>
     <generator>Hugo</generator>
     <language>ro-ro</language>
     <lastBuildDate>Tue, 07 Jan 2025 13:27:51 +0200</lastBuildDate>
-    <atom:link href="http://localhost:61504/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://krakiun.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mindset</title>
-      <link>http://localhost:61504/tags/mindset/</link>
+      <link>https://krakiun.com/tags/mindset/</link>
       <pubDate>Tue, 07 Jan 2025 13:27:51 +0200</pubDate>
-      <guid>http://localhost:61504/tags/mindset/</guid>
+      <guid>https://krakiun.com/tags/mindset/</guid>
       <description></description>
     </item>
     <item>
       <title>Idei De Afaceri</title>
-      <link>http://localhost:61504/tags/idei-de-afaceri/</link>
+      <link>https://krakiun.com/tags/idei-de-afaceri/</link>
       <pubDate>Sat, 28 Dec 2024 01:16:12 +0200</pubDate>
-      <guid>http://localhost:61504/tags/idei-de-afaceri/</guid>
+      <guid>https://krakiun.com/tags/idei-de-afaceri/</guid>
       <description></description>
     </item>
   </channel>
