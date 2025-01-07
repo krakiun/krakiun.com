@@ -82,7 +82,7 @@ publishDir = "docs"
   # Author Settings
   [params.author]
     author_name = "Craciun Florentin Simion"
-    author_avatar = "https://via.placeholder.com/100x100"
+    author_avatar = "/images/krakiun-avatar.png"
 
 
   #-------------------------------
