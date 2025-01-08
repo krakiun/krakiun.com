@@ -45,3 +45,14 @@ Este ca un examen de permis auto: nimeni nu te oprește să conduci, dar trebuie
 Propunerea mea nu elimină egalitatea, ci o redefinește. Toată lumea are dreptul la un vot. Dar greutatea acestuia trebuie să reflecte nivelul de pregătire și implicare. Aceasta nu este o măsură discriminatorie, ci o invitație la educație, responsabilitate și implicare civică.
 
 **Ce părere ai? Suntem pregătiți să transformăm democrația într-un sistem în care fiecare vot nu doar contează, ci contează corect?**
+
+
+> Ignoranța costă, iar în democrație, prețul îl plătește întreaga societate.
+>
+> <cite>– Thomas Jefferson</cite>
+
+
+> Fiecare vot este un glonț, dar cunoștințele îl fac să lovească ținta potrivită.
+>
+> <cite>– krakiun</cite>
+
