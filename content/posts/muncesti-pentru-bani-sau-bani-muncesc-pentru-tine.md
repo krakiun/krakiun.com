@@ -8,7 +8,7 @@ tags: ['mindset', 'money']
 Te-ai întrebat vreodată de ce, în era internetului și a posibilităților infinite, cei mai mulți oameni încă își vând timpul pe bani? Da, timpul, cea mai prețioasă resursă a ta, oferit la schimb pe niște hârtii care oricum nu-ți vor ajunge niciodată. Este un cerc vicios, un pact tăcut cu mediocritatea. Și totuși, continui să crezi că „asta e viața”. Ei bine, nu este.
 
 
-Suntem crescuți să credem că munca `cinstită`, făcută din greu, ne va duce pe culmile succesului. Ce glumă! În realitate, salariul tău – indiferent de cât de generos ar părea – nu este decât o indemnizație de supraviețuire. Este exact atât cât să-ți plătești ratele, să-ți cumperi mâncare și, eventual, să te simți bine o dată pe lună. Nu contează cât de mult valorează ceea ce creezi, valoarea timpului tău este plafonată. Și da, te-ai mulțumit cu asta.
+Suntem crescuți să credem că munca, făcută din greu, ne va duce pe culmile succesului. Ce glumă! În realitate, salariul tău – indiferent de cât de generos ar părea – nu este decât o indemnizație de supraviețuire. Este exact atât cât să-ți plătești ratele, să-ți cumperi mâncare și, eventual, să te simți bine o dată pe lună. Nu contează cât de mult valorează ceea ce creezi, valoarea timpului tău este plafonată. Și da, te-ai mulțumit cu asta.
 
 E timpul să înțelegi: muncind pentru bani, vei fi mereu un sclav modern. Elegant îmbrăcat, poate, dar tot un sclav.
 
