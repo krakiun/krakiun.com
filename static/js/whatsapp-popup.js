@@ -148,15 +148,34 @@ window.closeWhatsAppPopup = function() {
   const overlay = document.getElementById('whatsappOverlay');
   popup.classList.remove('show');
   overlay.classList.remove('show');
+  
+  // Salvează timpul când a fost închis popup-ul
+  localStorage.setItem('whatsappPopupLastShown', Date.now().toString());
 };
+
+// Funcție pentru verificarea dacă poate fi afișat popup-ul
+function canShowPopup() {
+  const lastShown = localStorage.getItem('whatsappPopupLastShown');
+  if (!lastShown) return true;
+  
+  const timeSinceLastShow = Date.now() - parseInt(lastShown);
+  const fiveMinutesInMs = 5 * 60 * 1000; // 5 minute în milisecunde
+  
+  return timeSinceLastShow >= fiveMinutesInMs;
+}
 
 // Funcție pentru afișarea popup-ului
 function showWhatsAppPopup() {
-  const popup = document.getElementById('whatsappPopup');
-  const overlay = document.getElementById('whatsappOverlay');
-  popup.classList.add('show');
-  overlay.classList.add('show');
+  if (canShowPopup()) {
+    const popup = document.getElementById('whatsappPopup');
+    const overlay = document.getElementById('whatsappOverlay');
+    popup.classList.add('show');
+    overlay.classList.add('show');
+    
+    // Salvează timpul când a fost arătat popup-ul
+    localStorage.setItem('whatsappPopupLastShown', Date.now().toString());
+  }
 }
 
-// Arată popup-ul după 5 secunde pe fiecare pagină
+// Arată popup-ul după 5 secunde, doar dacă au trecut 5 minute de la ultima afișare
 setTimeout(showWhatsAppPopup, 5000);
