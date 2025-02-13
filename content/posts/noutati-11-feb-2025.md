@@ -2,6 +2,9 @@
 title: "Noutăți din ultimele 7 zile: proiecte și idei noi"
 date: 2025-02-11T19:34:07+02:00
 tags: []
+_build:
+  list: false
+  render: true
 ---
 
 În ultima săptămână am lucrat la câteva proiecte interesante, iar acum vreau să împărtășesc cu voi câteva dintre ele. Acestea sunt doar inițiative colaterale, realizate în paralel cu proiectele mari la care lucrez. Fie că sunteți dezvoltatori, antreprenori sau pur și simplu pasionați de tehnologie, poate veți găsi ceva util.
