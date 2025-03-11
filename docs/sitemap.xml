@@ -2,74 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://krakiun.com/tags/autochatai/</loc>
+    <loc>http://localhost:1313/posts/aplicatie-liste-firme-romania/</loc>
+    <lastmod>2025-03-11T22:35:58+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-03-11T22:35:58+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-11T22:35:58+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lista-firme/</loc>
+    <lastmod>2025-03-11T22:35:58+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-11T22:35:58+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/autochatai/</loc>
     <lastmod>2025-03-09T11:40:12+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/projects/auto-chat-ai-cum-raspund-automat-pe-whatsapp/</loc>
+    <loc>http://localhost:1313/projects/auto-chat-ai-cum-raspund-automat-pe-whatsapp/</loc>
     <lastmod>2025-03-09T11:40:12+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-03-09T11:40:12+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/tags/</loc>
-    <lastmod>2025-03-09T11:40:12+02:00</lastmod>
-  </url><url>
-    <loc>https://krakiun.com/projects/</loc>
-    <lastmod>2025-03-09T11:40:12+02:00</lastmod>
-  </url><url>
-    <loc>https://krakiun.com/posts/</loc>
-    <lastmod>2025-02-11T19:34:07+02:00</lastmod>
-  </url><url>
-    <loc>https://krakiun.com/tags/apps/</loc>
+    <loc>http://localhost:1313/tags/apps/</loc>
     <lastmod>2025-01-20T16:24:01+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/projects/chestionare-permis-autoaparare-romania/</loc>
+    <loc>http://localhost:1313/projects/chestionare-permis-autoaparare-romania/</loc>
     <lastmod>2025-01-20T16:24:01+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/posts/cum-gasesti-un-busines-angel-in-romania/</loc>
+    <loc>http://localhost:1313/posts/cum-gasesti-un-busines-angel-in-romania/</loc>
     <lastmod>2025-01-20T12:10:13+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/tags/startup/</loc>
+    <loc>http://localhost:1313/tags/startup/</loc>
     <lastmod>2025-01-20T12:10:13+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/tags/mindset/</loc>
+    <loc>http://localhost:1313/tags/mindset/</loc>
     <lastmod>2025-01-11T21:23:24+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/tags/money/</loc>
+    <loc>http://localhost:1313/tags/money/</loc>
     <lastmod>2025-01-11T21:23:24+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/posts/muncesti-pentru-bani-sau-bani-muncesc-pentru-tine/</loc>
+    <loc>http://localhost:1313/posts/muncesti-pentru-bani-sau-bani-muncesc-pentru-tine/</loc>
     <lastmod>2025-01-11T21:23:24+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/tags/politica/</loc>
+    <loc>http://localhost:1313/tags/politica/</loc>
     <lastmod>2025-01-08T20:27:51+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/posts/examen-pentru-vot/</loc>
+    <loc>http://localhost:1313/posts/examen-pentru-vot/</loc>
     <lastmod>2025-01-08T20:27:51+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/posts/norocul-nu-exista-doar-strategia-conteaza/</loc>
+    <loc>http://localhost:1313/posts/norocul-nu-exista-doar-strategia-conteaza/</loc>
     <lastmod>2025-01-07T16:53:13+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/posts/be-your-own-champion/</loc>
+    <loc>http://localhost:1313/posts/be-your-own-champion/</loc>
     <lastmod>2025-01-07T13:27:51+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/tags/idei-de-afaceri/</loc>
+    <loc>http://localhost:1313/tags/idei-de-afaceri/</loc>
     <lastmod>2024-12-28T01:16:12+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/posts/vulcanizare-mobila-focsani/</loc>
+    <loc>http://localhost:1313/posts/vulcanizare-mobila-focsani/</loc>
     <lastmod>2024-12-28T01:16:12+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/posts/primul-meu-articol-pe-blog/</loc>
+    <loc>http://localhost:1313/posts/primul-meu-articol-pe-blog/</loc>
     <lastmod>2024-12-24T15:36:21+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/contact/</loc>
+    <loc>http://localhost:1313/projects/extensie-chrome-casa-verde/</loc>
+    <lastmod>2024-12-24T01:43:06+02:00</lastmod>
   </url><url>
-    <loc>https://krakiun.com/about/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://krakiun.com/elements/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://krakiun.com/privacy/autoaparare/</loc>
+    <loc>http://localhost:1313/elements/</loc>
   </url><url>
-    <loc>https://krakiun.com/privacy/</loc>
+    <loc>http://localhost:1313/privacy/autoaparare/</loc>
+  </url><url>
+    <loc>http://localhost:1313/privacy/</loc>
   </url>
 </urlset>

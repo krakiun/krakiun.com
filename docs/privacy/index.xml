@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privacies on KRAKIUN BLOG</title>
-    <link>https://krakiun.com/privacy/</link>
+    <link>http://localhost:1313/privacy/</link>
     <description>Recent content in Privacies on KRAKIUN BLOG</description>
     <generator>Hugo</generator>
     <language>ro-ro</language>
-    <atom:link href="https://krakiun.com/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Politica de Confidențialitate și Termeni de Utilizare</title>
-      <link>https://krakiun.com/privacy/autoaparare/</link>
+      <link>http://localhost:1313/privacy/autoaparare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://krakiun.com/privacy/autoaparare/</guid>
+      <guid>http://localhost:1313/privacy/autoaparare/</guid>
       <description>&lt;p&gt;Data ultimei actualizări: 9 Ianuarie 2025&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-termeni-și-condiții-de-utilizare&#34;&gt;I. Termeni și Condiții de Utilizare&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-acceptarea-termenilor&#34;&gt;1. Acceptarea Termenilor&lt;/h3&gt;&#xA;&lt;p&gt;Familia Blonda SRL (&amp;ldquo;noi&amp;rdquo;, &amp;ldquo;nouă&amp;rdquo; sau &amp;ldquo;compania noastră&amp;rdquo;), cu sediul în Focșani, Bulevardul Independenței nr. 33, operează aplicația mobilă Chestionare Permis Autoapărare România (&amp;ldquo;Aplicația&amp;rdquo;). Prin utilizarea Aplicației, acceptați acești termeni și condiții de utilizare.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-limitarea-răspunderii&#34;&gt;2. Limitarea Răspunderii&lt;/h3&gt;&#xA;&lt;h4 id=&#34;21-declarație-de-neresponsabilitate&#34;&gt;2.1 Declarație de Neresponsabilitate&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aplicația este furnizată &amp;ldquo;CA ATARE&amp;rdquo; și &amp;ldquo;DUPĂ DISPONIBILITATE&amp;rdquo;, fără niciun fel de garanție&lt;/li&gt;&#xA;&lt;li&gt;Nu garantăm că informațiile sunt complete, actualizate sau lipsite de erori&lt;/li&gt;&#xA;&lt;li&gt;Nu ne asumăm răspunderea pentru niciun fel de daune rezultate din utilizarea Aplicației&lt;/li&gt;&#xA;&lt;li&gt;Nu garantăm că veți promova examenul real prin utilizarea Aplicației&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;22-asumarea-riscurilor&#34;&gt;2.2 Asumarea Riscurilor&lt;/h4&gt;&#xA;&lt;p&gt;Prin utilizarea Aplicației, acceptați și înțelegeți în mod explicit că:&lt;/p&gt;</description>
     </item>
   </channel>
