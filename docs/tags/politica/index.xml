@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Politica on KRAKIUN BLOG</title>
-    <link>http://localhost:1313/tags/politica/</link>
+    <link>https://krakiun.com/tags/politica/</link>
     <description>Recent content in Politica on KRAKIUN BLOG</description>
     <generator>Hugo</generator>
     <language>ro-ro</language>
     <lastBuildDate>Wed, 08 Jan 2025 20:27:51 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/politica/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://krakiun.com/tags/politica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vrei să decizi? Demonstrează că Știi Ce Votezi!</title>
-      <link>http://localhost:1313/posts/examen-pentru-vot/</link>
+      <link>https://krakiun.com/posts/examen-pentru-vot/</link>
       <pubDate>Wed, 08 Jan 2025 20:27:51 +0200</pubDate>
-      <guid>http://localhost:1313/posts/examen-pentru-vot/</guid>
+      <guid>https://krakiun.com/posts/examen-pentru-vot/</guid>
       <description>&lt;p&gt;Democrația actuală funcționează pe un principiu simplu: fiecare cetățean are un vot, iar greutatea acestuia este egală, indiferent de pregătirea, cunoștințele sau implicarea sa civică. Dar, oare, este corect ca decizia unui cetățean informat să aibă aceeași greutate cu cea a unui cetățean complet nepregătit? Eu cred că nu, iar soluția constă într-o reformă simplă, dar eficientă: &lt;strong&gt;standardizarea votului și ajustarea greutății acestuia în funcție de nivelul de cunoștințe.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;cum-funcționează-sistemul-propus&#34;&gt;Cum funcționează sistemul propus?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-faza-de-bază-standardizarea-votului&#34;&gt;1. Faza de bază: Standardizarea votului&lt;/h3&gt;&#xA;&lt;p&gt;În acest sistem, &lt;strong&gt;fiecare cetățean începe cu un vot care are greutatea standard de „1”&lt;/strong&gt;. Acest drept este universal, egal pentru toți, și nimeni nu este exclus.&lt;/p&gt;</description>
     </item>
   </channel>
