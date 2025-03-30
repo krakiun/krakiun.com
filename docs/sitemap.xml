@@ -80,5 +80,11 @@
     <loc>https://krakiun.com/privacy/autoaparare/</loc>
   </url><url>
     <loc>https://krakiun.com/privacy/</loc>
+  </url><url>
+    <loc>https://krakiun.com/privacy/validateid/</loc>
+  </url><url>
+    <loc>https://krakiun.com/tos/validateid/</loc>
+  </url><url>
+    <loc>https://krakiun.com/tos/</loc>
   </url>
 </urlset>
