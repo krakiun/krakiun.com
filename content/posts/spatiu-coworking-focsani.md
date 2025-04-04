@@ -2,7 +2,7 @@
 title: "Spațiul CoWorking la Focșani pentru Antreprenori"
 date: 2025-04-04T02:38:00+03:00
 image: "/images/coworking-focsani.png"
-tags: []
+tags: ['CoWorking']
 ---
 
 Suntem antreprenori digitali.  
