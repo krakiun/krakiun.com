@@ -2,7 +2,7 @@
 title: "Degeaba Știi Să Scrii Cod Dacă Nu Știi Ce Probleme Să Rezolvi"
 date: 2025-03-28T11:44:32+02:00
 image: "/images/sarac-bogat.jpeg"
-tags: []
+tags: ['mindset']
 ---
 
 Pentru cei care mă urmăresc și au impresia că „m-am pierdut” tehnic.  
