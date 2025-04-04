@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on KRAKIUN BLOG</title>
-    <link>https://krakiun.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on KRAKIUN BLOG</description>
     <generator>Hugo</generator>
     <language>ro-ro</language>
     <lastBuildDate>Tue, 11 Mar 2025 22:35:58 +0200</lastBuildDate>
-    <atom:link href="https://krakiun.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lista Firme</title>
-      <link>https://krakiun.com/tags/lista-firme/</link>
+      <link>http://localhost:1313/tags/lista-firme/</link>
       <pubDate>Tue, 11 Mar 2025 22:35:58 +0200</pubDate>
-      <guid>https://krakiun.com/tags/lista-firme/</guid>
+      <guid>http://localhost:1313/tags/lista-firme/</guid>
       <description></description>
     </item>
     <item>
       <title>Autochatai</title>
-      <link>https://krakiun.com/tags/autochatai/</link>
+      <link>http://localhost:1313/tags/autochatai/</link>
       <pubDate>Sun, 09 Mar 2025 11:40:12 +0200</pubDate>
-      <guid>https://krakiun.com/tags/autochatai/</guid>
+      <guid>http://localhost:1313/tags/autochatai/</guid>
       <description></description>
     </item>
     <item>
       <title>Apps</title>
-      <link>https://krakiun.com/tags/apps/</link>
+      <link>http://localhost:1313/tags/apps/</link>
       <pubDate>Mon, 20 Jan 2025 16:24:01 +0200</pubDate>
-      <guid>https://krakiun.com/tags/apps/</guid>
+      <guid>http://localhost:1313/tags/apps/</guid>
       <description></description>
     </item>
     <item>
       <title>Startup</title>
-      <link>https://krakiun.com/tags/startup/</link>
+      <link>http://localhost:1313/tags/startup/</link>
       <pubDate>Mon, 20 Jan 2025 12:10:13 +0200</pubDate>
-      <guid>https://krakiun.com/tags/startup/</guid>
+      <guid>http://localhost:1313/tags/startup/</guid>
       <description></description>
     </item>
     <item>
       <title>Mindset</title>
-      <link>https://krakiun.com/tags/mindset/</link>
+      <link>http://localhost:1313/tags/mindset/</link>
       <pubDate>Sat, 11 Jan 2025 21:23:24 +0200</pubDate>
-      <guid>https://krakiun.com/tags/mindset/</guid>
+      <guid>http://localhost:1313/tags/mindset/</guid>
       <description></description>
     </item>
     <item>
       <title>Money</title>
-      <link>https://krakiun.com/tags/money/</link>
+      <link>http://localhost:1313/tags/money/</link>
       <pubDate>Sat, 11 Jan 2025 21:23:24 +0200</pubDate>
-      <guid>https://krakiun.com/tags/money/</guid>
+      <guid>http://localhost:1313/tags/money/</guid>
       <description></description>
     </item>
     <item>
       <title>Politica</title>
-      <link>https://krakiun.com/tags/politica/</link>
+      <link>http://localhost:1313/tags/politica/</link>
       <pubDate>Wed, 08 Jan 2025 20:27:51 +0200</pubDate>
-      <guid>https://krakiun.com/tags/politica/</guid>
+      <guid>http://localhost:1313/tags/politica/</guid>
       <description></description>
     </item>
     <item>
       <title>Idei De Afaceri</title>
-      <link>https://krakiun.com/tags/idei-de-afaceri/</link>
+      <link>http://localhost:1313/tags/idei-de-afaceri/</link>
       <pubDate>Sat, 28 Dec 2024 01:16:12 +0200</pubDate>
-      <guid>https://krakiun.com/tags/idei-de-afaceri/</guid>
+      <guid>http://localhost:1313/tags/idei-de-afaceri/</guid>
       <description></description>
     </item>
   </channel>

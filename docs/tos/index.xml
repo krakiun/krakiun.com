@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tos on KRAKIUN BLOG</title>
-    <link>https://krakiun.com/tos/</link>
+    <link>http://localhost:1313/tos/</link>
     <description>Recent content in Tos on KRAKIUN BLOG</description>
     <generator>Hugo</generator>
     <language>ro-ro</language>
-    <atom:link href="https://krakiun.com/tos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Termeni de Utilizare ValidateID</title>
-      <link>https://krakiun.com/tos/validateid/</link>
+      <link>http://localhost:1313/tos/validateid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://krakiun.com/tos/validateid/</guid>
+      <guid>http://localhost:1313/tos/validateid/</guid>
       <description>&lt;h2 id=&#34;1-informații-generale&#34;&gt;1. Informații generale&lt;/h2&gt;&#xA;&lt;p&gt;Aplicația &lt;strong&gt;ValidateID&lt;/strong&gt; este operată de &lt;strong&gt;Job Done SRL&lt;/strong&gt;, societate înregistrată în România, în calitate de &lt;strong&gt;operator de date cu caracter personal&lt;/strong&gt;, conform Regulamentului (UE) 2016/679 (GDPR).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Toate drepturile de proprietate intelectuală asupra aplicației, codului sursă, modelelor AI și platformei ValidateID sunt deținute de Crăciun Florentin Simion, în calitate de autor și titular exclusiv.&lt;/strong&gt; Job Done SRL gestionează operarea aplicației și relația cu utilizatorii, în baza unei licențe exclusive acordate de titular.&lt;/p&gt;</description>
     </item>
   </channel>
