@@ -1,7 +1,7 @@
 ---
 title: "Fonduri StartUp Nation 2025 – îți depun gratuit proiectul"
 date: 2025-04-04T03:01:32+03:00
-image: "/images/startup-nation.jpg"
+image: "/images/startup-nation.png"
 tags: ['startup','finantare']
 ---
 
