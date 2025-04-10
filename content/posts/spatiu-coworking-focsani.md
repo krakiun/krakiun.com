@@ -48,7 +48,7 @@ Dar **nu e pentru oricine**.
 Spațiul acesta există doar pentru cei care construiesc, creează și gândesc liber.
 
 Dacă te regăsești în ce-am scris aici,  
-**scrie-mi direct pe WhatsApp** – numărul meu e pe site. Cine trebuie, îl găsește.
+[**scrie-mi direct pe WhatsApp**](https://contact.krakiun.com/) – numărul meu e pe site. Cine trebuie, îl găsește.
 
 Nu răspund tuturor. Nu promit nimic.  
 Dar dacă te potrivești cu energia acestui spațiu, e posibil să fii primit.
