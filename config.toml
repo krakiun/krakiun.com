@@ -74,7 +74,7 @@ publishDir = "docs"
   logo = "/images/logo.png" # You can add own logo. For example "/images/logo.png".
   logo_dark = "/images/logo.png"
   description = "Krakiun Personal Blog"
-  color_scheme = "dark" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+  color_scheme = "light" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
   omitGeneratorTag = true
 
 
@@ -224,10 +224,16 @@ publishDir = "docs"
   # Footer Settings
 
   # Social Links
+
   [[params.social]]
-    icon = "fa-brands fa-facebook-f"
-    name = "Facebook"
-    link = "https://facebook.com/krakiunel"
+    icon = "fa-brands fa-github"
+    name = "GitHub"
+    link = "https://github.com/krakiun"
+
+  [[params.social]]
+    icon = "fa-solid fa-globe"
+    name = "Website"
+    link = "https://contact.krakiun.com"
 
   [[params.social]]
     icon = "fa-brands fa-tiktok"
@@ -238,22 +244,6 @@ publishDir = "docs"
     icon = "fa-brands fa-whatsapp"
     name = "Whatsapp Channel"
     link = "https://whatsapp.com/channel/0029VakQHnA1HspqYNArNu1y"
-
-  [[params.social]]
-    icon = "fa-brands fa-whatsapp"
-    name = "Whatsapp"
-    link = "https://wa.me/qr/VQ4WNKY7RKXXB1"
-
-
-  [[params.social]]
-    icon = "fa-brands fa-telegram"
-    name = "Telegram"
-    link = "https://t.me/krakiun"
-
-  [[params.social]]
-    icon = "fa-solid fa-envelope"
-    name = "Email"
-    link = "mailto:krakiun@gmail.com" 
 
 
   # Example of adding a new link to the footer section:

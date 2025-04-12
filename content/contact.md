@@ -11,7 +11,5 @@ Apreciez timpul și atenția investite în a mă contacta – acestea reflectă 
 
 Uite aici câteva metode de contact:
 
-- [Whatsapp](https://wa.me/qr/VQ4WNKY7RKXXB1)
-- [Telegram](https://t.me/@krakiun)
-- [Facebook](https://facebook.com/krakiunel)
-- [PGP Key](/pgp.asc)
+- [Pagina de Contact](https://contact.krakiun.com)
+- [PGP Key](/pgp.asc) - Pentru cunoscatori.
