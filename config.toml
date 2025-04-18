@@ -245,6 +245,17 @@ publishDir = "docs"
     name = "Whatsapp Channel"
     link = "https://whatsapp.com/channel/0029VakQHnA1HspqYNArNu1y"
 
+[[params.social]]
+  icon = "fa-brands fa-apple"
+  name = "AppStore"
+  link = "https://apps.apple.com/it/developer/florentin-craciun/id1654786897"
+
+
+[[params.social]]
+  icon = "fa-brands fa-google-play"
+  name = "Play Store"
+  link = "https://play.google.com/store/apps/dev?id=6845096219851550842"
+
 
   # Example of adding a new link to the footer section:
   # [[params.social]]
