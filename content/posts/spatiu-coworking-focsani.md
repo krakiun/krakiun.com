@@ -1,5 +1,5 @@
 ---
-title: "Spațiul CoWorking la Focșani pentru Antreprenori"
+title: "Spatiul CoWorking la Focsani pentru Antreprenori"
 date: 2025-04-04T02:38:00+03:00
 image: "/images/coworking-focsani.png"
 tags: ['CoWorking']
