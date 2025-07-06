@@ -25,9 +25,11 @@ Caut un **om care execută**. Care știe să ducă la capăt. Care iubește munc
 
 ## Ce pun eu pe masă:
 
+- O **Idee de Afacere Validata / Testata** care poate produce milioane de euro.
 - Un **produs funcțional** – MVP gata de lansare
 - Un **plan de business testat** – direcție clară, validată
 - Un **plan de marketing pregătit**, aplicabil imediat
+- **Ideal ar fi sa ai echipa**. - Optional, dar e un mare plus.
 - Suport strategic
 - Direcție. Claritate. Know-how.
 
@@ -41,7 +43,7 @@ Tot ce trebuie e să vii cu **implicare reală și capacitate de execuție**.
 - Să ai **bune abilități de comunicare** – inclusiv telefonic, cu potențiali parteneri, clienți sau colaboratori
 - Să fii **independent financiar pentru câteva luni** – adică să nu fii presat de facturi
 - Nu trebuie să investești bani în afacere. Dar trebuie să investești timp, energie și disciplină
-- Să ai **abilități reale în IT și marketing** – nu diplome, ci capacitatea de a te descurca singur
+- Să ai **abilități reale în IT și online marketing** – nu diplome, ci capacitatea de a te descurca singur
 - Să știi să rulezi campanii, să cauți, să pui în aplicare, să găsești soluții
 - Să ai experiență în **vânzări, marketing, execuție**
 - Să nu ai nevoie de cineva care îți explică în fiecare zi ce ai de făcut
