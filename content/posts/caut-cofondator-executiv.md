@@ -1,5 +1,5 @@
 ---
-title: "Caut un partener care știe să execute un plan și să-l transforme în realitate"
+title: "Caut un partener (cofounder) care știe să execute un plan și să-l transforme în realitate"
 date: 2025-07-06T18:35:03+03:00
 image: "/images/caut-partener.png"
 tags: ['cofounder', 'startup']
