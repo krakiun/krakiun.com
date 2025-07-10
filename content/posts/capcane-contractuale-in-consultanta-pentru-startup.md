@@ -1,5 +1,5 @@
 ---
-title: "Cum funcționează capcanele contractuale în consultanța pentru Start-Up Nation – Studiu de caz real DAMIAN GLOBAL BUSINESS S.R.L"
+title: "Cum funcționează capcanele contractuale in consultanta pentru Start-Up Nation – Studiu de caz real DAMIAN GLOBAL BUSINESS S.R.L"
 date: 2025-07-10T15:19:11+03:00
 image: "/images/capcane-contractuale-startup-nation.png"
 tags: ['startup', 'finantare', 'startup nation']
@@ -66,3 +66,63 @@ Din păcate, goana după fonduri nerambursabile a generat o industrie de contrac
 > Acest articol reprezintă o opinie personală, exprimată în baza unei experiențe reale și a analizei contractului primit de la DAMIAN GLOBAL BUSINESS S.R.L.  
 > Nu am primit nicio finanțare, nu am semnat contractul și nu am niciun interes financiar în promovarea sau denigrarea niciunei entități.  
 > Toate informațiile prezentate sunt extrase dintr-un document trimis direct de către companie și reflectă interpretarea mea în calitate de antreprenor.
+
+
+---
+
+În continuare, voi reda câteva dintre cele mai riscante și dezechilibrate clauze din contractul primit de la firma DAMIAN GLOBAL BUSINESS S.R.L., însoțite de comentariul meu personal.
+
+---
+
+### 📌 Art. 4.10 – Plata onorariului de succes, chiar dacă nu semnezi cu statul
+> "In cazul in care proiectul este aprobat, indiferent daca este semnat sau nu contractul de finantare cu autoritatea, Beneficiarul datoreaza onorariul de succes catre Prestator."
+
+**Comentariu:** Cu alte cuvinte, dacă proiectul este "aprobat" (adică trece de evaluarea AFIR sau altă instituție), dar tu decizi că nu mai vrei să continui – din lipsă de fonduri, schimbare de context, etc. – tot vei fi obligat să plătești între 10.000–17.500 lei. Este o clauză complet lipsită de flexibilitate, care te blochează financiar fără opțiune reală de retragere.
+
+---
+
+### 📌 Art. 4.13 – Penalizare de 50% dacă te răzgândești
+> "In cazul in care Beneficiarul decide sa nu mai continue proiectul dupa ce bugetul a fost acceptat, acesta va datora 50% din valoarea onorariului de succes."
+
+**Comentariu:** Nici măcar nu trebuie să fii declarat câștigător. Dacă consultantul zice că "bugetul a fost acceptat" (ceea ce nu înseamnă obținerea efectivă a finanțării), ești deja dator cu 50% din suma maximă.
+
+---
+
+### 📌 Art. 9.2 – Fidejusiunea: garantul răspunde cu tot ce are
+> "Garantul Fidejusor garanteaza personal si in solidar, cu toate bunurile sale mobile si imobile, prezente si viitoare, executarea obligatiilor asumate de catre Beneficiar."
+
+**Comentariu:** Asta înseamnă că, dacă nu plătești, firma poate merge direct la garantul tău (poate fi un prieten, părinte sau soție) și să îi execute bunurile. Este o practică folosită rar în consultanță, dar extrem de periculoasă pentru oricine nu citește contractul atent.
+
+---
+
+### 📌 Art. 12.1 – Renunțarea la protecții legale
+> "Garantul renunta la beneficiul de discutie si de diviziune."
+
+**Comentariu:** Prin această clauză, garantul nu mai poate cere ca firma să încerce întâi să recupereze banii de la tine. Se poate merge direct pe executarea garantului. Este o capcană legală gravă.
+
+---
+
+### 📌 Art. 8 – Nu poți rezilia contractul
+> "Beneficiarul nu are dreptul de a rezilia unilateral prezentul contract."
+
+**Comentariu:** Nu poți să te retragi legal, chiar dacă consideri că serviciul e nesatisfăcător sau dacă consultantul nu a livrat ceea ce a promis. Este o clauză abuzivă din punct de vedere comercial.
+
+---
+
+### 📌 Art. 11 – Clauza de confidențialitate
+> "Partile se obliga ca pe toata durata contractului si pe o perioada de 5 ani de la incetarea acestuia sa nu divulge informatii sau inscrisuri legate de colaborare."
+
+**Comentariu:** Această clauză poate fi folosită pentru a intimida clientul să nu vorbească public despre experiența avută. În realitate, ea nu poate bloca libera exprimare atunci când e vorba de fapte reale, de interes public.
+
+---
+
+## 7. Concluzie – ce poți învăța din acest caz
+
+Acest contract nu este doar dezechilibrat. Este construit în așa fel încât:
+- să încaseze oricum onorarii (indiferent de rezultat),
+- să blocheze legal clientul din orice încercare de retragere,
+- și să transfere riscul total asupra beneficiarului și garantului.
+
+Îndemn toți antreprenorii care citesc acest articol să citească fiecare pagină a oricărui contract primit și, mai ales, să nu cedeze presiunii consultantului de a semna rapid. Un contract care pare simplu la început poate ascunde obligații costisitoare și imposibil de evitat.
+
+Atenție la clauzele de tip "fidejusor", "onorariu garantat indiferent de rezultat" și "nerenunțabil" – acestea sunt semne clare că **nu este vorba de o colaborare, ci de o capcană juridică.**
