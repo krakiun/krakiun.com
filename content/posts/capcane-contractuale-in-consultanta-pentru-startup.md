@@ -61,7 +61,7 @@ Din păcate, goana după fonduri nerambursabile a generat o industrie de contrac
 
 ---
 
-## 🛡️ Disclaimer legal
+### 🛡️ Disclaimer legal
 
 > Acest articol reprezintă o opinie personală, exprimată în baza unei experiențe reale și a analizei contractului primit de la DAMIAN GLOBAL BUSINESS S.R.L.  
 > Nu am primit nicio finanțare, nu am semnat contractul și nu am niciun interes financiar în promovarea sau denigrarea niciunei entități.  
@@ -126,3 +126,8 @@ Acest contract nu este doar dezechilibrat. Este construit în așa fel încât:
 Îndemn toți antreprenorii care citesc acest articol să citească fiecare pagină a oricărui contract primit și, mai ales, să nu cedeze presiunii consultantului de a semna rapid. Un contract care pare simplu la început poate ascunde obligații costisitoare și imposibil de evitat.
 
 Atenție la clauzele de tip "fidejusor", "onorariu garantat indiferent de rezultat" și "nerenunțabil" – acestea sunt semne clare că **nu este vorba de o colaborare, ci de o capcană juridică.**
+
+
+
+## Notă legală:
+> În acest articol nu am publicat contractul integral și nu am inclus date personale sau comerciale sensibile, tocmai pentru a respecta clauza de confidențialitate și pentru a nu oferi niciun temei juridic care ar putea fi folosit împotriva mea. Toate fragmentele prezentate sunt citate parțiale, în scop de analiză și informare publică, în baza dreptului la opinie și exprimare liberă.
