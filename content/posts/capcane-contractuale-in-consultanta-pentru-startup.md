@@ -1,5 +1,5 @@
 ---
-title: "Cum funcționează capcanele contractuale in consultanta pentru Start-Up Nation – Studiu de caz real DAMIAN GLOBAL BUSINESS S.R.L"
+title: "Capcane contractuale în Start-Up Nation: ce am pățit cu firma DAMIAN GLOBAL BUSINESS S.R.L. – Studiu de caz"
 date: 2025-07-10T15:19:11+03:00
 image: "/images/capcane-contractuale-startup-nation.png"
 tags: ['startup', 'finantare', 'startup nation']
@@ -58,14 +58,6 @@ Plata inițială nu este pentru „scrierea proiectului”, ci o intrare într-u
 ## Concluzie
 
 Din păcate, goana după fonduri nerambursabile a generat o industrie de contracte păguboase. **Citiți, întrebați, comparați**. Un consultant onest nu vă va forța niciodată într-o obligație care vă poate ruina financiar fără să primiți nimic în schimb.
-
----
-
-### 🛡️ Disclaimer legal
-
-> Acest articol reprezintă o opinie personală, exprimată în baza unei experiențe reale și a analizei contractului primit de la DAMIAN GLOBAL BUSINESS S.R.L.  
-> Nu am primit nicio finanțare, nu am semnat contractul și nu am niciun interes financiar în promovarea sau denigrarea niciunei entități.  
-> Toate informațiile prezentate sunt extrase dintr-un document trimis direct de către companie și reflectă interpretarea mea în calitate de antreprenor.
 
 
 ---
@@ -128,6 +120,25 @@ Acest contract nu este doar dezechilibrat. Este construit în așa fel încât:
 Atenție la clauzele de tip "fidejusor", "onorariu garantat indiferent de rezultat" și "nerenunțabil" – acestea sunt semne clare că **nu este vorba de o colaborare, ci de o capcană juridică.**
 
 
+## 📨 Ai fost păgubit? Scrie-mi.
 
-## Notă legală:
-> În acest articol nu am publicat contractul integral și nu am inclus date personale sau comerciale sensibile, tocmai pentru a respecta clauza de confidențialitate și pentru a nu oferi niciun temei juridic care ar putea fi folosit împotriva mea. Toate fragmentele prezentate sunt citate parțiale, în scop de analiză și informare publică, în baza dreptului la opinie și exprimare liberă.
+Dacă ai avut o experiență similară cu această firmă sau ai semnat contractul și te simți păcălit(ă), te invit să îmi scrii un e-mail. Scopul este să adun mai multe cazuri documentate și, dacă se confirmă un tipar de abuz contractual sau înșelătorie, să formulăm o **plângere colectivă** către autoritățile competente (ANPC, ANSPDCP sau chiar o acțiune civilă/penală comună).
+
+✉️ **Trimite-mi un e-mail la:** `krakiun+plangere@gmail.com`  
+📎 Cu titlul: `Colaborare consultancytech`
+
+
+
+
+
+## 🛡️ Notă legală:
+
+Acest articol este redactat cu bună-credință și reflectă exclusiv experiența și opinia mea personală, în calitate de antreprenor.  
+Toate informațiile prezentate provin din documente primite direct de la compania DAMIAN GLOBAL BUSINESS S.R.L., fără a conține date cu caracter personal sau informații comerciale confidențiale protejate legal.
+
+Articolul nu exprimă acuzații penale, nu aduce atingeri reputației unei persoane fizice, și nu are caracter defăimător.  
+Scopul este exclusiv informativ și de interes public, pentru protejarea altor antreprenori de eventuale riscuri contractuale.
+
+Conform Art. 30 din Constituția României, libertatea de exprimare nu poate fi îngrădită pentru opinii sau informații de interes general, exprimate cu bună-credință.
+
+Nu am publicat contractul integral și nu am inclus fragmente ce ar putea constitui temei de acțiune juridică împotriva mea. Toate extrasele sunt prezentate sub forma unei analize critice, în scop educativ și preventiv.
