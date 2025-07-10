@@ -1,8 +1,8 @@
 ---
-title: "Cum funcționează capcanele contractuale în consultanța pentru Start-Up Nation – Studiu de caz real"
+title: "Cum funcționează capcanele contractuale în consultanța pentru Start-Up Nation – Studiu de caz real DAMIAN GLOBAL BUSINESS S.R.L"
 date: 2025-07-10T15:19:11+03:00
 image: "/images/capcane-contractuale-startup-nation.png"
-tags: []
+tags: ['startup', 'finantare', 'startup nation']
 ---
 
 În acest articol vreau să împărtășesc o experiență personală cu o firmă de consultanță care oferă „ajutor” în obținerea fondurilor nerambursabile prin Start-Up Nation. Scopul acestui articol nu este defăimarea, ci informarea altor antreprenori care ar putea semna contracte cu clauze păguboase, fără să înțeleagă riscurile reale.
