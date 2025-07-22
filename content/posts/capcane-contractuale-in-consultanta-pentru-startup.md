@@ -2,7 +2,7 @@
 title: "Capcane contractuale în Start-Up Nation: ce am pățit cu firma DAMIAN GLOBAL BUSINESS S.R.L. – Studiu de caz"
 date: 2025-07-10T15:19:11+03:00
 image: "/images/capcane-contractuale-startup-nation.png"
-tags: ['startup', 'finantare', 'startup nation']
+tags: ['startup', 'finantare', 'startup nation','consultancytech']
 ---
 
 În acest articol vreau să împărtășesc o experiență personală cu o firmă de consultanță care oferă „ajutor” în obținerea fondurilor nerambursabile prin Start-Up Nation. Scopul acestui articol nu este defăimarea, ci informarea altor antreprenori care ar putea semna contracte cu clauze păguboase, fără să înțeleagă riscurile reale.

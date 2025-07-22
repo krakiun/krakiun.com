@@ -2,7 +2,7 @@
 title: "Cum recunoști și cum răspunzi presiunii juridice folosite ca instrument de intimidare"
 date: 2025-07-22T15:33:44+03:00
 image: "/images/Cum recunoști și cum răspunzi presiunii juridice folosite ca instrument de intimidare.png"
-tags: []
+tags: ['consultancytech']
 ---
 
 
