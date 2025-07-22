@@ -3,6 +3,7 @@ title: "Fonduri StartUp Nation 2025 – îți depun gratuit proiectul"
 date: 2025-04-04T03:01:32+03:00
 image: "/images/startup-nation.png"
 tags: ['startup','finantare']
+draft: true
 ---
 
 Dacă ai o idee de afacere și vrei să accesezi fonduri prin **programul StartUp Nation**, pot să te ajut să faci asta simplu și rapid.

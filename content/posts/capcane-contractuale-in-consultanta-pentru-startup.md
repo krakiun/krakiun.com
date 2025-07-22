@@ -131,14 +131,20 @@ Dacă ai avut o experiență similară cu această firmă sau ai semnat contract
 
 
 
-## 🛡️ Notă legală:
+---
 
-Acest articol este redactat cu bună-credință și reflectă exclusiv experiența și opinia mea personală, în calitate de antreprenor.  
-Toate informațiile prezentate provin din documente primite direct de la compania DAMIAN GLOBAL BUSINESS S.R.L., fără a conține date cu caracter personal sau informații comerciale confidențiale protejate legal.
+🛡️ **Notă legală**
 
-Articolul nu exprimă acuzații penale, nu aduce atingeri reputației unei persoane fizice, și nu are caracter defăimător.  
-Scopul este exclusiv informativ și de interes public, pentru protejarea altor antreprenori de eventuale riscuri contractuale.
+Acest articol este redactat cu bună-credință și reflectă exclusiv experiența și opinia personală a autorului, în calitate de antreprenor.  
 
-Conform Art. 30 din Constituția României, libertatea de exprimare nu poate fi îngrădită pentru opinii sau informații de interes general, exprimate cu bună-credință.
+Informațiile prezentate provin dintr-un document transmis în etapa precontractuală, de la compania DAMIAN GLOBAL BUSINESS S.R.L., și nu conțin date cu caracter personal sau informații confidențiale protejate de vreo obligație juridică. Nu a existat și nu există o relație contractuală activă între autor și compania menționată.  
 
-Nu am publicat contractul integral și nu am inclus fragmente ce ar putea constitui temei de acțiune juridică împotriva mea. Toate extrasele sunt prezentate sub forma unei analize critice, în scop educativ și preventiv.
+Articolul nu este redactat cu intenția de a defăima sau prejudicia imaginea vreunei persoane și nu exprimă acuzații penale. Scopul este exclusiv informativ și preventiv – de interes public – pentru a ajuta alți antreprenori să înțeleagă riscurile asociate unor clauze contractuale dezechilibrate.  
+
+Conform Art. 30 din Constituția României și Art. 10 din Convenția Europeană a Drepturilor Omului, exprimarea unor opinii și fapte de interes general, cu bună-credință, este protejată legal.  
+
+Nu a fost publicat contractul integral și nu au fost incluse fragmente care pot constitui temei rezonabil de acțiune juridică împotriva autorului. Toate extrasele sunt prezentate în cadrul unei analize critice, cu scop educativ.  
+
+Persoanele sau entitățile vizate au dreptul de a transmite un punct de vedere oficial (drept la replică), care va fi publicat integral sub articol, cu mențiunea corespunzătoare.
+
+---
