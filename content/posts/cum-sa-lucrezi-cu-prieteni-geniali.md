@@ -1,6 +1,6 @@
 ---
 title: "Cum Sa Lucrezi Cu Prieteni Geniali ( Fara Conflicte )"
-date: 2025-12-06T00:07:05+02:00
+date: 2025-12-03T00:07:05+02:00
 image: "/images/Cum Sa Lucrezi Cu Prieteni Geniali.png"
 tags: []
 ---

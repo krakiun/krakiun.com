@@ -1,6 +1,6 @@
 ---
 title: "Nu fi Profesorul in afacerea ta - Fii Arhitectul"
-date: 2025-12-05T23:37:20+02:00
+date: 2025-12-01T23:37:20+02:00
 image: "/images/Nu fi Profesorul in afacerea ta - Fii Arhitectul.png"
 tags: []
 ---
