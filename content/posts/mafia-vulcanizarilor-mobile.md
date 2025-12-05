@@ -5,7 +5,6 @@ image: "/images/mafia-vulcanizarilor-mobile.png"
 tags: []
 ---
 
-## MAFIA VULCANIZARILOR MOBILE
 
 Au trecut doar două săptămâni de când testăm piața [vulcanizărilor mobile](https://vulcanizaremobila.com/) și, sincer, dacă nu aș fi pățit-o pe pielea mea, nu aș fi crezut.  
 Pe scurt: dacă vrei să intri în domeniul ăsta, pregătește-te să dai nas în nas nu doar cu cauciucurile sparte, ci și cu un sistem murdar, plin de „băieți deștepți” care fac orice ca să nu apară concurență.  
