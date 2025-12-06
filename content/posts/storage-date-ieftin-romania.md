@@ -3,6 +3,7 @@ title: "Storage Date Ieftin pentru 30+ Ani"
 date: 2025-04-18T17:07:10+03:00
 image: "/images/data-storage-LTO-romania.jpg"
 tags: []
+draft: true
 ---
 
 Trăim într-o lume în care totul e digital, dar aproape nimic nu e sigur pe termen lung. Oamenii își salvează pozele, videoclipurile, proiectele sau bazele de date pe hard discuri sau SSD-uri, uitând că aceste soluții nu rezistă în timp. Sunt rapide, dar nu fiabile pe termen lung. În 10-15 ani, riști să pierzi tot.
