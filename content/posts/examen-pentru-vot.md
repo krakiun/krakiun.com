@@ -3,6 +3,7 @@ title: "Vrei să decizi? Demonstrează că Știi Ce Votezi!"
 date: 2025-01-08T20:27:51+02:00
 image: "/images/examen-pentru-vot.png"
 tags: ['politica']
+draft: true
 ---
 
 Democrația actuală funcționează pe un principiu simplu: fiecare cetățean are un vot, iar greutatea acestuia este egală, indiferent de pregătirea, cunoștințele sau implicarea sa civică. Dar, oare, este corect ca decizia unui cetățean informat să aibă aceeași greutate cu cea a unui cetățean complet nepregătit? Eu cred că nu, iar soluția constă într-o reformă simplă, dar eficientă: **standardizarea votului și ajustarea greutății acestuia în funcție de nivelul de cunoștințe.**
