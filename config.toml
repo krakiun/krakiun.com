@@ -140,7 +140,7 @@ publishDir = "docs"
   # Projects Settings
   [params.projects]
     enable = true
-    projects_title= "Proiecte recente"
+    projects_title= "Proiecte in curs"
     projects_description= ""
 
 
