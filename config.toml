@@ -190,19 +190,19 @@ publishDir = "docs"
 
   [[params.faq_item]]
     title = "Oferi consultanță sau servicii personalizate?"
-    description = "Nu, nu ofer consultanță sau servicii personalizate. Aleg să-mi dedic timpul dezvoltării de produse, soluții automate și business-uri digitale care reflectă viziunea mea. Consider că acestea sunt cea mai bună expresie a cunoștințelor și experienței mele."
+    description = "Nu. Filozofia mea este să construiesc active, nu să vând ore. Îmi dedic timpul exclusiv dezvoltării de produse și sisteme automate. Cred că valoarea reală pe termen lung stă în a crea soluții scalabile, nu în a oferi servicii 1-la-1."
 
   [[params.faq_item]]
     title = "Pot colabora cu tine la un proiect? Dacă da, cum?"
-    description = "Da, colaborarea este posibilă, dar doar dacă ai cunoștințele, mijloacele sau resursele necesare pentru a contribui la îmbunătățirea proiectelor la care lucrez. Caut parteneri care pot aduce valoare reală și care împărtășesc aceeași viziune și pasiune pentru inovație și tehnologie. În schimbul ajutorului oferit, pot oferi recompense precum tokene, acțiuni sau NFT-uri din proiectul la care contribuim împreună. Dacă te simți pregătit să aduci un aport semnificativ, te invit să mă contactezi prin datele din pagina de contact."
+    description = "Sunt mereu în căutarea unor parteneri excepționali, nu doar a unor colaboratori. Caut oameni care aduc o competență de top și o aliniere totală la viziune. Parteneriatele strategice, în special cele de tip co-fondator, sunt structurate pe performanță și angajament pe termen lung, cu equity acordat pe baza unor obiective clare, dovedite. Nu ofer acțiuni pe promisiuni."
 
   [[params.faq_item]]
     title = "Cum pot să iau legătura cu tine pentru a discuta ?"
-    description = "Pentru a lua legătura cu mine și a discuta idei, te invit să folosești informațiile disponibile în pagina de contact a acestui blog. Fie că este vorba despre un e-mail, whatsapp, telegram, voi răspunde cu plăcere dacă ideile tale sunt relevante și bine fundamentate. Îmi rezerv timpul pentru discuții care aduc valoare reală proiectelor mele, așa că asigură-te că mesajul tău este clar și concis. Aștept cu interes să descopăr idei noi și perspective inovatoare!"
+    description = "Cel mai eficient mod este prin pagina de contact. Prioritizez conversațiile strategice și propunerile bine articulate. Nu am timp pentru discuții superficiale, dar răspund întotdeauna cu interes mesajelor care demonstrează substanță și potențial real."
 
   [[params.faq_item]]
     title = "Cum pot susține proiectele tale?"
-    description = "Poți susține proiectele mele în mai multe moduri, în funcție de resursele și expertiza pe care le poți oferi. Fie că este vorba despre idei noi, feedback constructiv, resurse tehnice, sau chiar sprijin financiar, fiecare contribuție contează. Dacă dorești să te implici, mă poți contacta prin pagina de contact pentru a discuta detaliile."
+    description = "Cel mai valoros sprijin este cel strategic. O introducere către un partener relevant, un feedback pertinent bazat pe o expertiză profundă sau o oportunitate de piață pe care nu am văzut-o sunt mult mai valoroase decât orice altceva. Pentru oportunități de investiții, procesul este unul structurat și se discută separat."
 
 
   #-------------------------------
