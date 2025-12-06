@@ -3,6 +3,7 @@ title: "Cum să găsești un Business Angel în România pentru afacerea ta digi
 date: 2025-01-20T12:10:13+02:00
 image: "/images/business-angel-romania.png"
 tags: ['startup']
+draft: true
 ---
 
 Când vine vorba de lansarea unei afaceri digitale inovatoare, multe idei geniale rămân doar în stadiul de concept din cauza lipsei de finanțare. Într-o piață saturată cu idei comune și afaceri ușor de replicat, adevărata inovație are nevoie de mai mult decât bani: are nevoie de sprijin strategic, de conexiuni și de validare. Aici intervine un Business Angel.
