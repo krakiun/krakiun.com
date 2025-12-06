@@ -49,3 +49,5 @@ Gândirea asimetrică nu este doar o tactică de marketing. Este o filozofie de 
 
 Aceasta este mentalitatea pe care o aduc în fiecare proiect pe care îl construiesc.
 Nu ne vom lupta cu competitorii pe Google Ads. Vom crea propriul nostru joc. Și îl vom câștiga.
+
+Nu mă crede pe cuvânt. Caută pe Google 'bancomat bitcoin capra'.
