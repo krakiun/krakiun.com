@@ -3,6 +3,7 @@ title: "Caut Partener Energetic Pentru Lansarea Publica a Modelului Private Ai"
 date: 2025-10-27T00:48:31+02:00
 image: "/images/caut-partener-energetic-pentru-lansarea-publica-a-modelului-private-ai.png"
 tags: ["inteligență artificială", "cercetare AI", 'fine tuning', "Private Ai", "AI românesc", "Harvard"]
+draft: true
 ---
 
 

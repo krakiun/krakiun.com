@@ -2,7 +2,7 @@
 title: "Cum Am Generat Publicitate De 100.000 euro cu o Capra Si Zero Buget"
 date: 2025-12-06T02:49:10+02:00
 image: "/images/bancomat-bitcoin-capra.png"
-tags: []
+tags: ["guerilla marketing"]
 ---
 
 În lumea marketingului digital, majoritatea oamenilor joacă un joc simetric: cine are bugetul mai mare pentru reclame, câștigă. Este un joc plictisitor și costisitor.

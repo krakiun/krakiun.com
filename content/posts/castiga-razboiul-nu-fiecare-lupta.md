@@ -2,7 +2,7 @@
 title: "Castiga Razboiul Nu Fiecare Lupta"
 date: 2025-12-05T01:22:53+02:00
 image: "/images/Castiga Razboiul Nu Fiecare Lupta.png"
-tags: []
+tags: ["mindset"]
 ---
 
 În primii mei ani de antreprenoriat, operam sub o iluzie periculoasă: credeam că fiecare dezacord este o bătălie care trebuie câștigată. Fiecare ședință, o arenă. Fiecare negociere, un meci de orgolii. Eram înarmat cu fapte, logică și o dorință arzătoare de a demonstra că am dreptate. Și, de cele mai multe ori, o făceam. Ieșeam din încăpere cu un sentiment de victorie, lăsând în urmă "învinși".
