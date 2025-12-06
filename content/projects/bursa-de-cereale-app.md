@@ -3,6 +3,7 @@ title: "Vinde / Cumpara cereale fara intermediari - Bursa de Cereale"
 date: 2025-05-14T21:37:06+03:00
 image: "/images/Bursa de Cereale.png"
 tags: []
+draft: true
 ---
 
 **Bursa de Cereale** este o aplicație care schimbă complet modul în care se tranzacționează cerealele în România.  
