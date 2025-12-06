@@ -28,3 +28,7 @@ Astăzi, sistemul meu este complet diferit. L-am numit sistemul "Încredere Zero
 Eșecul `jobdone.net` m-a costat enorm. Dar m-a învățat ceva ce nicio școală de business nu ar fi putut: **valoarea reală a unui parteneriat nu stă în promisiuni, ci în rezultate dovedite.**
 
 Această cicatrice m-a forțat să construiesc sisteme de verificare, să aliniez interesele prin mecanisme clare și să fiu mult mai precaut în alegerea partenerilor. Și, paradoxal, această prudență extremă este ceea ce îmi dă astăzi curajul de a construi proiecte și mai mari și mai ambițioase. Pentru că acum știu exact ce greșeli să nu mai repet niciodată.
+
+-------
+
+Povestea cu jobdone.net a inceput in 2013 ( adica acum aproximativ 12 ani, la vreme respectiva nu eram pregatit sa fiu antreprenor )
