@@ -56,7 +56,7 @@ Caut pe cineva care poate funcționa singur, dar construiește în echipă.
 
 ## Cum va funcționa parteneriatul:
 
-- Se poate ajunge până la **45% din afacere**, oferit **eșalonat** în funcție de rezultate reale
+- Se poate ajunge până la **35% din afacere**, oferit **eșalonat** în funcție de rezultate reale
 - Nu primești nimic doar pentru “că ești aici”
 - Totul se acordă pe **milestone-uri clare**: MVP lansat, clienți activi, venituri generate etc.
 - Dacă în **3 luni** nu ai lansat nimic, colaborarea se oprește

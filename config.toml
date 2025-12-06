@@ -2,7 +2,7 @@
 # General Site Settings
 baseURL = "https://krakiun.com/"
 languageCode = "ro-ro"
-title = "Craciun Florentin Simion - [CEO]"
+title = "Craciun Florentin Simion"
 googleAnalytics = "G-VPWWV8F4X9"
 publishDir = "docs"
 
