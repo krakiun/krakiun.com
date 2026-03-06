@@ -2,7 +2,7 @@
 title: "Extensie Chrome pentru Afm - Fotovoltaice"
 date: 2026-03-06T17:26:39+02:00
 image: "/images/extensie-chrome-afm.png"
-tags: []
+tags: ["afm casa verde", "casa verde inscrieri", "Extensie AFM"]
 ---
 
 De obicei, sunt extrem de reținut în a publica succesele mele. Am un motiv întemeiat, despre care voi vorbi mai jos, dar astăzi voi face o excepție. Vreau să vă prezint un „case story” despre cum o nevoie personală, un mic script și un video pe YouTube s-au transformat într-un produs vândut către 881 de clienți, generând o lecție valoroasă despre piața locală și puterea de a împărtăși ceea ce faci.
