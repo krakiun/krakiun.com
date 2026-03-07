@@ -193,6 +193,10 @@ publishDir = "docs"
     description = "Nu. Filozofia mea este să construiesc active, nu să vând ore. Îmi dedic timpul exclusiv dezvoltării de produse și sisteme automate. Cred că valoarea reală pe termen lung stă în a crea soluții scalabile, nu în a oferi servicii 1-la-1."
 
   [[params.faq_item]]
+    title = "Lucrezi singur la proiecte?"
+    description = "Nu. Majoritatea proiectelor sunt dezvoltate împreună cu o echipă restrânsă de colaboratori. În ultimii ani am lucrat constant cu 1–7 persoane, în funcție de proiect. Rolul meu principal este definirea strategiei, arhitecturii tehnice și a direcției produsului. Implementarea este împărțită între membrii echipei prin sisteme de lucru și procese bine definite. Contribui direct la cod atunci când proiectele implică probleme tehnice complexe."
+    
+  [[params.faq_item]]
     title = "Pot colabora cu tine la un proiect? Dacă da, cum?"
     description = "Sunt mereu în căutarea unor parteneri excepționali, nu doar a unor colaboratori. Caut oameni care aduc o competență de top și o aliniere totală la viziune. Parteneriatele strategice, în special cele de tip co-fondator, sunt structurate pe performanță și angajament pe termen lung, cu equity acordat pe baza unor obiective clare, dovedite. Nu ofer acțiuni pe promisiuni."
 
