@@ -35,7 +35,7 @@
   </div>
 
   <div class="explore-tags">
-    <h2>Explore:</h2>
+    <h2>{{ i18n "explore" }}</h2>
     <div class="tag-cloud">
     {{ $tags := .Site.Taxonomies.tags }}
     {{ range $name, $taxonomy := $tags }}
@@ -51,7 +51,7 @@
 <section class="section">
   <div class="container">
     <div class="row grid">
-    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts" ) }}
+    {{ $paginator := .Paginate (where (where .Site.RegularPages "Type" "posts") "Lang" .Lang) }}
     {{ range $paginator.Pages }}
       {{ partial "article" . }}
     {{ end }}

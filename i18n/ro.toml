@@ -1,0 +1,70 @@
+# Romanian translations
+
+[see_all_posts]
+other = "Vezi toate articolele"
+
+[related_posts]
+other = "Articole similare"
+
+[in_case_you_missed]
+other = "În caz că ai ratat"
+
+[explore]
+other = "Explorează:"
+
+[by]
+other = "De"
+
+[back_to_homepage]
+other = "Înapoi acasă"
+
+[page_not_found]
+other = "Pagina solicitată nu a fost găsită."
+
+[your_name]
+other = "Numele tău"
+
+[your_email]
+other = "Email-ul tău"
+
+[your_message]
+other = "Mesajul tău"
+
+[send_message]
+other = "Trimite mesaj"
+
+[all_rights_reserved]
+other = "Toate drepturile rezervate."
+
+[dark_mode]
+other = "Întunecat"
+
+[light_mode]
+other = "Luminos"
+
+[share_on_facebook]
+other = "Distribuie pe Facebook"
+
+[share_on_twitter]
+other = "Distribuie pe Twitter"
+
+[share_on_pinterest]
+other = "Distribuie pe Pinterest"
+
+[share_on_linkedin]
+other = "Distribuie pe LinkedIn"
+
+[load_more_posts]
+other = "Încarcă mai multe"
+
+[email_address]
+other = "Adresa de email"
+
+[subscribe]
+other = "Abonează-te"
+
+[read_more]
+other = "Citește mai mult"
+
+[contact_me]
+other = "Contactează-mă"

@@ -15,8 +15,8 @@
     </div>
 
     <div class="row">
-      {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts" | first 3 ) }}
-      {{ range $paginator.Pages }}
+      {{ $posts := where (where .Site.RegularPages "Type" "posts") "Lang" .Lang | first 3 }}
+      {{ range $posts }}
         {{ partial "article.html" . }}
       {{ end }}
     </div>
@@ -24,7 +24,7 @@
   </div>
 
   <div class="section__navigation">
-    <a href="/posts" class="section__link">See all posts</a>
+    <a href="{{ "posts" | relLangURL }}" class="section__link">{{ i18n "see_all_posts" }}</a>
   </div>
 </section>
 <!-- end blog -->

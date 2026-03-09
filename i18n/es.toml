@@ -1,0 +1,70 @@
+# Spanish translations
+
+[see_all_posts]
+other = "Ver todos los artículos"
+
+[related_posts]
+other = "Artículos relacionados"
+
+[in_case_you_missed]
+other = "Por si te lo perdiste"
+
+[explore]
+other = "Explorar:"
+
+[by]
+other = "Por"
+
+[back_to_homepage]
+other = "Volver al inicio"
+
+[page_not_found]
+other = "La página solicitada no se encontró."
+
+[your_name]
+other = "Tu nombre"
+
+[your_email]
+other = "Tu email"
+
+[your_message]
+other = "Tu mensaje"
+
+[send_message]
+other = "Enviar mensaje"
+
+[all_rights_reserved]
+other = "Todos los derechos reservados."
+
+[dark_mode]
+other = "Oscuro"
+
+[light_mode]
+other = "Claro"
+
+[share_on_facebook]
+other = "Compartir en Facebook"
+
+[share_on_twitter]
+other = "Compartir en Twitter"
+
+[share_on_pinterest]
+other = "Compartir en Pinterest"
+
+[share_on_linkedin]
+other = "Compartir en LinkedIn"
+
+[load_more_posts]
+other = "Cargar más artículos"
+
+[email_address]
+other = "Correo electrónico"
+
+[subscribe]
+other = "Suscribirse"
+
+[read_more]
+other = "Leer más"
+
+[contact_me]
+other = "Contáctame"

@@ -1,10 +1,372 @@
 #-------------------------------
 # General Site Settings
 baseURL = "https://krakiun.com/"
-languageCode = "ro-ro"
 title = "Craciun Florentin Simion"
 googleAnalytics = "G-VPWWV8F4X9"
 publishDir = "docs"
+
+#-------------------------------
+# Multi-Language Settings
+defaultContentLanguage = "ro"
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.ro]
+    languageCode = "ro-RO"
+    languageName = "Română"
+    weight = 1
+    contentDir = "content/ro"
+    [languages.ro.params]
+      description = "Blog personal Krakiun"
+      [languages.ro.params.hero]
+        enable = true
+        hero_title = "growth strategist."
+        hero_description = "Sunt un strateg neconvențional, în căutarea soluțiilor simple pentru provocările complexe."
+      [languages.ro.params.blog]
+        enable = true
+        blog_intro = "Ce e nou?"
+        blog_title = "Ultimele de pe blog"
+      [languages.ro.params.author_section]
+        enable = true
+        author_section_title = "Salut 👋 !  Bine ai venit în colțul meu digital – locul unde ideile prind viață."
+        author_section_description = "Dacă împărtășești pasiunea pentru inovație, tehnologie și soluții digitale, mi-ar plăcea să aud de la tine. Scrie-mi și hai să explorăm împreună noi oportunități!"
+        author_section_button_text = "Hai să discutăm!"
+      [languages.ro.params.featured]
+        enable = true
+        featured_title = "Proiecte"
+      [languages.ro.params.projects]
+        enable = true
+        projects_title = "Proiecte în curs"
+      [languages.ro.params.faq]
+        enable = true
+        faq_intro = "Ai nevoie de răspunsuri?"
+        faq_title = "Întrebări frecvente"
+
+  [[languages.ro.params.faq_item]]
+    title = "Oferi consultanță sau servicii personalizate?"
+    description = "Nu. Filozofia mea este să construiesc active, nu să vând ore. Îmi dedic timpul exclusiv dezvoltării de produse și sisteme automate. Cred că valoarea reală pe termen lung stă în a crea soluții scalabile, nu în a oferi servicii 1-la-1."
+
+  [[languages.ro.params.faq_item]]
+    title = "Lucrezi singur la proiecte?"
+    description = "Nu. Majoritatea proiectelor sunt dezvoltate împreună cu o echipă restrânsă de colaboratori. În ultimii ani am lucrat constant cu 1–7 persoane, în funcție de proiect. Rolul meu principal este definirea strategiei, arhitecturii tehnice și a direcției produsului."
+
+  [[languages.ro.params.faq_item]]
+    title = "Pot colabora cu tine la un proiect? Dacă da, cum?"
+    description = "Sunt mereu în căutarea unor parteneri excepționali, nu doar a unor colaboratori. Caut oameni care aduc o competență de top și o aliniere totală la viziune. Parteneriatele strategice sunt structurate pe performanță și angajament pe termen lung."
+
+  [[languages.ro.params.faq_item]]
+    title = "Cum pot să iau legătura cu tine pentru a discuta?"
+    description = "Cel mai eficient mod este prin pagina de contact. Prioritizez conversațiile strategice și propunerile bine articulate. Nu am timp pentru discuții superficiale, dar răspund întotdeauna cu interes mesajelor care demonstrează substanță și potențial real."
+
+  [[languages.ro.params.faq_item]]
+    title = "Cum pot susține proiectele tale?"
+    description = "Cel mai valoros sprijin este cel strategic. O introducere către un partener relevant, un feedback pertinent bazat pe o expertiză profundă sau o oportunitate de piață pe care nu am văzut-o sunt mult mai valoroase decât orice altceva."
+
+  [languages.en]
+    languageCode = "en-US"
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+    [languages.en.params]
+      description = "Krakiun Personal Blog"
+      [languages.en.params.hero]
+        enable = true
+        hero_title = "growth strategist."
+        hero_description = "I'm an unconventional strategist, seeking simple solutions for complex challenges."
+      [languages.en.params.blog]
+        enable = true
+        blog_intro = "What's new?"
+        blog_title = "Latest from the blog"
+      [languages.en.params.author_section]
+        enable = true
+        author_section_title = "Hi 👋 ! Welcome to my digital corner – the place where ideas come to life."
+        author_section_description = "If you share the passion for innovation, technology and digital solutions, I'd love to hear from you. Write to me and let's explore new opportunities together!"
+        author_section_button_text = "Let's talk!"
+      [languages.en.params.featured]
+        enable = true
+        featured_title = "Projects"
+      [languages.en.params.projects]
+        enable = true
+        projects_title = "Current projects"
+      [languages.en.params.faq]
+        enable = true
+        faq_intro = "Need answers?"
+        faq_title = "Frequently asked questions"
+
+  [[languages.en.params.faq_item]]
+    title = "Do you offer consulting or personalized services?"
+    description = "No. My philosophy is to build assets, not sell hours. I dedicate my time exclusively to developing products and automated systems. I believe that real long-term value lies in creating scalable solutions, not in offering 1-on-1 services."
+
+  [[languages.en.params.faq_item]]
+    title = "Do you work alone on projects?"
+    description = "No. Most projects are developed together with a small team of collaborators. In recent years, I've consistently worked with 1-7 people, depending on the project. My main role is defining strategy, technical architecture, and product direction."
+
+  [[languages.en.params.faq_item]]
+    title = "Can I collaborate with you on a project? If so, how?"
+    description = "I'm always looking for exceptional partners, not just collaborators. I look for people who bring top-tier competence and total alignment with the vision. Strategic partnerships are structured on performance and long-term commitment."
+
+  [[languages.en.params.faq_item]]
+    title = "How can I get in touch with you to discuss?"
+    description = "The most efficient way is through the contact page. I prioritize strategic conversations and well-articulated proposals. I don't have time for superficial discussions, but I always respond with interest to messages that demonstrate substance and real potential."
+
+  [[languages.en.params.faq_item]]
+    title = "How can I support your projects?"
+    description = "The most valuable support is strategic. An introduction to a relevant partner, pertinent feedback based on deep expertise, or a market opportunity I haven't seen are much more valuable than anything else."
+
+  [languages.it]
+    languageCode = "it-IT"
+    languageName = "Italiano"
+    weight = 3
+    contentDir = "content/it"
+    [languages.it.params]
+      description = "Blog personale Krakiun"
+      [languages.it.params.hero]
+        enable = true
+        hero_title = "growth strategist."
+        hero_description = "Sono uno stratega non convenzionale, alla ricerca di soluzioni semplici per sfide complesse."
+      [languages.it.params.blog]
+        enable = true
+        blog_intro = "Cosa c'è di nuovo?"
+        blog_title = "Ultimi dal blog"
+      [languages.it.params.author_section]
+        enable = true
+        author_section_title = "Ciao 👋 ! Benvenuto nel mio angolo digitale – il posto dove le idee prendono vita."
+        author_section_description = "Se condividi la passione per l'innovazione, la tecnologia e le soluzioni digitali, mi piacerebbe sentirti. Scrivimi e esploriamo insieme nuove opportunità!"
+        author_section_button_text = "Parliamone!"
+      [languages.it.params.featured]
+        enable = true
+        featured_title = "Progetti"
+      [languages.it.params.projects]
+        enable = true
+        projects_title = "Progetti in corso"
+      [languages.it.params.faq]
+        enable = true
+        faq_intro = "Hai bisogno di risposte?"
+        faq_title = "Domande frequenti"
+
+  [[languages.it.params.faq_item]]
+    title = "Offri consulenza o servizi personalizzati?"
+    description = "No. La mia filosofia è costruire asset, non vendere ore. Dedico il mio tempo esclusivamente allo sviluppo di prodotti e sistemi automatizzati. Credo che il vero valore a lungo termine stia nel creare soluzioni scalabili, non nell'offrire servizi 1-a-1."
+
+  [[languages.it.params.faq_item]]
+    title = "Lavori da solo sui progetti?"
+    description = "No. La maggior parte dei progetti viene sviluppata insieme a un piccolo team di collaboratori. Negli ultimi anni ho lavorato costantemente con 1-7 persone, a seconda del progetto. Il mio ruolo principale è definire strategia, architettura tecnica e direzione del prodotto."
+
+  [[languages.it.params.faq_item]]
+    title = "Posso collaborare con te su un progetto? Se sì, come?"
+    description = "Sono sempre alla ricerca di partner eccezionali, non solo collaboratori. Cerco persone che portino competenze di alto livello e un allineamento totale con la visione. Le partnership strategiche sono strutturate su performance e impegno a lungo termine."
+
+  [[languages.it.params.faq_item]]
+    title = "Come posso contattarti per discutere?"
+    description = "Il modo più efficiente è attraverso la pagina di contatto. Prioritizzo conversazioni strategiche e proposte ben articolate. Non ho tempo per discussioni superficiali, ma rispondo sempre con interesse ai messaggi che dimostrano sostanza e potenziale reale."
+
+  [[languages.it.params.faq_item]]
+    title = "Come posso supportare i tuoi progetti?"
+    description = "Il supporto più prezioso è quello strategico. Un'introduzione a un partner rilevante, un feedback pertinente basato su competenze profonde o un'opportunità di mercato che non ho visto sono molto più preziosi di qualsiasi altra cosa."
+
+  [languages.es]
+    languageCode = "es-ES"
+    languageName = "Español"
+    weight = 4
+    contentDir = "content/es"
+    [languages.es.params]
+      description = "Blog personal Krakiun"
+      [languages.es.params.hero]
+        enable = true
+        hero_title = "growth strategist."
+        hero_description = "Soy un estratega no convencional, buscando soluciones simples para desafíos complejos."
+      [languages.es.params.blog]
+        enable = true
+        blog_intro = "¿Qué hay de nuevo?"
+        blog_title = "Últimas del blog"
+      [languages.es.params.author_section]
+        enable = true
+        author_section_title = "¡Hola 👋 ! Bienvenido a mi rincón digital – el lugar donde las ideas cobran vida."
+        author_section_description = "Si compartes la pasión por la innovación, la tecnología y las soluciones digitales, me encantaría saber de ti. ¡Escríbeme y exploremos juntos nuevas oportunidades!"
+        author_section_button_text = "¡Hablemos!"
+      [languages.es.params.featured]
+        enable = true
+        featured_title = "Proyectos"
+      [languages.es.params.projects]
+        enable = true
+        projects_title = "Proyectos en curso"
+      [languages.es.params.faq]
+        enable = true
+        faq_intro = "¿Necesitas respuestas?"
+        faq_title = "Preguntas frecuentes"
+
+  [[languages.es.params.faq_item]]
+    title = "¿Ofreces consultoría o servicios personalizados?"
+    description = "No. Mi filosofía es construir activos, no vender horas. Dedico mi tiempo exclusivamente al desarrollo de productos y sistemas automatizados. Creo que el verdadero valor a largo plazo está en crear soluciones escalables, no en ofrecer servicios 1-a-1."
+
+  [[languages.es.params.faq_item]]
+    title = "¿Trabajas solo en los proyectos?"
+    description = "No. La mayoría de los proyectos se desarrollan junto con un pequeño equipo de colaboradores. En los últimos años he trabajado constantemente con 1-7 personas, dependiendo del proyecto. Mi rol principal es definir estrategia, arquitectura técnica y dirección del producto."
+
+  [[languages.es.params.faq_item]]
+    title = "¿Puedo colaborar contigo en un proyecto? Si es así, ¿cómo?"
+    description = "Siempre estoy buscando socios excepcionales, no solo colaboradores. Busco personas que aporten competencias de primer nivel y una alineación total con la visión. Las asociaciones estratégicas están estructuradas en rendimiento y compromiso a largo plazo."
+
+  [[languages.es.params.faq_item]]
+    title = "¿Cómo puedo contactarte para discutir?"
+    description = "La forma más eficiente es a través de la página de contacto. Priorizo conversaciones estratégicas y propuestas bien articuladas. No tengo tiempo para discusiones superficiales, pero siempre respondo con interés a los mensajes que demuestran sustancia y potencial real."
+
+  [[languages.es.params.faq_item]]
+    title = "¿Cómo puedo apoyar tus proyectos?"
+    description = "El apoyo más valioso es el estratégico. Una introducción a un socio relevante, un feedback pertinente basado en experiencia profunda o una oportunidad de mercado que no he visto son mucho más valiosos que cualquier otra cosa."
+
+  [languages.de]
+    languageCode = "de-DE"
+    languageName = "Deutsch"
+    weight = 5
+    contentDir = "content/de"
+    [languages.de.params]
+      description = "Krakiun Persönlicher Blog"
+      [languages.de.params.hero]
+        enable = true
+        hero_title = "growth strategist."
+        hero_description = "Ich bin ein unkonventioneller Stratege auf der Suche nach einfachen Lösungen für komplexe Herausforderungen."
+      [languages.de.params.blog]
+        enable = true
+        blog_intro = "Was gibt's Neues?"
+        blog_title = "Neueste Blogbeiträge"
+      [languages.de.params.author_section]
+        enable = true
+        author_section_title = "Hallo 👋 ! Willkommen in meiner digitalen Ecke – dem Ort, wo Ideen zum Leben erwachen."
+        author_section_description = "Wenn du die Leidenschaft für Innovation, Technologie und digitale Lösungen teilst, würde ich gerne von dir hören. Schreib mir und lass uns gemeinsam neue Möglichkeiten erkunden!"
+        author_section_button_text = "Lass uns reden!"
+      [languages.de.params.featured]
+        enable = true
+        featured_title = "Projekte"
+      [languages.de.params.projects]
+        enable = true
+        projects_title = "Aktuelle Projekte"
+      [languages.de.params.faq]
+        enable = true
+        faq_intro = "Brauchst du Antworten?"
+        faq_title = "Häufig gestellte Fragen"
+
+  [[languages.de.params.faq_item]]
+    title = "Bietest du Beratung oder personalisierte Dienstleistungen an?"
+    description = "Nein. Meine Philosophie ist es, Vermögenswerte aufzubauen, nicht Stunden zu verkaufen. Ich widme meine Zeit ausschließlich der Entwicklung von Produkten und automatisierten Systemen. Ich glaube, dass der wahre langfristige Wert darin liegt, skalierbare Lösungen zu schaffen, nicht 1-zu-1-Dienstleistungen anzubieten."
+
+  [[languages.de.params.faq_item]]
+    title = "Arbeitest du alleine an Projekten?"
+    description = "Nein. Die meisten Projekte werden zusammen mit einem kleinen Team von Mitarbeitern entwickelt. In den letzten Jahren habe ich je nach Projekt konstant mit 1-7 Personen zusammengearbeitet. Meine Hauptrolle ist die Definition von Strategie, technischer Architektur und Produktrichtung."
+
+  [[languages.de.params.faq_item]]
+    title = "Kann ich mit dir an einem Projekt zusammenarbeiten? Wenn ja, wie?"
+    description = "Ich bin immer auf der Suche nach außergewöhnlichen Partnern, nicht nur nach Mitarbeitern. Ich suche Menschen, die erstklassige Kompetenz und vollständige Übereinstimmung mit der Vision mitbringen. Strategische Partnerschaften sind auf Leistung und langfristiges Engagement ausgerichtet."
+
+  [[languages.de.params.faq_item]]
+    title = "Wie kann ich dich für ein Gespräch kontaktieren?"
+    description = "Der effizienteste Weg ist über die Kontaktseite. Ich priorisiere strategische Gespräche und gut formulierte Vorschläge. Ich habe keine Zeit für oberflächliche Diskussionen, aber ich antworte immer mit Interesse auf Nachrichten, die Substanz und echtes Potenzial zeigen."
+
+  [[languages.de.params.faq_item]]
+    title = "Wie kann ich deine Projekte unterstützen?"
+    description = "Die wertvollste Unterstützung ist strategischer Natur. Eine Vorstellung bei einem relevanten Partner, fundiertes Feedback basierend auf tiefem Fachwissen oder eine Marktchance, die ich nicht gesehen habe, sind viel wertvoller als alles andere."
+
+  [languages.fr]
+    languageCode = "fr-FR"
+    languageName = "Français"
+    weight = 6
+    contentDir = "content/fr"
+    [languages.fr.params]
+      description = "Blog personnel Krakiun"
+      [languages.fr.params.hero]
+        enable = true
+        hero_title = "growth strategist."
+        hero_description = "Je suis un stratège non conventionnel, à la recherche de solutions simples pour des défis complexes."
+      [languages.fr.params.blog]
+        enable = true
+        blog_intro = "Quoi de neuf?"
+        blog_title = "Derniers articles du blog"
+      [languages.fr.params.author_section]
+        enable = true
+        author_section_title = "Salut 👋 ! Bienvenue dans mon coin digital – l'endroit où les idées prennent vie."
+        author_section_description = "Si tu partages la passion pour l'innovation, la technologie et les solutions digitales, j'aimerais avoir de tes nouvelles. Écris-moi et explorons ensemble de nouvelles opportunités!"
+        author_section_button_text = "Discutons!"
+      [languages.fr.params.featured]
+        enable = true
+        featured_title = "Projets"
+      [languages.fr.params.projects]
+        enable = true
+        projects_title = "Projets en cours"
+      [languages.fr.params.faq]
+        enable = true
+        faq_intro = "Besoin de réponses?"
+        faq_title = "Questions fréquentes"
+
+  [[languages.fr.params.faq_item]]
+    title = "Offres-tu du conseil ou des services personnalisés?"
+    description = "Non. Ma philosophie est de construire des actifs, pas de vendre des heures. Je consacre mon temps exclusivement au développement de produits et de systèmes automatisés. Je crois que la vraie valeur à long terme réside dans la création de solutions évolutives, pas dans l'offre de services 1-à-1."
+
+  [[languages.fr.params.faq_item]]
+    title = "Travailles-tu seul sur les projets?"
+    description = "Non. La plupart des projets sont développés avec une petite équipe de collaborateurs. Ces dernières années, j'ai constamment travaillé avec 1 à 7 personnes, selon le projet. Mon rôle principal est de définir la stratégie, l'architecture technique et la direction du produit."
+
+  [[languages.fr.params.faq_item]]
+    title = "Puis-je collaborer avec toi sur un projet? Si oui, comment?"
+    description = "Je suis toujours à la recherche de partenaires exceptionnels, pas seulement de collaborateurs. Je cherche des personnes qui apportent des compétences de haut niveau et un alignement total avec la vision. Les partenariats stratégiques sont structurés sur la performance et l'engagement à long terme."
+
+  [[languages.fr.params.faq_item]]
+    title = "Comment puis-je te contacter pour discuter?"
+    description = "Le moyen le plus efficace est via la page de contact. Je priorise les conversations stratégiques et les propositions bien articulées. Je n'ai pas de temps pour les discussions superficielles, mais je réponds toujours avec intérêt aux messages qui démontrent de la substance et un potentiel réel."
+
+  [[languages.fr.params.faq_item]]
+    title = "Comment puis-je soutenir tes projets?"
+    description = "Le soutien le plus précieux est stratégique. Une introduction à un partenaire pertinent, un feedback pertinent basé sur une expertise approfondie ou une opportunité de marché que je n'ai pas vue sont beaucoup plus précieux que tout le reste."
+
+  [languages.pt]
+    languageCode = "pt-PT"
+    languageName = "Português"
+    weight = 7
+    contentDir = "content/pt"
+    [languages.pt.params]
+      description = "Blog pessoal Krakiun"
+      [languages.pt.params.hero]
+        enable = true
+        hero_title = "growth strategist."
+        hero_description = "Sou um estrategista não convencional, em busca de soluções simples para desafios complexos."
+      [languages.pt.params.blog]
+        enable = true
+        blog_intro = "O que há de novo?"
+        blog_title = "Últimas do blog"
+      [languages.pt.params.author_section]
+        enable = true
+        author_section_title = "Olá 👋 ! Bem-vindo ao meu canto digital – o lugar onde as ideias ganham vida."
+        author_section_description = "Se partilhas a paixão pela inovação, tecnologia e soluções digitais, adoraria ouvir de ti. Escreve-me e vamos explorar juntos novas oportunidades!"
+        author_section_button_text = "Vamos conversar!"
+      [languages.pt.params.featured]
+        enable = true
+        featured_title = "Projetos"
+      [languages.pt.params.projects]
+        enable = true
+        projects_title = "Projetos em curso"
+      [languages.pt.params.faq]
+        enable = true
+        faq_intro = "Precisas de respostas?"
+        faq_title = "Perguntas frequentes"
+
+  [[languages.pt.params.faq_item]]
+    title = "Ofereces consultoria ou serviços personalizados?"
+    description = "Não. A minha filosofia é construir ativos, não vender horas. Dedico o meu tempo exclusivamente ao desenvolvimento de produtos e sistemas automatizados. Acredito que o verdadeiro valor a longo prazo está em criar soluções escaláveis, não em oferecer serviços 1-a-1."
+
+  [[languages.pt.params.faq_item]]
+    title = "Trabalhas sozinho nos projetos?"
+    description = "Não. A maioria dos projetos é desenvolvida em conjunto com uma pequena equipa de colaboradores. Nos últimos anos, trabalhei consistentemente com 1-7 pessoas, dependendo do projeto. O meu papel principal é definir estratégia, arquitetura técnica e direção do produto."
+
+  [[languages.pt.params.faq_item]]
+    title = "Posso colaborar contigo num projeto? Se sim, como?"
+    description = "Estou sempre à procura de parceiros excecionais, não apenas colaboradores. Procuro pessoas que tragam competências de topo e alinhamento total com a visão. As parcerias estratégicas são estruturadas em desempenho e compromisso a longo prazo."
+
+  [[languages.pt.params.faq_item]]
+    title = "Como posso contactar-te para conversar?"
+    description = "A forma mais eficiente é através da página de contacto. Priorizo conversas estratégicas e propostas bem articuladas. Não tenho tempo para discussões superficiais, mas respondo sempre com interesse a mensagens que demonstram substância e potencial real."
+
+  [[languages.pt.params.faq_item]]
+    title = "Como posso apoiar os teus projetos?"
+    description = "O apoio mais valioso é estratégico. Uma introdução a um parceiro relevante, feedback pertinente baseado em experiência profunda ou uma oportunidade de mercado que não vi são muito mais valiosos do que qualquer outra coisa."
 
 #-------------------------------
 # Pagination settings:
@@ -19,60 +381,305 @@ publishDir = "docs"
 
 
 #-------------------------------
-# Main Menu
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+# Main Menu (per language)
 
-  [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-    weight = 2
+# Romanian Menu
+[[languages.ro.menu.main]]
+  name = "Acasă"
+  url = "/"
+  weight = 1
 
-  [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 3
+[[languages.ro.menu.main]]
+  name = "Proiecte"
+  url = "/projects/"
+  weight = 2
 
-  [[menu.main]]
+[[languages.ro.menu.main]]
+  name = "Articole"
+  url = "/posts/"
+  weight = 3
+
+[[languages.ro.menu.main]]
+  name = "Despre mine"
+  url = "/about/"
+  weight = 5
+
+[[languages.ro.menu.footer]]
+  name = "Acasă"
+  url = "/"
+  weight = 1
+
+[[languages.ro.menu.footer]]
+  name = "Proiecte"
+  url = "/projects/"
+  weight = 2
+
+[[languages.ro.menu.footer]]
+  name = "Articole"
+  url = "/posts/"
+  weight = 3
+
+[[languages.ro.menu.footer]]
+  name = "Vulcanizare Mobila"
+  url = "https://vulcanizaremobila.com"
+  weight = 4
+
+[[languages.ro.menu.footer]]
+  name = "Despre mine"
+  url = "/about/"
+  weight = 5
+
+# English Menu
+[[languages.en.menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[languages.en.menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 2
+
+[[languages.en.menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 3
+
+[[languages.en.menu.main]]
   name = "About Me"
   url = "/about/"
   weight = 5
 
-  # Footer Menu
-  [[menu.footer]]
-    name = "Home"
-    url = "/"
-    weight = 1
+[[languages.en.menu.footer]]
+  name = "Home"
+  url = "/"
+  weight = 1
 
-  [[menu.footer]]
-    name = "Projects"
-    url = "/projects/"
-    weight = 2
+[[languages.en.menu.footer]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 2
 
-  [[menu.footer]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 3
+[[languages.en.menu.footer]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 3
 
-  [[menu.footer]]
-    name = "Vulcanizare Mobila"
-    url = "https://vulcanizaremobila.com"
-    weight = 4
+[[languages.en.menu.footer]]
+  name = "About Me"
+  url = "/about/"
+  weight = 5
 
-  [[menu.footer]]
-    name = "About Me"
-    url = "/about/"
-    weight = 5
+# Italian Menu
+[[languages.it.menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
 
+[[languages.it.menu.main]]
+  name = "Progetti"
+  url = "/projects/"
+  weight = 2
 
-  # Call to action button
-  [params.cta_button]
-    enable = true
-    cta_button_link = "/contact/"
-    cta_button_text = "Contact me"
+[[languages.it.menu.main]]
+  name = "Articoli"
+  url = "/posts/"
+  weight = 3
+
+[[languages.it.menu.main]]
+  name = "Chi sono"
+  url = "/about/"
+  weight = 5
+
+[[languages.it.menu.footer]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[languages.it.menu.footer]]
+  name = "Progetti"
+  url = "/projects/"
+  weight = 2
+
+[[languages.it.menu.footer]]
+  name = "Articoli"
+  url = "/posts/"
+  weight = 3
+
+[[languages.it.menu.footer]]
+  name = "Chi sono"
+  url = "/about/"
+  weight = 5
+
+# Spanish Menu
+[[languages.es.menu.main]]
+  name = "Inicio"
+  url = "/"
+  weight = 1
+
+[[languages.es.menu.main]]
+  name = "Proyectos"
+  url = "/projects/"
+  weight = 2
+
+[[languages.es.menu.main]]
+  name = "Artículos"
+  url = "/posts/"
+  weight = 3
+
+[[languages.es.menu.main]]
+  name = "Sobre mí"
+  url = "/about/"
+  weight = 5
+
+[[languages.es.menu.footer]]
+  name = "Inicio"
+  url = "/"
+  weight = 1
+
+[[languages.es.menu.footer]]
+  name = "Proyectos"
+  url = "/projects/"
+  weight = 2
+
+[[languages.es.menu.footer]]
+  name = "Artículos"
+  url = "/posts/"
+  weight = 3
+
+[[languages.es.menu.footer]]
+  name = "Sobre mí"
+  url = "/about/"
+  weight = 5
+
+# German Menu
+[[languages.de.menu.main]]
+  name = "Startseite"
+  url = "/"
+  weight = 1
+
+[[languages.de.menu.main]]
+  name = "Projekte"
+  url = "/projects/"
+  weight = 2
+
+[[languages.de.menu.main]]
+  name = "Artikel"
+  url = "/posts/"
+  weight = 3
+
+[[languages.de.menu.main]]
+  name = "Über mich"
+  url = "/about/"
+  weight = 5
+
+[[languages.de.menu.footer]]
+  name = "Startseite"
+  url = "/"
+  weight = 1
+
+[[languages.de.menu.footer]]
+  name = "Projekte"
+  url = "/projects/"
+  weight = 2
+
+[[languages.de.menu.footer]]
+  name = "Artikel"
+  url = "/posts/"
+  weight = 3
+
+[[languages.de.menu.footer]]
+  name = "Über mich"
+  url = "/about/"
+  weight = 5
+
+# French Menu
+[[languages.fr.menu.main]]
+  name = "Accueil"
+  url = "/"
+  weight = 1
+
+[[languages.fr.menu.main]]
+  name = "Projets"
+  url = "/projects/"
+  weight = 2
+
+[[languages.fr.menu.main]]
+  name = "Articles"
+  url = "/posts/"
+  weight = 3
+
+[[languages.fr.menu.main]]
+  name = "À propos"
+  url = "/about/"
+  weight = 5
+
+[[languages.fr.menu.footer]]
+  name = "Accueil"
+  url = "/"
+  weight = 1
+
+[[languages.fr.menu.footer]]
+  name = "Projets"
+  url = "/projects/"
+  weight = 2
+
+[[languages.fr.menu.footer]]
+  name = "Articles"
+  url = "/posts/"
+  weight = 3
+
+[[languages.fr.menu.footer]]
+  name = "À propos"
+  url = "/about/"
+  weight = 5
+
+# Portuguese Menu
+[[languages.pt.menu.main]]
+  name = "Início"
+  url = "/"
+  weight = 1
+
+[[languages.pt.menu.main]]
+  name = "Projetos"
+  url = "/projects/"
+  weight = 2
+
+[[languages.pt.menu.main]]
+  name = "Artigos"
+  url = "/posts/"
+  weight = 3
+
+[[languages.pt.menu.main]]
+  name = "Sobre mim"
+  url = "/about/"
+  weight = 5
+
+[[languages.pt.menu.footer]]
+  name = "Início"
+  url = "/"
+  weight = 1
+
+[[languages.pt.menu.footer]]
+  name = "Projetos"
+  url = "/projects/"
+  weight = 2
+
+[[languages.pt.menu.footer]]
+  name = "Artigos"
+  url = "/posts/"
+  weight = 3
+
+[[languages.pt.menu.footer]]
+  name = "Sobre mim"
+  url = "/about/"
+  weight = 5
+
+# Call to action button (global)
+[params.cta_button]
+  enable = true
+  cta_button_link = "/contact/"
+  cta_button_text = "Contact"
 
 
 [params]

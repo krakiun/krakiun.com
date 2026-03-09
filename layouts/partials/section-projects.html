@@ -7,7 +7,7 @@
       <div class="section__info">
         <div class="section__head">
           <h2 class="section__title">{{ .Site.Params.projects.projects_title | safeHTML }}</h2>
-          <a class="section__link" href="/projects">View all <i class="fa-solid fa-chevron-right"></i></a>
+          <a class="section__link" href="{{ "projects" | relLangURL }}">View all <i class="fa-solid fa-chevron-right"></i></a>
         </div>
         {{ if .Site.Params.projects.projects_description }}
         <p class="section__description">{{ .Site.Params.projects.projects_description }}</p>
@@ -15,7 +15,7 @@
       </div>
 
       <div class="row">
-        {{ $projects := where .Site.RegularPages "Section" "projects" }}
+        {{ $projects := where (where .Site.RegularPages "Section" "projects") "Lang" .Lang }}
         {{ $filteredProjects := where $projects "Params.featured" "!=" true | first 6 }}
         {{ range $filteredProjects }}
         <article class="project col col-4 col-d-6 col-t-12">

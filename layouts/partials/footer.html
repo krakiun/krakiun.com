@@ -52,7 +52,7 @@
           </div>
         </div>
 
-        <div class="copyright">{{ dateFormat "2006" now }} &copy; <a href="/">{{ .Site.Title }}</a>. All Right Reserved.</div>
+        <div class="copyright">{{ dateFormat "2006" now }} &copy; <a href="{{ "/" | relLangURL }}">{{ .Site.Title }}</a>. {{ i18n "all_rights_reserved" }}</div>
 
       </div>
     </div>

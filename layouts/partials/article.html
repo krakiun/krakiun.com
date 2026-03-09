@@ -38,11 +38,11 @@
 
       {{ if or ( .Site.Params.author.author_avatar ) ( .Site.Params.author.author_name ) }}
       <div class="article__info">
-        <a class="article__author" href="/about/">
+        <a class="article__author" href="{{ "about" | relLangURL }}">
           {{ if .Site.Params.author.author_avatar }}
             <img class="article__author__avatar lazy" data-src="{{ .Site.Params.author.author_avatar }}" alt="{{ .Site.Params.author.author_name }}" width="32" height="32">
           {{ end }}
-          By
+          {{ i18n "by" }}
           {{ if .Site.Params.author.author_name }}
             <span class="article__author__name">{{ .Site.Params.author.author_name }}</span>
           {{ end }}

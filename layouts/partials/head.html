@@ -8,6 +8,24 @@
   <title>{{ if not .IsHome }}{{ .Title }}{{ .Params.name }} | {{ end }}{{ .Site.Title }}</title>
   <meta name="description" content="{{if .IsHome}}{{ .Site.Params.description }}{{else}}{{ .Description }}{{end}}">
 
+  <!-- Hreflang tags for multi-language SEO -->
+  {{ if .IsTranslated }}
+    {{ range .Translations }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+    {{ end }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+    {{/* x-default points to Romanian (default language) version */}}
+    {{ if eq .Language.Lang "ro" }}
+    <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+    {{ else }}
+      {{ range .Translations }}
+        {{ if eq .Language.Lang "ro" }}
+    <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
   {{ with .OutputFormats.Get "rss" -}}
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end }}
@@ -29,6 +47,7 @@
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" as="style">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
   <script defer src="/js/whatsapp-popup.js"></script>
+  <script src="/js/language-redirect.js"></script>
 
   <script type="application/ld+json">
   {

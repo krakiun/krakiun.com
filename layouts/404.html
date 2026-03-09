@@ -8,8 +8,8 @@
         <div class="container">
           <div class="error">
             <h2 class="error__title">404</h2>
-            <p class="error__text">The requested page could not be found.</p>
-            <a class="button" href="/">Back to homepage</a>
+            <p class="error__text">{{ i18n "page_not_found" }}</p>
+            <a class="button" href="{{ "/" | relLangURL }}">{{ i18n "back_to_homepage" }}</a>
           </div>
         </div>
       </div>

@@ -1,0 +1,70 @@
+# French translations
+
+[see_all_posts]
+other = "Voir tous les articles"
+
+[related_posts]
+other = "Articles similaires"
+
+[in_case_you_missed]
+other = "Au cas où tu aurais manqué"
+
+[explore]
+other = "Explorer:"
+
+[by]
+other = "Par"
+
+[back_to_homepage]
+other = "Retour à l'accueil"
+
+[page_not_found]
+other = "La page demandée n'a pas pu être trouvée."
+
+[your_name]
+other = "Ton nom"
+
+[your_email]
+other = "Ton email"
+
+[your_message]
+other = "Ton message"
+
+[send_message]
+other = "Envoyer le message"
+
+[all_rights_reserved]
+other = "Tous droits réservés."
+
+[dark_mode]
+other = "Sombre"
+
+[light_mode]
+other = "Clair"
+
+[share_on_facebook]
+other = "Partager sur Facebook"
+
+[share_on_twitter]
+other = "Partager sur Twitter"
+
+[share_on_pinterest]
+other = "Partager sur Pinterest"
+
+[share_on_linkedin]
+other = "Partager sur LinkedIn"
+
+[load_more_posts]
+other = "Charger plus d'articles"
+
+[email_address]
+other = "Adresse email"
+
+[subscribe]
+other = "S'abonner"
+
+[read_more]
+other = "Lire la suite"
+
+[contact_me]
+other = "Contacte-moi"

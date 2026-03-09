@@ -4,15 +4,15 @@
 <!-- begin pagination -->
 <div class="container animate">
   <div class="pagination">
-    <button class="load-more-posts button">Load more posts</button>
+    <button class="load-more-posts button">{{ i18n "load_more_posts" }}</button>
   </div>
 </div>
 <!-- end pagination -->
 {{ end }}
 
 <script>
-  var base_url = "",
-    pagination_next_url = base_url + '/posts/page2',
+  var base_url = "{{ .Language.Lang | relLangURL }}",
+    pagination_next_url = '{{ if eq .Language.Lang "ro" }}/posts/page/2/{{ else }}/{{ .Language.Lang }}/posts/page/2/{{ end }}',
     pagination_next_page_number = '{{ add .Paginator.PageNumber 1 }}',
     pagination_available_pages_number = '{{ .Paginator.TotalPages }}';
 </script>

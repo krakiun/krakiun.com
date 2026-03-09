@@ -1,0 +1,70 @@
+# Italian translations
+
+[see_all_posts]
+other = "Vedi tutti gli articoli"
+
+[related_posts]
+other = "Articoli correlati"
+
+[in_case_you_missed]
+other = "Nel caso te lo fossi perso"
+
+[explore]
+other = "Esplora:"
+
+[by]
+other = "Di"
+
+[back_to_homepage]
+other = "Torna alla home"
+
+[page_not_found]
+other = "La pagina richiesta non è stata trovata."
+
+[your_name]
+other = "Il tuo nome"
+
+[your_email]
+other = "La tua email"
+
+[your_message]
+other = "Il tuo messaggio"
+
+[send_message]
+other = "Invia messaggio"
+
+[all_rights_reserved]
+other = "Tutti i diritti riservati."
+
+[dark_mode]
+other = "Scuro"
+
+[light_mode]
+other = "Chiaro"
+
+[share_on_facebook]
+other = "Condividi su Facebook"
+
+[share_on_twitter]
+other = "Condividi su Twitter"
+
+[share_on_pinterest]
+other = "Condividi su Pinterest"
+
+[share_on_linkedin]
+other = "Condividi su LinkedIn"
+
+[load_more_posts]
+other = "Carica altri articoli"
+
+[email_address]
+other = "Indirizzo email"
+
+[subscribe]
+other = "Iscriviti"
+
+[read_more]
+other = "Leggi di più"
+
+[contact_me]
+other = "Contattami"
