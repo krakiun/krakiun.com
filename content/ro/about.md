@@ -9,7 +9,7 @@ Parcursul meu nu este o linie dreaptă. Este o colecție de cicatrici valoroase 
 
 **Înțeleg piețele pentru că le-am trăit — nu le-am citit.**
 
-Am locuit 6 ani în Italia și jumătate de an în Bulgaria. Am operat în Dubai de patru ori, am explorat economii și culturi din Turcia, Germania, Elveția, Panama, Republica Dominicană, Egipt, Tailanda și Ucraina. Nu ca turist cu aparat foto — ci ca observator de sisteme, comportamente economice și oportunități pe care distanța le face invizibile pentru ceilalți. Fiecare piață mi-a calibrat altfel ochiul strategic. Această perspectivă globală nu este un detaliu biografic. Este instrumentul cu care văd ce alții nu văd.
+Am locuit aproape 8 ani în Italia și jumătate de an în Bulgaria. Am operat în Dubai de patru ori. Am călătorit în Turcia, Germania, Elveția, Panama, Republica Dominicană, Egipt, Tailanda și Ucraina. Unele au fost vacanțe — dar un om care construiește sisteme nu oprește creierul la aeroport. Fiecare destinație a fost și o lecție: cum funcționează economia locală, cum gândește consumatorul, ce modele de business există acolo și nu există acasă. Această perspectivă globală nu este un detaliu biografic. Este instrumentul cu care văd ce alții nu văd.
 
 Nu sunt un "programator". Nu sunt un "marketer". Sunt un **arhitect de sisteme**. Văd o piață fragmentată și ineficientă — precum cea a serviciilor auto de urgență — și în mintea mea construiesc mașinăria care o poate reorganiza și domina.
 
