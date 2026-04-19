@@ -28,13 +28,13 @@ Pe 22 iulie 2025 am primit o notificare oficială din partea avocatului companie
 * să mă abțin de la orice altă opinie exprimată public;
 * și mi se aducea în vedere că publicarea propriilor mele servicii (într-un articol separat) ar constitui „concurență neloială”.
 
-Această solicitare, în opinia mea, **nu are fundament juridic**. În plus, ridică întrebări serioase despre folosirea formalismului juridic pentru intimidare.
+Această solicitare, în opinia mea, **nu pare să aibă un fundament juridic suficient**. În plus, ridică întrebări serioase despre folosirea formalismului juridic pentru intimidare.
 
 Am ales să șterg articolul despre serviciul meu de test (care nu era o ofertă comercială activă, ci un test de piață), dar **nu voi șterge articolul în care exprim opinia mea despre contractul primit**.
 
 ### De ce public acest nou articol
 
-Îl public pentru că este **datoria mea morală**, ca antreprenor, să trag un semnal de alarmă atunci când observ practici care pot afecta financiar și juridic alți oameni. Am fost șantajat legal în trecut, am pierdut businessuri din lipsa experienței juridice, dar azi nu mai sunt acolo. Azi înțeleg că **frica nu este o strategie.**
+Îl public pentru că este **datoria mea morală**, ca antreprenor, să trag un semnal de alarmă atunci când observ practici care pot afecta financiar și juridic alți oameni. Am fost supus unor presiuni legale în trecut, am pierdut businessuri din lipsa experienței juridice, dar azi nu mai sunt acolo. Azi înțeleg că **frica nu este o strategie.**
 
 **Sfatul meu pentru tinerii antreprenori este simplu:**
 
