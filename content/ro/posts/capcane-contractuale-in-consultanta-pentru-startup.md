@@ -17,7 +17,7 @@ Discuția a durat circa o oră. Am prezentat o idee de afacere simplă, pe care 
 
 ---
 
-## 2. Oferta: un contract de 21 de pagini și obligații ascunse
+## 2. Oferta: un contract de 21 de pagini și clauze care pot fi ușor trecute cu vederea
 
 La scurt timp, am primit pe e-mail un **contract de colaborare**. Condițiile:
 - 5.000 lei de plată imediată (4.500 tarif de bază + 500 pentru depunere),
@@ -33,16 +33,16 @@ După o lectură atentă și cu ajutor profesionist, am constatat că:
 - Dacă renunți la proiect după semnarea bugetului, **plătești 50% din onorariul de succes**.
 - Dacă proiectul este aprobat, dar tu nu semnezi contractul de finanțare, **plătești 100% din onorariu**.
 - **Garantul fidejusor** poate fi executat direct, fără ca tu să fii notificat în prealabil.
-- **Nu ai dreptul să reziliezi unilateral contractul.**
-- **Prestatorul nu răspunde real pentru succesul proiectului** – doar execută ce îi transmiți.
+- **Contractul prevede că beneficiarul nu poate rezilia unilateral.**
+- **Prestatorul nu își asumă în mod explicit răspunderea pentru succesul proiectului** – doar execută ce îi transmiți.
 
 ---
 
 ## 4. De ce consider că este o practică abuzivă
 
-Personal, consider că acest tip de contract este profund dezechilibrat. Nu este consultanță, ci un mecanism juridic construit să te blocheze contractual și financiar, indiferent de rezultatul final.
+Personal, consider că acest tip de contract este profund dezechilibrat. Nu este consultanță, ci un mecanism juridic care poate avea efectul de a te bloca contractual și financiar, indiferent de rezultatul final.
 
-Plata inițială nu este pentru „scrierea proiectului”, ci o intrare într-un mecanism care te forțează să continui cu proiectul sau să plătești penalități mari dacă te răzgândești.
+Plata inițială nu este pentru „scrierea proiectului”, ci o intrare într-un mecanism care te poate pune în situația de a continua sau de a suporta costuri cu proiectul sau să plătești penalități mari dacă te răzgândești.
 
 ---
 
@@ -57,7 +57,7 @@ Plata inițială nu este pentru „scrierea proiectului”, ci o intrare într-u
 
 ## Concluzie
 
-Din păcate, goana după fonduri nerambursabile a generat o industrie de contracte păguboase. **Citiți, întrebați, comparați**. Un consultant onest nu vă va forța niciodată într-o obligație care vă poate ruina financiar fără să primiți nimic în schimb.
+Din păcate, goana după fonduri nerambursabile a generat, în opinia mea, situații în care pot apărea contracte dezechilibrate. **Citiți, întrebați, comparați**. Un consultant onest nu vă va forța niciodată într-o obligație care vă poate ruina financiar fără să primiți nimic în schimb.
 
 
 ---
@@ -69,7 +69,7 @@ Din păcate, goana după fonduri nerambursabile a generat o industrie de contrac
 ### 📌 Art. 4.10 – Plata onorariului de succes, chiar dacă nu semnezi cu statul
 > "In cazul in care proiectul este aprobat, indiferent daca este semnat sau nu contractul de finantare cu autoritatea, Beneficiarul datoreaza onorariul de succes catre Prestator."
 
-**Comentariu:** Cu alte cuvinte, dacă proiectul este "aprobat" (adică trece de evaluarea AFIR sau altă instituție), dar tu decizi că nu mai vrei să continui – din lipsă de fonduri, schimbare de context, etc. – tot vei fi obligat să plătești între 10.000–17.500 lei. Este o clauză complet lipsită de flexibilitate, care te blochează financiar fără opțiune reală de retragere.
+**Comentariu:** Cu alte cuvinte, dacă proiectul este "aprobat" (adică trece de evaluarea AFIR sau altă instituție), dar tu decizi că nu mai vrei să continui – din lipsă de fonduri, schimbare de context, etc. – tot vei fi obligat să plătești între 10.000–17.500 lei. Este o clauză complet lipsită de flexibilitate, care poate limita semnificativ opțiunile de retragere și genera costuri.
 
 ---
 
@@ -83,46 +83,46 @@ Din păcate, goana după fonduri nerambursabile a generat o industrie de contrac
 ### 📌 Art. 9.2 – Fidejusiunea: garantul răspunde cu tot ce are
 > "Garantul Fidejusor garanteaza personal si in solidar, cu toate bunurile sale mobile si imobile, prezente si viitoare, executarea obligatiilor asumate de catre Beneficiar."
 
-**Comentariu:** Asta înseamnă că, dacă nu plătești, firma poate merge direct la garantul tău (poate fi un prieten, părinte sau soție) și să îi execute bunurile. Este o practică folosită rar în consultanță, dar extrem de periculoasă pentru oricine nu citește contractul atent.
+**Comentariu:** Asta înseamnă că, dacă nu plătești, firma poate merge direct la garantul tău (poate fi un prieten, părinte sau soție) și să îi execute bunurile. Este o practică folosită rar în consultanță, dar poate fi riscantă pentru oricine nu citește contractul atent.
 
 ---
 
 ### 📌 Art. 12.1 – Renunțarea la protecții legale
 > "Garantul renunta la beneficiul de discutie si de diviziune."
 
-**Comentariu:** Prin această clauză, garantul nu mai poate cere ca firma să încerce întâi să recupereze banii de la tine. Se poate merge direct pe executarea garantului. Este o capcană legală gravă.
+**Comentariu:** Prin această clauză, garantul nu mai poate cere ca firma să încerce întâi să recupereze banii de la tine. Se poate merge direct pe executarea garantului. În opinia mea, această clauză poate funcționa ca o capcană legală.
 
 ---
 
 ### 📌 Art. 8 – Nu poți rezilia contractul
 > "Beneficiarul nu are dreptul de a rezilia unilateral prezentul contract."
 
-**Comentariu:** Nu poți să te retragi legal, chiar dacă consideri că serviciul e nesatisfăcător sau dacă consultantul nu a livrat ceea ce a promis. Este o clauză abuzivă din punct de vedere comercial.
+**Comentariu:** Nu poți să te retragi legal, chiar dacă consideri că serviciul e nesatisfăcător sau dacă consultantul nu a livrat ceea ce a promis. Consider că este o clauză dezechilibrată din punct de vedere comercial.
 
 ---
 
 ### 📌 Art. 11 – Clauza de confidențialitate
 > "Partile se obliga ca pe toata durata contractului si pe o perioada de 5 ani de la incetarea acestuia sa nu divulge informatii sau inscrisuri legate de colaborare."
 
-**Comentariu:** Această clauză poate fi folosită pentru a intimida clientul să nu vorbească public despre experiența avută. În realitate, ea nu poate bloca libera exprimare atunci când e vorba de fapte reale, de interes public.
+**Comentariu:** Această clauză poate avea efectul de a descuraja clientul să vorbească public despre experiența avută. În realitate, ea nu ar trebui, în mod normal, să limiteze libera exprimare în cazul unor fapte reale, de interes public.
 
 ---
 
 ## 7. Concluzie – ce poți învăța din acest caz
 
-Acest contract nu este doar dezechilibrat. Este construit în așa fel încât:
-- să încaseze oricum onorarii (indiferent de rezultat),
-- să blocheze legal clientul din orice încercare de retragere,
+Acest contract nu este doar dezechilibrat. Din modul în care este structurat, rezultă că:
+- onorariile pot deveni datorate în mai multe scenarii (indiferent de rezultat),
+- să limiteze posibilitatea clientului de retragere,
 - și să transfere riscul total asupra beneficiarului și garantului.
 
 Îndemn toți antreprenorii care citesc acest articol să citească fiecare pagină a oricărui contract primit și, mai ales, să nu cedeze presiunii consultantului de a semna rapid. Un contract care pare simplu la început poate ascunde obligații costisitoare și imposibil de evitat.
 
-Atenție la clauzele de tip "fidejusor", "onorariu garantat indiferent de rezultat" și "nerenunțabil" – acestea sunt semne clare că **nu este vorba de o colaborare, ci de o capcană juridică.**
+Atenție la clauzele de tip "fidejusor", "onorariu garantat indiferent de rezultat" și "nerenunțabil" – acestea sunt, în opinia mea, semne clare ale unui mecanism care poate funcționa ca o capcană juridică..
 
 
 ## 📨 Ai fost păgubit? Scrie-mi.
 
-Dacă ai avut o experiență similară cu această firmă sau ai semnat contractul și te simți păcălit(ă), te invit să îmi scrii un e-mail. Scopul este să adun mai multe cazuri documentate și, dacă se confirmă un tipar de abuz contractual sau înșelătorie, să formulăm o **plângere colectivă** către autoritățile competente (ANPC, ANSPDCP sau chiar o acțiune civilă/penală comună).
+Dacă ai avut o experiență similară cu această firmă sau ai semnat contractul, ai avut o experiență negativă, te invit să îmi scrii un e-mail. Scopul este să adun mai multe cazuri documentate și, dacă se confirmă un tipar de abuz contractual sau înșelătorie, să formulăm o **plângere colectivă** către autoritățile competente (ANPC, ANSPDCP sau chiar o acțiune civilă/penală comună).
 
 ✉️ **Trimite-mi un e-mail la:** `krakiun+plangere@gmail.com`  
 📎 Cu titlul: `Colaborare consultancytech`
