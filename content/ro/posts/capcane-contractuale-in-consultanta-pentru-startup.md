@@ -40,7 +40,7 @@ După o lectură atentă și cu ajutor profesionist, am constatat că:
 
 ## 4. De ce consider că este o practică abuzivă
 
-Personal, consider că acest tip de contract este profund dezechilibrat. Nu este consultanță, ci un mecanism juridic care poate avea efectul de a te bloca contractual și financiar, indiferent de rezultatul final.
+Personal, consider că acest tip de contract este profund dezechilibrat. Nu pare consultanță, ci mai degrabă un mecanism juridic care poate avea efectul de a te bloca contractual și financiar, indiferent de rezultatul final.
 
 Plata inițială nu este pentru „scrierea proiectului”, ci o intrare într-un mecanism care te poate pune în situația de a continua sau de a suporta costuri cu proiectul sau să plătești penalități mari dacă te răzgândești.
 
@@ -49,7 +49,7 @@ Plata inițială nu este pentru „scrierea proiectului”, ci o intrare într-u
 ## 5. Recomandări pentru alți antreprenori
 
 - **Nu semnați niciun contract fără să-l citiți cap-coadă.**
-- **Refuzați orice clauză de garant personal (fidejusor)** – nu are ce căuta într-un contract de consultanță.
+- **Refuzați orice clauză de garant personal (fidejusor)** – consider că nu este potrivită într-un contract de consultanță.
 - **Cereți o garanție scrisă de eligibilitate** înainte să plătiți.
 - **Întrebați clar ce se întâmplă dacă nu mai vreți să aplicați.**
 
@@ -111,7 +111,7 @@ Din păcate, goana după fonduri nerambursabile a generat, în opinia mea, situa
 ## 7. Concluzie – ce poți învăța din acest caz
 
 Acest contract nu este doar dezechilibrat. Din modul în care este structurat, rezultă că:
-- onorariile pot deveni datorate în mai multe scenarii (indiferent de rezultat),
+- onorariile pot deveni datorate în mai multe scenarii  (indiferent de rezultat),
 - să limiteze posibilitatea clientului de retragere,
 - și să transfere riscul total asupra beneficiarului și garantului.
 
@@ -122,7 +122,7 @@ Atenție la clauzele de tip "fidejusor", "onorariu garantat indiferent de rezult
 
 ## 📨 Ai fost păgubit? Scrie-mi.
 
-Dacă ai avut o experiență similară cu această firmă sau ai semnat contractul, ai avut o experiență negativă, te invit să îmi scrii un e-mail. Scopul este să adun mai multe cazuri documentate și, dacă se confirmă un tipar de abuz contractual sau înșelătorie, să formulăm o **plângere colectivă** către autoritățile competente (ANPC, ANSPDCP sau chiar o acțiune civilă/penală comună).
+Dacă ai avut o experiență similară cu această firmă sau ai semnat contractul, ai avut o experiență negativă, te invit să îmi scrii un e-mail. Scopul este să adun mai multe cazuri documentate și, dacă se confirmă un tipar de abuz contractual, să formulăm o **plângere colectivă** către autoritățile competente (ANPC, ANSPDCP sau chiar o acțiune civilă/penală comună).
 
 ✉️ **Trimite-mi un e-mail la:** `krakiun+plangere@gmail.com`  
 📎 Cu titlul: `Colaborare consultancytech`
