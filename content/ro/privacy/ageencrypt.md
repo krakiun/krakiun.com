@@ -1,8 +1,5 @@
 ---
-title: "Age Encrypt — Privacy Policy"
-date: 2026-07-01T23:35:00+02:00
-image: '/images/krakiun-avatar.png'
-tags: ['age-encrypt', 'privacy', 'app']
+title: Age Encrypt — Privacy Policy
 ---
 
 **Effective date: July 1, 2026**
