@@ -1,6 +1,6 @@
 ---
 title: "ShareUSB: controlează-ți telefonul de la distanță cu ChatGPT și Claude"
-date: 2026-07-23T18:40:00+02:00
+date: 2026-07-23T14:00:00+02:00
 image: '/images/shareusb-ai-telefon.png'
 tags: ['shareusb', 'ai', 'automatizare', 'adb']
 ---

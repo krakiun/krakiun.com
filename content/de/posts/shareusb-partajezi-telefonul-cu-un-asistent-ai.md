@@ -1,6 +1,6 @@
 ---
 title: "ShareUSB: Steuere dein Handy aus der Ferne mit ChatGPT und Claude"
-date: 2026-07-23T18:40:00+02:00
+date: 2026-07-23T14:00:00+02:00
 image: '/images/shareusb-ai-telefon.png'
 tags: ['shareusb', 'ai', 'automatisierung', 'adb']
 ---
