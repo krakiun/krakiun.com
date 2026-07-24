@@ -1,7 +1,7 @@
 ---
 title: "PII Offline Remover — anonymisation des données personnelles, 100 % sur votre Mac"
 date: 2026-07-24T17:07:07+03:00
-image: '/images/krakiun-avatar.png'
+image: '/images/pii-offline-remover.png'
 tags: ['privacy', 'macos', 'ai']
 ---
 
