@@ -1,0 +1,1001 @@
+order_id,customer,email,country,product,category,quantity,unit_price,order_total,order_date,shipped
+100001,Sara Khan,sara.khan@example.com,Australia,Nimbus Keyboard,Accessories,3,89.5,268.5,2024-03-24,False
+100002,Hugo Reed,hugo.reed@example.com,Romania,"Vertex Monitor 27""",Displays,1,319.99,319.99,2025-01-01,False
+100003,Mia Lopez,mia.lopez@example.com,France,Atlas Backpack,Travel,1,64.9,64.9,2024-12-21,True
+100004,Nina Chafer,nina.chafer@example.com,United Kingdom,Echo Desk Lamp,Home,5,42.0,210.0,2024-03-23,True
+100005,Lex Silva,lex.silva@example.com,Germany,Lumen E-Reader,Tablets,3,149.0,447.0,2024-07-04,True
+100006,Ley Meyer,ley.meyer@example.com,Canada,Aurora Headphones,Audio,1,129.0,129.0,2024-07-03,True
+100007,Aria Novak,aria.novak@example.com,Romania,Atlas Backpack,Travel,3,64.9,194.7,2024-12-03,False
+100008,Mia Patel,mia.patel@example.com,Australia,Aurora Headphones,Audio,1,129.0,129.0,2024-07-09,True
+100009,Aria Cohen,aria.cohen@example.com,Brazil,Drift Webcam 4K,Accessories,3,74.25,222.75,2024-11-09,True
+100010,Sara Novak,sara.novak@example.com,Japan,Comet Mouse,Accessories,5,39.99,199.95,2024-03-15,True
+100011,Liam Novak,liam.novak@example.com,Australia,Terra Notebook,Office,5,12.75,63.75,2025-01-08,True
+100012,Maya Cohen,maya.cohen@example.com,Germany,Cinder Coffee Mug,Home,3,18.5,55.5,2024-10-23,True
+100013,Sara Tanaka,sara.tanaka@example.com,Japan,Cinder Coffee Mug,Home,4,18.5,74.0,2025-03-08,True
+100014,Noah Read,noah.read@example.com,India,Terra Notebook,Office,5,12.75,63.75,2025-06-08,True
+100015,Zoe Lopez,zoe.lopez@example.com,United States,Echo Desk Lamp,Home,1,42.0,42.0,2024-03-21,False
+100016,Sara Roy,sara.roy@example.com,India,Atlas Backpack,Travel,1,64.9,64.9,2025-10-15,True
+100017,Noah Rossi,noah.rossi@example.com,France,Nimbus Keyboard,Accessories,1,89.5,89.5,2025-11-11,False
+100018,Nina Silva,nina.silva@example.com,United Kingdom,Echo Desk Lamp,Home,1,42.0,42.0,2024-09-04,True
+100019,Lex Rossi,lex.rossi@example.com,Romania,Orbit Charger,Accessories,5,29.99,149.95,2024-03-12,True
+100020,Noah Patel,noah.patel@example.com,Romania,"Vertex Monitor 27""",Displays,1,319.99,319.99,2025-08-01,False
+100021,Ley Reed,ley.reed@example.com,United States,Aurora Headphones,Audio,2,129.0,258.0,2024-10-03,False
+100022,Ethan Rossi,ethan.rossi@example.com,Japan,Comet Mouse,Accessories,5,39.99,199.95,2024-11-16,True
+100023,Zoe Read,zoe.read@example.com,India,"Vertex Monitor 27""",Displays,5,319.99,1599.95,2024-09-25,True
+100024,Mia Okafor,mia.okafor@example.com,Brazil,Aurora Headphones,Audio,4,129.0,516.0,2025-09-15,False
+100025,Mia Khan,mia.khan@example.com,Romania,Pulse Smartwatch,Wearables,1,199.0,199.0,2024-10-08,False
+100026,Hugo Novak,hugo.novak@example.com,Germany,Nimbus Keyboard,Accessories,2,89.5,179.0,2024-06-03,True
+100027,Lex Novak,lex.novak@example.com,France,Echo Desk Lamp,Home,2,42.0,84.0,2024-12-19,True
+100028,Mia Patel,mia.patel@example.com,Australia,Echo Desk Lamp,Home,4,42.0,168.0,2024-02-22,True
+100029,Nina Roy,nina.roy@example.com,Germany,Echo Desk Lamp,Home,1,42.0,42.0,2024-07-24,True
+100030,Aria Khan,aria.khan@example.com,Australia,Lumen E-Reader,Tablets,2,149.0,298.0,2025-03-14,False
+100031,Ethan Chafer,ethan.chafer@example.com,France,Comet Mouse,Accessories,4,39.99,159.96,2024-01-21,True
+100032,Aria Haddad,aria.haddad@example.com,Japan,Comet Mouse,Accessories,2,39.99,79.98,2025-08-16,True
+100033,Nina Reed,nina.reed@example.com,India,Nimbus Keyboard,Accessories,2,89.5,179.0,2024-07-09,True
+100034,Maya Tanaka,maya.tanaka@example.com,France,Aurora Headphones,Audio,4,129.0,516.0,2025-03-07,True
+100035,Ivy Meyer,ivy.meyer@example.com,United States,Terra Notebook,Office,5,12.75,63.75,2025-01-02,True
+100036,Noah Reed,noah.reed@example.com,United States,"Vertex Monitor 27""",Displays,2,319.99,639.98,2024-03-03,True
+100037,Sara Rossi,sara.rossi@example.com,Germany,Lumen E-Reader,Tablets,4,149.0,596.0,2024-10-20,False
+100038,Ava Roy,ava.roy@example.com,Romania,Orbit Charger,Accessories,5,29.99,149.95,2025-05-07,True
+100039,Ley Chafer,ley.chafer@example.com,Japan,Aurora Headphones,Audio,4,129.0,516.0,2025-08-11,True
+100040,Liam Khan,liam.khan@example.com,Romania,Nimbus Keyboard,Accessories,4,89.5,358.0,2024-02-18,True
+100041,Lex Silva,lex.silva@example.com,Australia,Pulse Smartwatch,Wearables,1,199.0,199.0,2025-05-06,True
+100042,Noah Okafor,noah.okafor@example.com,France,Aurora Headphones,Audio,5,129.0,645.0,2024-11-27,True
+100043,Liam Novak,liam.novak@example.com,United Kingdom,Comet Mouse,Accessories,2,39.99,79.98,2024-02-24,True
+100044,Lex Read,lex.read@example.com,Brazil,Atlas Backpack,Travel,2,64.9,129.8,2024-11-21,True
+100045,Noah Tanaka,noah.tanaka@example.com,Germany,Aurora Headphones,Audio,1,129.0,129.0,2025-05-02,False
+100046,Maya Silva,maya.silva@example.com,Japan,Orbit Charger,Accessories,3,29.99,89.97,2025-09-23,True
+100047,Ivy Khan,ivy.khan@example.com,France,Comet Mouse,Accessories,2,39.99,79.98,2024-06-19,True
+100048,Nina Silva,nina.silva@example.com,Brazil,Nimbus Keyboard,Accessories,3,89.5,268.5,2024-06-07,True
+100049,Sara Khan,sara.khan@example.com,India,Pulse Smartwatch,Wearables,5,199.0,995.0,2024-04-28,False
+100050,Maya Patel,maya.patel@example.com,United States,Drift Webcam 4K,Accessories,4,74.25,297.0,2024-12-11,True
+100051,Nina Patel,nina.patel@example.com,United Kingdom,Orbit Charger,Accessories,2,29.99,59.98,2024-12-04,True
+100052,Ivy Rossi,ivy.rossi@example.com,Australia,Echo Desk Lamp,Home,2,42.0,84.0,2025-06-10,True
+100053,Aria Chafer,aria.chafer@example.com,Australia,Lumen E-Reader,Tablets,1,149.0,149.0,2025-06-09,True
+100054,Maya Read,maya.read@example.com,India,Pulse Smartwatch,Wearables,5,199.0,995.0,2025-01-04,True
+100055,Lex Silva,lex.silva@example.com,United States,Atlas Backpack,Travel,3,64.9,194.7,2024-10-14,True
+100056,Maya Cohen,maya.cohen@example.com,France,Cinder Coffee Mug,Home,5,18.5,92.5,2024-07-19,False
+100057,Ivy Okafor,ivy.okafor@example.com,France,Cinder Coffee Mug,Home,1,18.5,18.5,2024-06-14,False
+100058,Sara Reed,sara.reed@example.com,Brazil,Pulse Smartwatch,Wearables,5,199.0,995.0,2024-12-10,True
+100059,Sara Roy,sara.roy@example.com,United Kingdom,Pulse Smartwatch,Wearables,4,199.0,796.0,2024-04-14,True
+100060,Nina Novak,nina.novak@example.com,Romania,Terra Notebook,Office,2,12.75,25.5,2025-07-18,True
+100061,Lex Read,lex.read@example.com,Romania,Lumen E-Reader,Tablets,4,149.0,596.0,2025-08-15,True
+100062,Mia Lopez,mia.lopez@example.com,Germany,Echo Desk Lamp,Home,2,42.0,84.0,2025-09-22,True
+100063,Ley Khan,ley.khan@example.com,Australia,Lumen E-Reader,Tablets,3,149.0,447.0,2024-03-01,False
+100064,Ethan Meyer,ethan.meyer@example.com,India,Comet Mouse,Accessories,4,39.99,159.96,2024-12-23,True
+100065,Nina Chafer,nina.chafer@example.com,Germany,Drift Webcam 4K,Accessories,1,74.25,74.25,2025-04-06,True
+100066,Hugo Lopez,hugo.lopez@example.com,France,Echo Desk Lamp,Home,1,42.0,42.0,2024-02-15,False
+100067,Ethan Novak,ethan.novak@example.com,Romania,"Vertex Monitor 27""",Displays,5,319.99,1599.95,2025-08-20,True
+100068,Liam Lopez,liam.lopez@example.com,Canada,Cinder Coffee Mug,Home,5,18.5,92.5,2024-12-28,True
+100069,Lex Patel,lex.patel@example.com,France,Lumen E-Reader,Tablets,3,149.0,447.0,2025-11-08,True
+100070,Ava Okafor,ava.okafor@example.com,United Kingdom,Aurora Headphones,Audio,2,129.0,258.0,2025-06-18,False
+100071,Zoe Chafer,zoe.chafer@example.com,Australia,Cinder Coffee Mug,Home,2,18.5,37.0,2024-07-14,True
+100072,Ethan Roy,ethan.roy@example.com,India,Nimbus Keyboard,Accessories,2,89.5,179.0,2025-10-23,False
+100073,Liam Patel,liam.patel@example.com,Canada,Atlas Backpack,Travel,4,64.9,259.6,2024-06-10,True
+100074,Aria Reed,aria.reed@example.com,France,Cinder Coffee Mug,Home,5,18.5,92.5,2024-08-08,True
+100075,Ethan Haddad,ethan.haddad@example.com,India,Cinder Coffee Mug,Home,3,18.5,55.5,2024-08-05,True
+100076,Noah Haddad,noah.haddad@example.com,Romania,Cinder Coffee Mug,Home,5,18.5,92.5,2024-02-21,True
+100077,Aria Tanaka,aria.tanaka@example.com,United Kingdom,Drift Webcam 4K,Accessories,1,74.25,74.25,2025-06-07,True
+100078,Ley Patel,ley.patel@example.com,India,Cinder Coffee Mug,Home,3,18.5,55.5,2025-02-16,False
+100079,Noah Haddad,noah.haddad@example.com,Germany,Pulse Smartwatch,Wearables,2,199.0,398.0,2024-01-08,False
+100080,Ivy Meyer,ivy.meyer@example.com,Japan,Drift Webcam 4K,Accessories,2,74.25,148.5,2025-11-04,True
+100081,Mia Tanaka,mia.tanaka@example.com,Brazil,Terra Notebook,Office,3,12.75,38.25,2024-10-20,True
+100082,Hugo Khan,hugo.khan@example.com,Germany,Drift Webcam 4K,Accessories,3,74.25,222.75,2024-05-19,True
+100083,Nina Roy,nina.roy@example.com,Germany,Terra Notebook,Office,2,12.75,25.5,2024-02-23,True
+100084,Aria Novak,aria.novak@example.com,Romania,Atlas Backpack,Travel,1,64.9,64.9,2024-06-18,True
+100085,Ley Khan,ley.khan@example.com,United States,"Vertex Monitor 27""",Displays,3,319.99,959.97,2025-08-04,True
+100086,Ley Novak,ley.novak@example.com,India,Echo Desk Lamp,Home,2,42.0,84.0,2024-12-17,True
+100087,Lex Meyer,lex.meyer@example.com,Canada,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2025-12-19,True
+100088,Aria Chafer,aria.chafer@example.com,Canada,Comet Mouse,Accessories,3,39.99,119.97,2024-08-19,True
+100089,Nina Cohen,nina.cohen@example.com,Brazil,Nimbus Keyboard,Accessories,4,89.5,358.0,2024-08-07,True
+100090,Lex Cohen,lex.cohen@example.com,United Kingdom,Aurora Headphones,Audio,5,129.0,645.0,2024-09-07,False
+100091,Hugo Roy,hugo.roy@example.com,Australia,Echo Desk Lamp,Home,5,42.0,210.0,2025-11-23,True
+100092,Maya Haddad,maya.haddad@example.com,Australia,Comet Mouse,Accessories,3,39.99,119.97,2025-12-08,True
+100093,Omar Cohen,omar.cohen@example.com,France,Echo Desk Lamp,Home,5,42.0,210.0,2025-07-24,True
+100094,Ley Okafor,ley.okafor@example.com,United Kingdom,Echo Desk Lamp,Home,3,42.0,126.0,2025-04-04,True
+100095,Ley Khan,ley.khan@example.com,Japan,Terra Notebook,Office,5,12.75,63.75,2024-04-24,True
+100096,Hugo Meyer,hugo.meyer@example.com,United Kingdom,"Vertex Monitor 27""",Displays,5,319.99,1599.95,2024-04-10,True
+100097,Zoe Read,zoe.read@example.com,Japan,Nimbus Keyboard,Accessories,5,89.5,447.5,2025-01-02,True
+100098,Hugo Silva,hugo.silva@example.com,Germany,Orbit Charger,Accessories,4,29.99,119.96,2024-10-10,True
+100099,Ethan Cohen,ethan.cohen@example.com,United Kingdom,Drift Webcam 4K,Accessories,1,74.25,74.25,2025-02-27,False
+100100,Ethan Khan,ethan.khan@example.com,Japan,Atlas Backpack,Travel,1,64.9,64.9,2024-10-10,False
+100101,Mia Khan,mia.khan@example.com,Romania,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2024-09-13,True
+100102,Ethan Read,ethan.read@example.com,United Kingdom,Atlas Backpack,Travel,4,64.9,259.6,2024-10-24,False
+100103,Maya Chafer,maya.chafer@example.com,United Kingdom,Orbit Charger,Accessories,2,29.99,59.98,2024-03-08,False
+100104,Ava Silva,ava.silva@example.com,Canada,Nimbus Keyboard,Accessories,4,89.5,358.0,2025-05-02,True
+100105,Hugo Read,hugo.read@example.com,Germany,Terra Notebook,Office,4,12.75,51.0,2024-05-26,True
+100106,Omar Novak,omar.novak@example.com,Germany,Lumen E-Reader,Tablets,4,149.0,596.0,2024-11-05,True
+100107,Aria Silva,aria.silva@example.com,Japan,Comet Mouse,Accessories,1,39.99,39.99,2025-10-24,True
+100108,Liam Read,liam.read@example.com,Canada,Echo Desk Lamp,Home,1,42.0,42.0,2025-12-13,True
+100109,Noah Lopez,noah.lopez@example.com,Germany,Echo Desk Lamp,Home,4,42.0,168.0,2024-07-24,True
+100110,Lex Haddad,lex.haddad@example.com,Romania,Comet Mouse,Accessories,2,39.99,79.98,2024-11-27,True
+100111,Ivy Patel,ivy.patel@example.com,France,Drift Webcam 4K,Accessories,4,74.25,297.0,2025-05-06,True
+100112,Nina Novak,nina.novak@example.com,Canada,Echo Desk Lamp,Home,1,42.0,42.0,2025-07-11,True
+100113,Ava Rossi,ava.rossi@example.com,India,Drift Webcam 4K,Accessories,3,74.25,222.75,2025-05-22,True
+100114,Aria Patel,aria.patel@example.com,Canada,"Vertex Monitor 27""",Displays,1,319.99,319.99,2024-06-09,True
+100115,Maya Roy,maya.roy@example.com,France,"Vertex Monitor 27""",Displays,1,319.99,319.99,2025-07-02,False
+100116,Ley Meyer,ley.meyer@example.com,United States,Echo Desk Lamp,Home,4,42.0,168.0,2024-05-18,False
+100117,Lex Tanaka,lex.tanaka@example.com,Germany,Terra Notebook,Office,4,12.75,51.0,2024-11-20,True
+100118,Hugo Silva,hugo.silva@example.com,United States,Aurora Headphones,Audio,5,129.0,645.0,2025-02-08,True
+100119,Liam Khan,liam.khan@example.com,Japan,Echo Desk Lamp,Home,1,42.0,42.0,2025-12-10,True
+100120,Lex Roy,lex.roy@example.com,Australia,Echo Desk Lamp,Home,4,42.0,168.0,2025-09-05,True
+100121,Liam Meyer,liam.meyer@example.com,Germany,"Vertex Monitor 27""",Displays,2,319.99,639.98,2025-07-11,True
+100122,Noah Read,noah.read@example.com,United Kingdom,Nimbus Keyboard,Accessories,3,89.5,268.5,2025-03-15,True
+100123,Ley Cohen,ley.cohen@example.com,India,"Vertex Monitor 27""",Displays,5,319.99,1599.95,2025-06-28,False
+100124,Hugo Chafer,hugo.chafer@example.com,Australia,Atlas Backpack,Travel,4,64.9,259.6,2025-01-11,True
+100125,Hugo Reed,hugo.reed@example.com,Japan,Cinder Coffee Mug,Home,4,18.5,74.0,2025-01-05,True
+100126,Omar Cohen,omar.cohen@example.com,Germany,Comet Mouse,Accessories,4,39.99,159.96,2025-01-24,False
+100127,Aria Novak,aria.novak@example.com,Canada,Drift Webcam 4K,Accessories,1,74.25,74.25,2025-06-20,True
+100128,Sara Khan,sara.khan@example.com,India,Pulse Smartwatch,Wearables,5,199.0,995.0,2025-11-23,True
+100129,Ethan Rossi,ethan.rossi@example.com,Romania,"Vertex Monitor 27""",Displays,1,319.99,319.99,2024-04-21,True
+100130,Lex Chafer,lex.chafer@example.com,India,Terra Notebook,Office,1,12.75,12.75,2024-11-23,True
+100131,Ethan Silva,ethan.silva@example.com,United States,Terra Notebook,Office,3,12.75,38.25,2024-06-26,False
+100132,Ley Cohen,ley.cohen@example.com,Australia,Cinder Coffee Mug,Home,2,18.5,37.0,2025-10-22,True
+100133,Zoe Silva,zoe.silva@example.com,India,Comet Mouse,Accessories,5,39.99,199.95,2024-08-19,False
+100134,Ethan Novak,ethan.novak@example.com,United Kingdom,Aurora Headphones,Audio,4,129.0,516.0,2024-08-10,True
+100135,Zoe Khan,zoe.khan@example.com,Romania,Echo Desk Lamp,Home,3,42.0,126.0,2025-11-14,True
+100136,Ethan Rossi,ethan.rossi@example.com,India,Aurora Headphones,Audio,2,129.0,258.0,2025-02-08,True
+100137,Ley Meyer,ley.meyer@example.com,United States,Aurora Headphones,Audio,3,129.0,387.0,2025-05-01,True
+100138,Sara Patel,sara.patel@example.com,Romania,Terra Notebook,Office,1,12.75,12.75,2025-05-25,True
+100139,Omar Patel,omar.patel@example.com,Australia,Pulse Smartwatch,Wearables,2,199.0,398.0,2025-11-25,True
+100140,Sara Novak,sara.novak@example.com,United States,Drift Webcam 4K,Accessories,1,74.25,74.25,2025-08-02,True
+100141,Hugo Silva,hugo.silva@example.com,Brazil,Comet Mouse,Accessories,3,39.99,119.97,2025-03-07,False
+100142,Noah Reed,noah.reed@example.com,France,Pulse Smartwatch,Wearables,5,199.0,995.0,2025-03-09,True
+100143,Ethan Patel,ethan.patel@example.com,Germany,Aurora Headphones,Audio,3,129.0,387.0,2025-02-05,True
+100144,Mia Rossi,mia.rossi@example.com,France,Orbit Charger,Accessories,4,29.99,119.96,2025-02-26,True
+100145,Lex Lopez,lex.lopez@example.com,Brazil,Comet Mouse,Accessories,4,39.99,159.96,2025-10-13,True
+100146,Ley Khan,ley.khan@example.com,Canada,Orbit Charger,Accessories,2,29.99,59.98,2024-10-18,True
+100147,Omar Chafer,omar.chafer@example.com,Canada,Orbit Charger,Accessories,1,29.99,29.99,2025-11-14,False
+100148,Ivy Haddad,ivy.haddad@example.com,Germany,Aurora Headphones,Audio,4,129.0,516.0,2024-04-18,False
+100149,Ethan Cohen,ethan.cohen@example.com,India,Orbit Charger,Accessories,5,29.99,149.95,2024-07-21,False
+100150,Ethan Meyer,ethan.meyer@example.com,United States,Cinder Coffee Mug,Home,3,18.5,55.5,2025-04-15,True
+100151,Mia Rossi,mia.rossi@example.com,Brazil,Pulse Smartwatch,Wearables,1,199.0,199.0,2025-01-13,True
+100152,Ava Rossi,ava.rossi@example.com,Australia,Echo Desk Lamp,Home,1,42.0,42.0,2024-01-26,True
+100153,Zoe Patel,zoe.patel@example.com,Germany,Atlas Backpack,Travel,2,64.9,129.8,2024-10-07,True
+100154,Mia Cohen,mia.cohen@example.com,United States,Drift Webcam 4K,Accessories,5,74.25,371.25,2025-03-05,True
+100155,Maya Silva,maya.silva@example.com,Japan,Comet Mouse,Accessories,1,39.99,39.99,2024-06-26,True
+100156,Omar Cohen,omar.cohen@example.com,United Kingdom,Nimbus Keyboard,Accessories,2,89.5,179.0,2024-03-24,True
+100157,Ava Okafor,ava.okafor@example.com,Canada,Comet Mouse,Accessories,4,39.99,159.96,2025-09-19,False
+100158,Noah Chafer,noah.chafer@example.com,France,Atlas Backpack,Travel,1,64.9,64.9,2025-08-21,True
+100159,Ivy Tanaka,ivy.tanaka@example.com,Germany,Cinder Coffee Mug,Home,4,18.5,74.0,2025-12-15,False
+100160,Ava Cohen,ava.cohen@example.com,Germany,Atlas Backpack,Travel,2,64.9,129.8,2024-05-20,True
+100161,Noah Okafor,noah.okafor@example.com,Romania,Pulse Smartwatch,Wearables,4,199.0,796.0,2025-08-17,True
+100162,Ava Patel,ava.patel@example.com,France,Terra Notebook,Office,1,12.75,12.75,2024-07-15,True
+100163,Nina Cohen,nina.cohen@example.com,India,Echo Desk Lamp,Home,4,42.0,168.0,2024-06-14,True
+100164,Lex Cohen,lex.cohen@example.com,Germany,Drift Webcam 4K,Accessories,4,74.25,297.0,2024-02-03,True
+100165,Hugo Okafor,hugo.okafor@example.com,France,Pulse Smartwatch,Wearables,2,199.0,398.0,2024-10-18,True
+100166,Sara Khan,sara.khan@example.com,India,Cinder Coffee Mug,Home,3,18.5,55.5,2024-05-20,True
+100167,Ava Meyer,ava.meyer@example.com,Japan,"Vertex Monitor 27""",Displays,2,319.99,639.98,2025-04-28,False
+100168,Aria Lopez,aria.lopez@example.com,United Kingdom,Pulse Smartwatch,Wearables,1,199.0,199.0,2024-07-28,True
+100169,Maya Rossi,maya.rossi@example.com,France,Atlas Backpack,Travel,5,64.9,324.5,2024-10-22,True
+100170,Lex Haddad,lex.haddad@example.com,United Kingdom,Drift Webcam 4K,Accessories,3,74.25,222.75,2025-06-01,False
+100171,Zoe Meyer,zoe.meyer@example.com,Germany,Orbit Charger,Accessories,4,29.99,119.96,2024-12-21,True
+100172,Ava Okafor,ava.okafor@example.com,India,"Vertex Monitor 27""",Displays,2,319.99,639.98,2025-08-11,False
+100173,Lex Okafor,lex.okafor@example.com,Romania,Pulse Smartwatch,Wearables,5,199.0,995.0,2024-01-05,False
+100174,Omar Haddad,omar.haddad@example.com,United Kingdom,Orbit Charger,Accessories,1,29.99,29.99,2025-11-14,True
+100175,Ethan Roy,ethan.roy@example.com,France,Aurora Headphones,Audio,2,129.0,258.0,2024-06-14,False
+100176,Sara Novak,sara.novak@example.com,France,Atlas Backpack,Travel,4,64.9,259.6,2025-01-08,True
+100177,Omar Haddad,omar.haddad@example.com,United Kingdom,Nimbus Keyboard,Accessories,2,89.5,179.0,2024-03-25,True
+100178,Ley Khan,ley.khan@example.com,India,Nimbus Keyboard,Accessories,4,89.5,358.0,2024-03-13,True
+100179,Mia Lopez,mia.lopez@example.com,Germany,"Vertex Monitor 27""",Displays,3,319.99,959.97,2025-12-02,True
+100180,Ethan Reed,ethan.reed@example.com,Romania,Comet Mouse,Accessories,3,39.99,119.97,2025-10-13,True
+100181,Nina Read,nina.read@example.com,United States,Comet Mouse,Accessories,4,39.99,159.96,2025-03-26,True
+100182,Ethan Rossi,ethan.rossi@example.com,Germany,Terra Notebook,Office,3,12.75,38.25,2025-02-08,True
+100183,Nina Lopez,nina.lopez@example.com,United Kingdom,Comet Mouse,Accessories,4,39.99,159.96,2025-04-11,True
+100184,Ava Lopez,ava.lopez@example.com,France,Orbit Charger,Accessories,1,29.99,29.99,2024-06-12,True
+100185,Aria Novak,aria.novak@example.com,Germany,Drift Webcam 4K,Accessories,2,74.25,148.5,2024-05-07,False
+100186,Zoe Patel,zoe.patel@example.com,Japan,Orbit Charger,Accessories,1,29.99,29.99,2025-08-25,True
+100187,Omar Tanaka,omar.tanaka@example.com,Romania,Orbit Charger,Accessories,5,29.99,149.95,2025-11-11,False
+100188,Ava Tanaka,ava.tanaka@example.com,United Kingdom,Echo Desk Lamp,Home,3,42.0,126.0,2024-06-17,False
+100189,Ethan Tanaka,ethan.tanaka@example.com,Brazil,Nimbus Keyboard,Accessories,1,89.5,89.5,2025-02-21,True
+100190,Aria Khan,aria.khan@example.com,France,Atlas Backpack,Travel,5,64.9,324.5,2025-08-19,True
+100191,Maya Okafor,maya.okafor@example.com,Romania,Nimbus Keyboard,Accessories,4,89.5,358.0,2024-06-20,True
+100192,Zoe Haddad,zoe.haddad@example.com,Brazil,Echo Desk Lamp,Home,1,42.0,42.0,2024-09-21,False
+100193,Mia Okafor,mia.okafor@example.com,France,Echo Desk Lamp,Home,4,42.0,168.0,2024-06-12,True
+100194,Nina Roy,nina.roy@example.com,United States,Pulse Smartwatch,Wearables,5,199.0,995.0,2025-02-11,False
+100195,Sara Roy,sara.roy@example.com,Romania,Aurora Headphones,Audio,3,129.0,387.0,2024-06-03,True
+100196,Zoe Reed,zoe.reed@example.com,India,Pulse Smartwatch,Wearables,3,199.0,597.0,2024-10-23,True
+100197,Lex Lopez,lex.lopez@example.com,Japan,Cinder Coffee Mug,Home,3,18.5,55.5,2024-11-22,True
+100198,Ley Haddad,ley.haddad@example.com,Japan,Pulse Smartwatch,Wearables,3,199.0,597.0,2024-06-25,True
+100199,Mia Silva,mia.silva@example.com,United Kingdom,Drift Webcam 4K,Accessories,1,74.25,74.25,2024-09-25,True
+100200,Hugo Reed,hugo.reed@example.com,Brazil,"Vertex Monitor 27""",Displays,1,319.99,319.99,2024-10-13,False
+100201,Zoe Rossi,zoe.rossi@example.com,Japan,Terra Notebook,Office,5,12.75,63.75,2025-01-14,True
+100202,Hugo Chafer,hugo.chafer@example.com,United Kingdom,Echo Desk Lamp,Home,5,42.0,210.0,2025-04-18,True
+100203,Maya Patel,maya.patel@example.com,Brazil,Echo Desk Lamp,Home,2,42.0,84.0,2025-08-25,True
+100204,Nina Lopez,nina.lopez@example.com,Japan,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2024-10-05,True
+100205,Ivy Novak,ivy.novak@example.com,France,Echo Desk Lamp,Home,3,42.0,126.0,2024-12-28,True
+100206,Ava Read,ava.read@example.com,United Kingdom,Comet Mouse,Accessories,2,39.99,79.98,2025-09-05,True
+100207,Ava Reed,ava.reed@example.com,Brazil,Lumen E-Reader,Tablets,4,149.0,596.0,2024-07-02,True
+100208,Ley Chafer,ley.chafer@example.com,Brazil,Cinder Coffee Mug,Home,1,18.5,18.5,2024-01-11,True
+100209,Aria Okafor,aria.okafor@example.com,Japan,Orbit Charger,Accessories,3,29.99,89.97,2024-01-10,True
+100210,Ethan Okafor,ethan.okafor@example.com,Canada,Drift Webcam 4K,Accessories,4,74.25,297.0,2024-02-01,True
+100211,Aria Silva,aria.silva@example.com,France,"Vertex Monitor 27""",Displays,5,319.99,1599.95,2025-02-25,True
+100212,Lex Khan,lex.khan@example.com,India,Nimbus Keyboard,Accessories,2,89.5,179.0,2025-02-04,True
+100213,Ethan Meyer,ethan.meyer@example.com,France,"Vertex Monitor 27""",Displays,1,319.99,319.99,2024-12-05,True
+100214,Ivy Meyer,ivy.meyer@example.com,Romania,Pulse Smartwatch,Wearables,2,199.0,398.0,2025-03-22,True
+100215,Noah Cohen,noah.cohen@example.com,France,Comet Mouse,Accessories,5,39.99,199.95,2024-07-28,True
+100216,Sara Roy,sara.roy@example.com,United States,Pulse Smartwatch,Wearables,3,199.0,597.0,2025-02-12,True
+100217,Sara Novak,sara.novak@example.com,Brazil,Comet Mouse,Accessories,5,39.99,199.95,2024-01-12,True
+100218,Aria Novak,aria.novak@example.com,Canada,Drift Webcam 4K,Accessories,4,74.25,297.0,2024-03-03,True
+100219,Ethan Haddad,ethan.haddad@example.com,United States,Aurora Headphones,Audio,2,129.0,258.0,2024-01-11,True
+100220,Noah Roy,noah.roy@example.com,United Kingdom,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2024-11-07,True
+100221,Aria Patel,aria.patel@example.com,United Kingdom,Nimbus Keyboard,Accessories,3,89.5,268.5,2024-06-14,True
+100222,Hugo Tanaka,hugo.tanaka@example.com,Japan,Cinder Coffee Mug,Home,3,18.5,55.5,2025-12-16,True
+100223,Maya Lopez,maya.lopez@example.com,India,Aurora Headphones,Audio,1,129.0,129.0,2024-07-20,True
+100224,Zoe Lopez,zoe.lopez@example.com,Germany,Aurora Headphones,Audio,3,129.0,387.0,2024-06-22,True
+100225,Ethan Meyer,ethan.meyer@example.com,Japan,Terra Notebook,Office,4,12.75,51.0,2025-06-15,False
+100226,Aria Reed,aria.reed@example.com,India,Pulse Smartwatch,Wearables,5,199.0,995.0,2025-11-26,True
+100227,Ava Novak,ava.novak@example.com,Brazil,Orbit Charger,Accessories,4,29.99,119.96,2024-01-05,True
+100228,Sara Patel,sara.patel@example.com,Japan,Echo Desk Lamp,Home,1,42.0,42.0,2024-04-25,True
+100229,Ley Roy,ley.roy@example.com,Romania,Atlas Backpack,Travel,1,64.9,64.9,2024-11-15,True
+100230,Ley Tanaka,ley.tanaka@example.com,Japan,Comet Mouse,Accessories,5,39.99,199.95,2025-07-11,True
+100231,Mia Khan,mia.khan@example.com,Canada,Nimbus Keyboard,Accessories,2,89.5,179.0,2025-09-04,True
+100232,Lex Okafor,lex.okafor@example.com,Romania,Echo Desk Lamp,Home,2,42.0,84.0,2025-12-16,True
+100233,Zoe Rossi,zoe.rossi@example.com,Japan,Comet Mouse,Accessories,4,39.99,159.96,2025-02-26,True
+100234,Aria Cohen,aria.cohen@example.com,Germany,Orbit Charger,Accessories,3,29.99,89.97,2025-05-28,False
+100235,Hugo Reed,hugo.reed@example.com,Brazil,Terra Notebook,Office,2,12.75,25.5,2024-02-07,True
+100236,Mia Patel,mia.patel@example.com,Brazil,Echo Desk Lamp,Home,1,42.0,42.0,2025-08-26,True
+100237,Zoe Meyer,zoe.meyer@example.com,United Kingdom,Comet Mouse,Accessories,1,39.99,39.99,2025-12-24,True
+100238,Nina Patel,nina.patel@example.com,Germany,Cinder Coffee Mug,Home,5,18.5,92.5,2024-06-21,False
+100239,Ethan Novak,ethan.novak@example.com,Japan,"Vertex Monitor 27""",Displays,3,319.99,959.97,2024-03-14,True
+100240,Aria Haddad,aria.haddad@example.com,Japan,Comet Mouse,Accessories,5,39.99,199.95,2025-03-06,True
+100241,Hugo Chafer,hugo.chafer@example.com,United Kingdom,Pulse Smartwatch,Wearables,5,199.0,995.0,2024-05-07,True
+100242,Noah Read,noah.read@example.com,Romania,Drift Webcam 4K,Accessories,3,74.25,222.75,2024-09-21,False
+100243,Omar Silva,omar.silva@example.com,Romania,Drift Webcam 4K,Accessories,5,74.25,371.25,2025-10-02,True
+100244,Ivy Khan,ivy.khan@example.com,United Kingdom,Nimbus Keyboard,Accessories,5,89.5,447.5,2024-10-14,True
+100245,Ivy Tanaka,ivy.tanaka@example.com,United Kingdom,Orbit Charger,Accessories,5,29.99,149.95,2025-08-08,True
+100246,Sara Roy,sara.roy@example.com,Germany,Aurora Headphones,Audio,4,129.0,516.0,2024-03-15,True
+100247,Ethan Chafer,ethan.chafer@example.com,Japan,Pulse Smartwatch,Wearables,5,199.0,995.0,2025-12-11,True
+100248,Aria Cohen,aria.cohen@example.com,Brazil,Cinder Coffee Mug,Home,2,18.5,37.0,2024-06-08,True
+100249,Lex Tanaka,lex.tanaka@example.com,Germany,Lumen E-Reader,Tablets,2,149.0,298.0,2024-05-13,True
+100250,Nina Chafer,nina.chafer@example.com,Romania,Drift Webcam 4K,Accessories,3,74.25,222.75,2025-04-25,False
+100251,Noah Tanaka,noah.tanaka@example.com,Canada,Echo Desk Lamp,Home,3,42.0,126.0,2024-02-13,True
+100252,Mia Chafer,mia.chafer@example.com,United States,Atlas Backpack,Travel,3,64.9,194.7,2024-05-16,True
+100253,Aria Novak,aria.novak@example.com,United Kingdom,Orbit Charger,Accessories,4,29.99,119.96,2024-02-14,False
+100254,Lex Okafor,lex.okafor@example.com,Brazil,Pulse Smartwatch,Wearables,4,199.0,796.0,2024-07-02,True
+100255,Mia Cohen,mia.cohen@example.com,Germany,"Vertex Monitor 27""",Displays,3,319.99,959.97,2025-09-15,True
+100256,Lex Rossi,lex.rossi@example.com,Germany,Atlas Backpack,Travel,5,64.9,324.5,2024-02-13,True
+100257,Ley Lopez,ley.lopez@example.com,Australia,Pulse Smartwatch,Wearables,2,199.0,398.0,2025-09-02,False
+100258,Zoe Okafor,zoe.okafor@example.com,France,Pulse Smartwatch,Wearables,4,199.0,796.0,2025-03-20,True
+100259,Zoe Cohen,zoe.cohen@example.com,Japan,Atlas Backpack,Travel,3,64.9,194.7,2025-10-24,True
+100260,Omar Cohen,omar.cohen@example.com,France,"Vertex Monitor 27""",Displays,5,319.99,1599.95,2025-12-19,True
+100261,Aria Haddad,aria.haddad@example.com,Germany,Pulse Smartwatch,Wearables,3,199.0,597.0,2025-10-10,True
+100262,Hugo Rossi,hugo.rossi@example.com,Romania,Terra Notebook,Office,1,12.75,12.75,2025-05-21,True
+100263,Maya Meyer,maya.meyer@example.com,United States,Atlas Backpack,Travel,2,64.9,129.8,2025-03-17,True
+100264,Omar Patel,omar.patel@example.com,Australia,Cinder Coffee Mug,Home,2,18.5,37.0,2024-10-23,False
+100265,Ivy Tanaka,ivy.tanaka@example.com,Japan,Pulse Smartwatch,Wearables,4,199.0,796.0,2025-12-07,True
+100266,Maya Meyer,maya.meyer@example.com,Japan,Echo Desk Lamp,Home,1,42.0,42.0,2024-09-11,True
+100267,Ethan Lopez,ethan.lopez@example.com,Japan,Cinder Coffee Mug,Home,3,18.5,55.5,2025-09-11,True
+100268,Sara Patel,sara.patel@example.com,Romania,Terra Notebook,Office,3,12.75,38.25,2025-04-08,True
+100269,Lex Chafer,lex.chafer@example.com,Australia,Aurora Headphones,Audio,3,129.0,387.0,2025-06-16,True
+100270,Liam Reed,liam.reed@example.com,United Kingdom,Terra Notebook,Office,3,12.75,38.25,2024-10-22,True
+100271,Liam Roy,liam.roy@example.com,United Kingdom,Pulse Smartwatch,Wearables,2,199.0,398.0,2024-05-23,False
+100272,Liam Tanaka,liam.tanaka@example.com,Canada,Orbit Charger,Accessories,3,29.99,89.97,2024-04-27,True
+100273,Liam Lopez,liam.lopez@example.com,Japan,Terra Notebook,Office,3,12.75,38.25,2024-10-24,True
+100274,Mia Haddad,mia.haddad@example.com,Australia,Orbit Charger,Accessories,5,29.99,149.95,2024-01-04,True
+100275,Hugo Tanaka,hugo.tanaka@example.com,United States,Comet Mouse,Accessories,2,39.99,79.98,2024-07-21,True
+100276,Liam Tanaka,liam.tanaka@example.com,United Kingdom,Echo Desk Lamp,Home,2,42.0,84.0,2025-05-21,False
+100277,Maya Khan,maya.khan@example.com,Australia,Orbit Charger,Accessories,5,29.99,149.95,2024-03-14,True
+100278,Zoe Reed,zoe.reed@example.com,Canada,Nimbus Keyboard,Accessories,4,89.5,358.0,2024-12-28,True
+100279,Liam Haddad,liam.haddad@example.com,Romania,Nimbus Keyboard,Accessories,3,89.5,268.5,2024-06-10,True
+100280,Sara Lopez,sara.lopez@example.com,Japan,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2025-05-07,True
+100281,Ley Silva,ley.silva@example.com,United Kingdom,Terra Notebook,Office,4,12.75,51.0,2024-01-24,True
+100282,Lex Meyer,lex.meyer@example.com,Japan,Orbit Charger,Accessories,2,29.99,59.98,2025-07-17,True
+100283,Nina Novak,nina.novak@example.com,Japan,Comet Mouse,Accessories,2,39.99,79.98,2025-06-08,False
+100284,Nina Chafer,nina.chafer@example.com,Brazil,Echo Desk Lamp,Home,3,42.0,126.0,2025-10-24,True
+100285,Lex Novak,lex.novak@example.com,United States,Pulse Smartwatch,Wearables,2,199.0,398.0,2024-08-10,False
+100286,Sara Lopez,sara.lopez@example.com,Germany,Terra Notebook,Office,3,12.75,38.25,2025-06-20,True
+100287,Zoe Tanaka,zoe.tanaka@example.com,Romania,Drift Webcam 4K,Accessories,4,74.25,297.0,2025-07-23,True
+100288,Ethan Patel,ethan.patel@example.com,Australia,"Vertex Monitor 27""",Displays,2,319.99,639.98,2024-09-15,True
+100289,Ley Khan,ley.khan@example.com,United States,Atlas Backpack,Travel,1,64.9,64.9,2024-10-18,False
+100290,Ley Rossi,ley.rossi@example.com,Germany,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2024-12-19,True
+100291,Liam Lopez,liam.lopez@example.com,Canada,Echo Desk Lamp,Home,1,42.0,42.0,2024-09-14,True
+100292,Ivy Lopez,ivy.lopez@example.com,United States,Echo Desk Lamp,Home,3,42.0,126.0,2025-05-27,False
+100293,Mia Meyer,mia.meyer@example.com,India,Comet Mouse,Accessories,1,39.99,39.99,2025-12-03,True
+100294,Ivy Reed,ivy.reed@example.com,United States,Comet Mouse,Accessories,4,39.99,159.96,2025-07-06,True
+100295,Maya Novak,maya.novak@example.com,Brazil,Terra Notebook,Office,4,12.75,51.0,2025-08-28,True
+100296,Nina Roy,nina.roy@example.com,Japan,Comet Mouse,Accessories,5,39.99,199.95,2025-02-06,True
+100297,Nina Lopez,nina.lopez@example.com,United States,Drift Webcam 4K,Accessories,2,74.25,148.5,2024-05-15,True
+100298,Noah Roy,noah.roy@example.com,Australia,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2024-08-12,False
+100299,Mia Reed,mia.reed@example.com,United States,Terra Notebook,Office,1,12.75,12.75,2025-10-25,True
+100300,Liam Haddad,liam.haddad@example.com,Germany,Lumen E-Reader,Tablets,2,149.0,298.0,2024-10-02,True
+100301,Sara Okafor,sara.okafor@example.com,United States,Nimbus Keyboard,Accessories,2,89.5,179.0,2025-08-08,True
+100302,Maya Rossi,maya.rossi@example.com,France,Nimbus Keyboard,Accessories,2,89.5,179.0,2025-04-27,True
+100303,Omar Cohen,omar.cohen@example.com,Brazil,Atlas Backpack,Travel,5,64.9,324.5,2024-05-05,True
+100304,Noah Chafer,noah.chafer@example.com,United Kingdom,Cinder Coffee Mug,Home,3,18.5,55.5,2024-09-19,True
+100305,Liam Silva,liam.silva@example.com,France,Orbit Charger,Accessories,4,29.99,119.96,2025-01-12,True
+100306,Sara Roy,sara.roy@example.com,India,"Vertex Monitor 27""",Displays,3,319.99,959.97,2025-03-10,True
+100307,Maya Lopez,maya.lopez@example.com,Australia,Echo Desk Lamp,Home,2,42.0,84.0,2025-12-05,True
+100308,Liam Haddad,liam.haddad@example.com,India,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2024-07-08,True
+100309,Ley Novak,ley.novak@example.com,Brazil,Comet Mouse,Accessories,4,39.99,159.96,2024-09-24,True
+100310,Ivy Read,ivy.read@example.com,Romania,Cinder Coffee Mug,Home,5,18.5,92.5,2024-02-07,True
+100311,Omar Okafor,omar.okafor@example.com,Australia,Orbit Charger,Accessories,5,29.99,149.95,2025-04-28,True
+100312,Lex Reed,lex.reed@example.com,Australia,Nimbus Keyboard,Accessories,2,89.5,179.0,2024-12-25,True
+100313,Mia Okafor,mia.okafor@example.com,India,Atlas Backpack,Travel,2,64.9,129.8,2024-09-11,True
+100314,Nina Tanaka,nina.tanaka@example.com,United Kingdom,"Vertex Monitor 27""",Displays,3,319.99,959.97,2025-06-17,True
+100315,Ethan Khan,ethan.khan@example.com,Brazil,Terra Notebook,Office,4,12.75,51.0,2024-06-11,True
+100316,Omar Rossi,omar.rossi@example.com,United States,Lumen E-Reader,Tablets,2,149.0,298.0,2025-09-19,True
+100317,Nina Read,nina.read@example.com,Brazil,Drift Webcam 4K,Accessories,2,74.25,148.5,2024-07-19,True
+100318,Ethan Lopez,ethan.lopez@example.com,United Kingdom,Orbit Charger,Accessories,3,29.99,89.97,2025-12-21,True
+100319,Ethan Silva,ethan.silva@example.com,Japan,Terra Notebook,Office,3,12.75,38.25,2024-12-18,True
+100320,Liam Reed,liam.reed@example.com,France,"Vertex Monitor 27""",Displays,1,319.99,319.99,2024-02-27,True
+100321,Maya Haddad,maya.haddad@example.com,Australia,Cinder Coffee Mug,Home,2,18.5,37.0,2024-12-05,False
+100322,Noah Tanaka,noah.tanaka@example.com,Romania,Pulse Smartwatch,Wearables,1,199.0,199.0,2025-11-16,False
+100323,Noah Lopez,noah.lopez@example.com,United States,Cinder Coffee Mug,Home,1,18.5,18.5,2025-09-10,False
+100324,Aria Okafor,aria.okafor@example.com,Japan,Orbit Charger,Accessories,4,29.99,119.96,2024-02-17,False
+100325,Mia Meyer,mia.meyer@example.com,Brazil,"Vertex Monitor 27""",Displays,3,319.99,959.97,2025-07-03,True
+100326,Nina Tanaka,nina.tanaka@example.com,Australia,Atlas Backpack,Travel,2,64.9,129.8,2025-11-27,True
+100327,Sara Rossi,sara.rossi@example.com,Germany,Orbit Charger,Accessories,1,29.99,29.99,2025-07-13,True
+100328,Ivy Novak,ivy.novak@example.com,Germany,Nimbus Keyboard,Accessories,2,89.5,179.0,2025-07-21,True
+100329,Omar Rossi,omar.rossi@example.com,United States,Comet Mouse,Accessories,5,39.99,199.95,2024-04-28,True
+100330,Omar Tanaka,omar.tanaka@example.com,Germany,Aurora Headphones,Audio,1,129.0,129.0,2025-09-19,True
+100331,Zoe Reed,zoe.reed@example.com,Australia,Pulse Smartwatch,Wearables,1,199.0,199.0,2024-12-27,True
+100332,Ava Read,ava.read@example.com,Australia,Drift Webcam 4K,Accessories,5,74.25,371.25,2025-11-18,True
+100333,Maya Okafor,maya.okafor@example.com,France,Drift Webcam 4K,Accessories,1,74.25,74.25,2025-01-04,True
+100334,Aria Khan,aria.khan@example.com,Romania,Pulse Smartwatch,Wearables,5,199.0,995.0,2025-06-01,True
+100335,Maya Tanaka,maya.tanaka@example.com,Brazil,Echo Desk Lamp,Home,2,42.0,84.0,2025-07-06,True
+100336,Sara Roy,sara.roy@example.com,United Kingdom,Comet Mouse,Accessories,5,39.99,199.95,2024-12-03,False
+100337,Zoe Roy,zoe.roy@example.com,India,Terra Notebook,Office,2,12.75,25.5,2025-06-04,False
+100338,Lex Tanaka,lex.tanaka@example.com,Germany,Pulse Smartwatch,Wearables,3,199.0,597.0,2024-02-06,True
+100339,Noah Lopez,noah.lopez@example.com,Germany,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2024-02-12,True
+100340,Omar Meyer,omar.meyer@example.com,United States,Pulse Smartwatch,Wearables,4,199.0,796.0,2025-07-13,True
+100341,Hugo Reed,hugo.reed@example.com,Romania,"Vertex Monitor 27""",Displays,2,319.99,639.98,2024-11-13,False
+100342,Lex Read,lex.read@example.com,Japan,Aurora Headphones,Audio,4,129.0,516.0,2024-03-14,True
+100343,Lex Tanaka,lex.tanaka@example.com,United Kingdom,Comet Mouse,Accessories,3,39.99,119.97,2024-12-21,True
+100344,Omar Chafer,omar.chafer@example.com,Japan,Echo Desk Lamp,Home,1,42.0,42.0,2025-01-13,True
+100345,Omar Roy,omar.roy@example.com,Brazil,Pulse Smartwatch,Wearables,4,199.0,796.0,2025-11-20,False
+100346,Ley Meyer,ley.meyer@example.com,Canada,Terra Notebook,Office,2,12.75,25.5,2025-03-13,True
+100347,Lex Okafor,lex.okafor@example.com,Romania,Terra Notebook,Office,4,12.75,51.0,2024-06-13,True
+100348,Maya Roy,maya.roy@example.com,Romania,Pulse Smartwatch,Wearables,1,199.0,199.0,2024-10-18,False
+100349,Maya Lopez,maya.lopez@example.com,Australia,Nimbus Keyboard,Accessories,4,89.5,358.0,2025-05-27,True
+100350,Aria Rossi,aria.rossi@example.com,Japan,Cinder Coffee Mug,Home,4,18.5,74.0,2025-04-09,True
+100351,Hugo Roy,hugo.roy@example.com,Canada,Cinder Coffee Mug,Home,1,18.5,18.5,2025-10-13,True
+100352,Liam Reed,liam.reed@example.com,France,Terra Notebook,Office,4,12.75,51.0,2024-06-23,True
+100353,Noah Meyer,noah.meyer@example.com,Germany,Orbit Charger,Accessories,1,29.99,29.99,2024-11-22,True
+100354,Sara Meyer,sara.meyer@example.com,India,Nimbus Keyboard,Accessories,5,89.5,447.5,2025-07-04,False
+100355,Lex Chafer,lex.chafer@example.com,France,"Vertex Monitor 27""",Displays,5,319.99,1599.95,2024-08-12,True
+100356,Maya Novak,maya.novak@example.com,Japan,Atlas Backpack,Travel,5,64.9,324.5,2025-01-16,False
+100357,Nina Reed,nina.reed@example.com,Japan,Comet Mouse,Accessories,1,39.99,39.99,2025-05-11,True
+100358,Mia Lopez,mia.lopez@example.com,Canada,Echo Desk Lamp,Home,3,42.0,126.0,2024-08-24,True
+100359,Ley Khan,ley.khan@example.com,Germany,Aurora Headphones,Audio,1,129.0,129.0,2024-06-21,False
+100360,Maya Silva,maya.silva@example.com,France,Terra Notebook,Office,2,12.75,25.5,2024-09-06,True
+100361,Nina Tanaka,nina.tanaka@example.com,Japan,Lumen E-Reader,Tablets,4,149.0,596.0,2024-11-22,True
+100362,Ivy Okafor,ivy.okafor@example.com,Canada,Atlas Backpack,Travel,2,64.9,129.8,2025-07-01,True
+100363,Mia Read,mia.read@example.com,Romania,Terra Notebook,Office,1,12.75,12.75,2024-09-06,True
+100364,Mia Tanaka,mia.tanaka@example.com,Canada,Comet Mouse,Accessories,3,39.99,119.97,2025-10-13,True
+100365,Omar Khan,omar.khan@example.com,Canada,Pulse Smartwatch,Wearables,3,199.0,597.0,2024-11-23,True
+100366,Liam Meyer,liam.meyer@example.com,Japan,Atlas Backpack,Travel,1,64.9,64.9,2025-02-08,True
+100367,Zoe Cohen,zoe.cohen@example.com,France,Terra Notebook,Office,2,12.75,25.5,2025-07-20,False
+100368,Nina Roy,nina.roy@example.com,France,Drift Webcam 4K,Accessories,4,74.25,297.0,2024-09-06,True
+100369,Zoe Silva,zoe.silva@example.com,Romania,Pulse Smartwatch,Wearables,4,199.0,796.0,2024-06-01,True
+100370,Mia Rossi,mia.rossi@example.com,France,Cinder Coffee Mug,Home,5,18.5,92.5,2025-07-22,True
+100371,Hugo Rossi,hugo.rossi@example.com,Japan,Echo Desk Lamp,Home,4,42.0,168.0,2024-10-01,True
+100372,Mia Read,mia.read@example.com,Australia,Nimbus Keyboard,Accessories,3,89.5,268.5,2025-03-25,True
+100373,Hugo Patel,hugo.patel@example.com,France,Echo Desk Lamp,Home,5,42.0,210.0,2024-10-04,True
+100374,Noah Rossi,noah.rossi@example.com,United States,Pulse Smartwatch,Wearables,5,199.0,995.0,2025-09-07,True
+100375,Ava Okafor,ava.okafor@example.com,United Kingdom,Orbit Charger,Accessories,2,29.99,59.98,2024-08-09,True
+100376,Aria Khan,aria.khan@example.com,Australia,Echo Desk Lamp,Home,1,42.0,42.0,2024-12-19,True
+100377,Aria Okafor,aria.okafor@example.com,Japan,Atlas Backpack,Travel,4,64.9,259.6,2024-04-27,True
+100378,Ivy Meyer,ivy.meyer@example.com,United Kingdom,Pulse Smartwatch,Wearables,5,199.0,995.0,2024-06-23,True
+100379,Omar Read,omar.read@example.com,Japan,"Vertex Monitor 27""",Displays,1,319.99,319.99,2025-01-09,True
+100380,Zoe Okafor,zoe.okafor@example.com,Japan,Drift Webcam 4K,Accessories,2,74.25,148.5,2025-04-25,True
+100381,Nina Tanaka,nina.tanaka@example.com,United Kingdom,Drift Webcam 4K,Accessories,5,74.25,371.25,2025-07-15,False
+100382,Maya Reed,maya.reed@example.com,France,Comet Mouse,Accessories,4,39.99,159.96,2025-12-12,True
+100383,Ethan Cohen,ethan.cohen@example.com,Germany,Atlas Backpack,Travel,1,64.9,64.9,2025-11-22,True
+100384,Aria Khan,aria.khan@example.com,Australia,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2025-04-16,True
+100385,Aria Read,aria.read@example.com,Romania,Pulse Smartwatch,Wearables,5,199.0,995.0,2024-10-28,True
+100386,Ley Reed,ley.reed@example.com,United States,Orbit Charger,Accessories,1,29.99,29.99,2024-11-26,True
+100387,Ivy Khan,ivy.khan@example.com,Canada,Drift Webcam 4K,Accessories,4,74.25,297.0,2024-07-07,True
+100388,Liam Silva,liam.silva@example.com,Japan,Orbit Charger,Accessories,3,29.99,89.97,2025-02-21,True
+100389,Ava Cohen,ava.cohen@example.com,United States,Orbit Charger,Accessories,2,29.99,59.98,2025-11-10,True
+100390,Maya Chafer,maya.chafer@example.com,Germany,Cinder Coffee Mug,Home,1,18.5,18.5,2024-04-16,False
+100391,Omar Chafer,omar.chafer@example.com,United States,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2024-12-11,True
+100392,Aria Roy,aria.roy@example.com,Canada,Terra Notebook,Office,2,12.75,25.5,2024-04-13,False
+100393,Maya Khan,maya.khan@example.com,Brazil,Comet Mouse,Accessories,3,39.99,119.97,2025-03-13,True
+100394,Maya Rossi,maya.rossi@example.com,Germany,Drift Webcam 4K,Accessories,2,74.25,148.5,2024-10-21,False
+100395,Ley Okafor,ley.okafor@example.com,India,Lumen E-Reader,Tablets,2,149.0,298.0,2025-04-03,True
+100396,Zoe Patel,zoe.patel@example.com,India,Comet Mouse,Accessories,5,39.99,199.95,2025-07-11,True
+100397,Mia Read,mia.read@example.com,Australia,Orbit Charger,Accessories,1,29.99,29.99,2025-12-01,True
+100398,Sara Reed,sara.reed@example.com,France,Aurora Headphones,Audio,2,129.0,258.0,2024-12-13,True
+100399,Ivy Patel,ivy.patel@example.com,India,Lumen E-Reader,Tablets,4,149.0,596.0,2024-04-16,True
+100400,Ava Lopez,ava.lopez@example.com,Brazil,Nimbus Keyboard,Accessories,3,89.5,268.5,2024-07-28,True
+100401,Nina Cohen,nina.cohen@example.com,Canada,"Vertex Monitor 27""",Displays,2,319.99,639.98,2024-01-19,False
+100402,Lex Chafer,lex.chafer@example.com,India,Nimbus Keyboard,Accessories,1,89.5,89.5,2025-11-23,True
+100403,Nina Roy,nina.roy@example.com,Germany,Terra Notebook,Office,4,12.75,51.0,2024-05-03,True
+100404,Noah Reed,noah.reed@example.com,France,Lumen E-Reader,Tablets,2,149.0,298.0,2025-07-19,True
+100405,Aria Novak,aria.novak@example.com,United Kingdom,Orbit Charger,Accessories,1,29.99,29.99,2025-12-28,True
+100406,Mia Khan,mia.khan@example.com,Canada,Cinder Coffee Mug,Home,1,18.5,18.5,2024-05-22,True
+100407,Hugo Silva,hugo.silva@example.com,Japan,Comet Mouse,Accessories,1,39.99,39.99,2024-03-16,True
+100408,Noah Lopez,noah.lopez@example.com,Japan,Terra Notebook,Office,3,12.75,38.25,2025-03-24,True
+100409,Lex Okafor,lex.okafor@example.com,Brazil,Comet Mouse,Accessories,1,39.99,39.99,2025-05-17,False
+100410,Hugo Meyer,hugo.meyer@example.com,Canada,Orbit Charger,Accessories,1,29.99,29.99,2025-09-12,False
+100411,Aria Meyer,aria.meyer@example.com,Japan,Drift Webcam 4K,Accessories,3,74.25,222.75,2025-02-19,True
+100412,Ava Chafer,ava.chafer@example.com,United States,Terra Notebook,Office,5,12.75,63.75,2024-01-08,False
+100413,Ley Roy,ley.roy@example.com,United States,Drift Webcam 4K,Accessories,2,74.25,148.5,2025-04-11,True
+100414,Liam Okafor,liam.okafor@example.com,Germany,Pulse Smartwatch,Wearables,3,199.0,597.0,2025-02-17,True
+100415,Ivy Silva,ivy.silva@example.com,United States,Lumen E-Reader,Tablets,5,149.0,745.0,2025-02-15,True
+100416,Maya Rossi,maya.rossi@example.com,Germany,Aurora Headphones,Audio,3,129.0,387.0,2025-01-12,True
+100417,Omar Patel,omar.patel@example.com,Australia,Aurora Headphones,Audio,5,129.0,645.0,2025-06-19,True
+100418,Maya Patel,maya.patel@example.com,Australia,Lumen E-Reader,Tablets,5,149.0,745.0,2024-01-14,False
+100419,Noah Cohen,noah.cohen@example.com,Brazil,Orbit Charger,Accessories,1,29.99,29.99,2024-11-13,True
+100420,Hugo Read,hugo.read@example.com,France,Comet Mouse,Accessories,2,39.99,79.98,2024-07-16,True
+100421,Zoe Okafor,zoe.okafor@example.com,United States,Aurora Headphones,Audio,1,129.0,129.0,2024-09-14,True
+100422,Ley Tanaka,ley.tanaka@example.com,Romania,Terra Notebook,Office,1,12.75,12.75,2024-09-05,True
+100423,Nina Khan,nina.khan@example.com,United States,Atlas Backpack,Travel,5,64.9,324.5,2025-11-05,True
+100424,Lex Rossi,lex.rossi@example.com,Brazil,Pulse Smartwatch,Wearables,4,199.0,796.0,2025-08-09,True
+100425,Mia Silva,mia.silva@example.com,Japan,Atlas Backpack,Travel,1,64.9,64.9,2024-03-15,True
+100426,Nina Khan,nina.khan@example.com,Australia,"Vertex Monitor 27""",Displays,3,319.99,959.97,2025-05-15,True
+100427,Ava Khan,ava.khan@example.com,Romania,Drift Webcam 4K,Accessories,3,74.25,222.75,2024-04-27,True
+100428,Zoe Khan,zoe.khan@example.com,Brazil,Terra Notebook,Office,2,12.75,25.5,2025-09-02,True
+100429,Lex Rossi,lex.rossi@example.com,India,Drift Webcam 4K,Accessories,1,74.25,74.25,2025-09-24,True
+100430,Ava Tanaka,ava.tanaka@example.com,Germany,Comet Mouse,Accessories,2,39.99,79.98,2024-01-27,True
+100431,Mia Silva,mia.silva@example.com,Brazil,Lumen E-Reader,Tablets,4,149.0,596.0,2024-10-19,True
+100432,Aria Khan,aria.khan@example.com,Australia,Nimbus Keyboard,Accessories,1,89.5,89.5,2025-03-03,True
+100433,Aria Patel,aria.patel@example.com,United States,Pulse Smartwatch,Wearables,1,199.0,199.0,2025-01-06,True
+100434,Nina Rossi,nina.rossi@example.com,Canada,Terra Notebook,Office,4,12.75,51.0,2024-07-22,True
+100435,Ley Chafer,ley.chafer@example.com,United Kingdom,Drift Webcam 4K,Accessories,3,74.25,222.75,2025-03-02,True
+100436,Omar Chafer,omar.chafer@example.com,Canada,Orbit Charger,Accessories,3,29.99,89.97,2025-09-16,False
+100437,Lex Roy,lex.roy@example.com,Australia,Drift Webcam 4K,Accessories,4,74.25,297.0,2024-11-26,True
+100438,Ivy Roy,ivy.roy@example.com,Canada,Terra Notebook,Office,3,12.75,38.25,2025-06-19,True
+100439,Nina Read,nina.read@example.com,Brazil,Drift Webcam 4K,Accessories,1,74.25,74.25,2024-01-26,True
+100440,Ivy Patel,ivy.patel@example.com,Brazil,Echo Desk Lamp,Home,5,42.0,210.0,2024-03-04,True
+100441,Mia Read,mia.read@example.com,Australia,"Vertex Monitor 27""",Displays,1,319.99,319.99,2025-06-27,True
+100442,Zoe Silva,zoe.silva@example.com,Brazil,Lumen E-Reader,Tablets,5,149.0,745.0,2025-10-01,True
+100443,Ley Meyer,ley.meyer@example.com,Romania,Atlas Backpack,Travel,2,64.9,129.8,2024-08-18,True
+100444,Ethan Haddad,ethan.haddad@example.com,Australia,Comet Mouse,Accessories,1,39.99,39.99,2024-01-17,True
+100445,Ley Reed,ley.reed@example.com,Japan,Atlas Backpack,Travel,2,64.9,129.8,2025-12-06,True
+100446,Aria Rossi,aria.rossi@example.com,United States,Pulse Smartwatch,Wearables,1,199.0,199.0,2024-10-23,True
+100447,Maya Khan,maya.khan@example.com,Germany,"Vertex Monitor 27""",Displays,3,319.99,959.97,2025-12-22,True
+100448,Ava Cohen,ava.cohen@example.com,Japan,Aurora Headphones,Audio,3,129.0,387.0,2024-12-14,True
+100449,Ethan Novak,ethan.novak@example.com,France,Pulse Smartwatch,Wearables,2,199.0,398.0,2025-04-22,True
+100450,Zoe Roy,zoe.roy@example.com,Japan,Aurora Headphones,Audio,3,129.0,387.0,2024-12-01,True
+100451,Omar Roy,omar.roy@example.com,Japan,Atlas Backpack,Travel,1,64.9,64.9,2025-10-08,True
+100452,Ava Reed,ava.reed@example.com,Brazil,Echo Desk Lamp,Home,2,42.0,84.0,2024-04-12,True
+100453,Zoe Novak,zoe.novak@example.com,Canada,Comet Mouse,Accessories,3,39.99,119.97,2024-05-07,True
+100454,Ava Cohen,ava.cohen@example.com,United States,Aurora Headphones,Audio,1,129.0,129.0,2024-07-15,True
+100455,Zoe Reed,zoe.reed@example.com,India,Cinder Coffee Mug,Home,4,18.5,74.0,2025-09-13,False
+100456,Ethan Patel,ethan.patel@example.com,Japan,Atlas Backpack,Travel,2,64.9,129.8,2025-02-26,True
+100457,Lex Haddad,lex.haddad@example.com,Germany,Pulse Smartwatch,Wearables,3,199.0,597.0,2024-06-06,True
+100458,Zoe Okafor,zoe.okafor@example.com,Germany,Comet Mouse,Accessories,5,39.99,199.95,2025-10-20,True
+100459,Hugo Haddad,hugo.haddad@example.com,Romania,Cinder Coffee Mug,Home,2,18.5,37.0,2025-03-02,False
+100460,Mia Chafer,mia.chafer@example.com,France,Cinder Coffee Mug,Home,5,18.5,92.5,2025-11-10,True
+100461,Ava Haddad,ava.haddad@example.com,France,Cinder Coffee Mug,Home,5,18.5,92.5,2025-03-02,True
+100462,Nina Khan,nina.khan@example.com,Canada,Aurora Headphones,Audio,5,129.0,645.0,2024-02-01,True
+100463,Sara Read,sara.read@example.com,Germany,Comet Mouse,Accessories,4,39.99,159.96,2025-07-16,True
+100464,Sara Read,sara.read@example.com,India,Comet Mouse,Accessories,5,39.99,199.95,2024-06-13,True
+100465,Ethan Haddad,ethan.haddad@example.com,Canada,Aurora Headphones,Audio,4,129.0,516.0,2025-04-27,True
+100466,Ivy Silva,ivy.silva@example.com,Germany,Terra Notebook,Office,1,12.75,12.75,2025-09-14,True
+100467,Omar Chafer,omar.chafer@example.com,India,"Vertex Monitor 27""",Displays,1,319.99,319.99,2025-09-22,True
+100468,Ethan Meyer,ethan.meyer@example.com,United Kingdom,Lumen E-Reader,Tablets,4,149.0,596.0,2024-07-28,True
+100469,Noah Meyer,noah.meyer@example.com,Romania,"Vertex Monitor 27""",Displays,5,319.99,1599.95,2024-02-25,True
+100470,Zoe Chafer,zoe.chafer@example.com,United States,Lumen E-Reader,Tablets,2,149.0,298.0,2025-02-22,True
+100471,Aria Novak,aria.novak@example.com,United Kingdom,Drift Webcam 4K,Accessories,5,74.25,371.25,2025-12-26,False
+100472,Nina Lopez,nina.lopez@example.com,Brazil,Cinder Coffee Mug,Home,5,18.5,92.5,2025-09-15,True
+100473,Ivy Patel,ivy.patel@example.com,Romania,Terra Notebook,Office,5,12.75,63.75,2025-02-14,False
+100474,Omar Meyer,omar.meyer@example.com,Germany,Atlas Backpack,Travel,1,64.9,64.9,2024-05-28,True
+100475,Ley Reed,ley.reed@example.com,India,Cinder Coffee Mug,Home,3,18.5,55.5,2025-10-20,True
+100476,Zoe Read,zoe.read@example.com,Romania,Cinder Coffee Mug,Home,2,18.5,37.0,2025-01-13,True
+100477,Ley Okafor,ley.okafor@example.com,Canada,Lumen E-Reader,Tablets,1,149.0,149.0,2025-06-01,True
+100478,Maya Read,maya.read@example.com,Canada,Aurora Headphones,Audio,3,129.0,387.0,2024-04-05,True
+100479,Hugo Tanaka,hugo.tanaka@example.com,India,Pulse Smartwatch,Wearables,3,199.0,597.0,2024-04-15,True
+100480,Aria Roy,aria.roy@example.com,France,Terra Notebook,Office,4,12.75,51.0,2025-01-17,True
+100481,Ava Read,ava.read@example.com,India,Terra Notebook,Office,5,12.75,63.75,2024-09-19,False
+100482,Mia Reed,mia.reed@example.com,Australia,Lumen E-Reader,Tablets,1,149.0,149.0,2024-08-02,True
+100483,Hugo Chafer,hugo.chafer@example.com,Canada,Aurora Headphones,Audio,3,129.0,387.0,2025-11-04,True
+100484,Mia Cohen,mia.cohen@example.com,Canada,Echo Desk Lamp,Home,5,42.0,210.0,2024-08-19,True
+100485,Ley Silva,ley.silva@example.com,United Kingdom,Aurora Headphones,Audio,1,129.0,129.0,2024-07-02,False
+100486,Omar Patel,omar.patel@example.com,Australia,Lumen E-Reader,Tablets,2,149.0,298.0,2024-05-21,True
+100487,Ivy Rossi,ivy.rossi@example.com,Canada,Orbit Charger,Accessories,1,29.99,29.99,2024-11-06,True
+100488,Ivy Chafer,ivy.chafer@example.com,United Kingdom,Aurora Headphones,Audio,5,129.0,645.0,2025-07-13,True
+100489,Ethan Read,ethan.read@example.com,United Kingdom,Lumen E-Reader,Tablets,4,149.0,596.0,2025-10-04,False
+100490,Sara Rossi,sara.rossi@example.com,Romania,Pulse Smartwatch,Wearables,5,199.0,995.0,2025-05-22,False
+100491,Ava Cohen,ava.cohen@example.com,United Kingdom,Aurora Headphones,Audio,3,129.0,387.0,2025-11-23,True
+100492,Sara Read,sara.read@example.com,France,Lumen E-Reader,Tablets,2,149.0,298.0,2024-01-26,True
+100493,Maya Meyer,maya.meyer@example.com,Japan,Cinder Coffee Mug,Home,3,18.5,55.5,2024-11-16,True
+100494,Lex Reed,lex.reed@example.com,India,Cinder Coffee Mug,Home,4,18.5,74.0,2024-10-23,True
+100495,Aria Chafer,aria.chafer@example.com,France,Pulse Smartwatch,Wearables,2,199.0,398.0,2025-11-12,True
+100496,Aria Silva,aria.silva@example.com,Japan,Orbit Charger,Accessories,5,29.99,149.95,2025-02-16,False
+100497,Lex Okafor,lex.okafor@example.com,Brazil,"Vertex Monitor 27""",Displays,2,319.99,639.98,2024-04-12,True
+100498,Aria Read,aria.read@example.com,Brazil,Cinder Coffee Mug,Home,3,18.5,55.5,2025-10-10,True
+100499,Ava Tanaka,ava.tanaka@example.com,Romania,Nimbus Keyboard,Accessories,5,89.5,447.5,2024-08-07,True
+100500,Aria Novak,aria.novak@example.com,United Kingdom,Cinder Coffee Mug,Home,5,18.5,92.5,2025-01-28,True
+100501,Zoe Chafer,zoe.chafer@example.com,Romania,Pulse Smartwatch,Wearables,4,199.0,796.0,2025-03-11,True
+100502,Zoe Patel,zoe.patel@example.com,Brazil,Comet Mouse,Accessories,4,39.99,159.96,2024-06-21,False
+100503,Ethan Read,ethan.read@example.com,Romania,Lumen E-Reader,Tablets,2,149.0,298.0,2024-08-26,True
+100504,Ava Silva,ava.silva@example.com,India,Atlas Backpack,Travel,4,64.9,259.6,2025-07-16,True
+100505,Ivy Lopez,ivy.lopez@example.com,United States,Lumen E-Reader,Tablets,3,149.0,447.0,2025-09-07,False
+100506,Ivy Novak,ivy.novak@example.com,Australia,Terra Notebook,Office,2,12.75,25.5,2025-05-05,False
+100507,Noah Meyer,noah.meyer@example.com,Germany,Aurora Headphones,Audio,2,129.0,258.0,2024-05-10,True
+100508,Noah Meyer,noah.meyer@example.com,India,"Vertex Monitor 27""",Displays,3,319.99,959.97,2024-06-16,True
+100509,Mia Silva,mia.silva@example.com,Australia,Cinder Coffee Mug,Home,1,18.5,18.5,2024-12-05,True
+100510,Ivy Meyer,ivy.meyer@example.com,Germany,"Vertex Monitor 27""",Displays,2,319.99,639.98,2025-12-21,True
+100511,Nina Reed,nina.reed@example.com,France,Orbit Charger,Accessories,3,29.99,89.97,2024-10-02,True
+100512,Sara Rossi,sara.rossi@example.com,Germany,Nimbus Keyboard,Accessories,1,89.5,89.5,2025-08-13,False
+100513,Lex Tanaka,lex.tanaka@example.com,Australia,Terra Notebook,Office,2,12.75,25.5,2024-05-14,True
+100514,Sara Lopez,sara.lopez@example.com,Romania,Aurora Headphones,Audio,5,129.0,645.0,2024-07-27,True
+100515,Noah Okafor,noah.okafor@example.com,United Kingdom,Atlas Backpack,Travel,1,64.9,64.9,2024-02-16,False
+100516,Mia Patel,mia.patel@example.com,Australia,Aurora Headphones,Audio,5,129.0,645.0,2025-12-14,True
+100517,Ivy Lopez,ivy.lopez@example.com,Canada,Echo Desk Lamp,Home,2,42.0,84.0,2025-04-01,False
+100518,Ava Reed,ava.reed@example.com,Canada,Comet Mouse,Accessories,5,39.99,199.95,2024-02-25,True
+100519,Hugo Okafor,hugo.okafor@example.com,Australia,Comet Mouse,Accessories,3,39.99,119.97,2025-05-09,True
+100520,Ava Rossi,ava.rossi@example.com,United Kingdom,Drift Webcam 4K,Accessories,1,74.25,74.25,2025-11-11,True
+100521,Ava Khan,ava.khan@example.com,Japan,Nimbus Keyboard,Accessories,1,89.5,89.5,2024-06-12,True
+100522,Omar Read,omar.read@example.com,Brazil,Terra Notebook,Office,1,12.75,12.75,2025-03-04,True
+100523,Ethan Read,ethan.read@example.com,India,Cinder Coffee Mug,Home,4,18.5,74.0,2024-02-05,True
+100524,Ivy Rossi,ivy.rossi@example.com,India,Drift Webcam 4K,Accessories,1,74.25,74.25,2025-10-22,True
+100525,Omar Roy,omar.roy@example.com,United States,Pulse Smartwatch,Wearables,5,199.0,995.0,2024-08-16,False
+100526,Nina Tanaka,nina.tanaka@example.com,United Kingdom,Nimbus Keyboard,Accessories,1,89.5,89.5,2025-01-23,True
+100527,Noah Patel,noah.patel@example.com,Romania,Terra Notebook,Office,5,12.75,63.75,2024-11-28,True
+100528,Noah Okafor,noah.okafor@example.com,Germany,Terra Notebook,Office,5,12.75,63.75,2025-11-24,True
+100529,Ley Novak,ley.novak@example.com,Japan,Orbit Charger,Accessories,4,29.99,119.96,2024-01-21,True
+100530,Noah Rossi,noah.rossi@example.com,Japan,Echo Desk Lamp,Home,4,42.0,168.0,2024-08-11,True
+100531,Lex Haddad,lex.haddad@example.com,France,"Vertex Monitor 27""",Displays,2,319.99,639.98,2025-07-27,True
+100532,Ethan Tanaka,ethan.tanaka@example.com,Germany,Atlas Backpack,Travel,4,64.9,259.6,2025-08-11,False
+100533,Ethan Okafor,ethan.okafor@example.com,Germany,Orbit Charger,Accessories,1,29.99,29.99,2025-07-02,True
+100534,Ivy Rossi,ivy.rossi@example.com,Romania,Comet Mouse,Accessories,5,39.99,199.95,2025-09-18,True
+100535,Sara Tanaka,sara.tanaka@example.com,United States,Pulse Smartwatch,Wearables,3,199.0,597.0,2024-08-11,True
+100536,Omar Meyer,omar.meyer@example.com,Canada,Echo Desk Lamp,Home,3,42.0,126.0,2024-02-25,True
+100537,Ivy Cohen,ivy.cohen@example.com,France,Pulse Smartwatch,Wearables,3,199.0,597.0,2025-12-04,False
+100538,Zoe Tanaka,zoe.tanaka@example.com,Germany,Drift Webcam 4K,Accessories,4,74.25,297.0,2025-10-07,False
+100539,Liam Rossi,liam.rossi@example.com,Canada,Cinder Coffee Mug,Home,2,18.5,37.0,2024-12-11,False
+100540,Nina Haddad,nina.haddad@example.com,Germany,Orbit Charger,Accessories,5,29.99,149.95,2025-08-22,True
+100541,Noah Silva,noah.silva@example.com,France,Echo Desk Lamp,Home,1,42.0,42.0,2024-09-14,True
+100542,Ethan Reed,ethan.reed@example.com,Romania,"Vertex Monitor 27""",Displays,2,319.99,639.98,2024-12-27,False
+100543,Nina Novak,nina.novak@example.com,Brazil,Atlas Backpack,Travel,5,64.9,324.5,2025-07-20,True
+100544,Maya Chafer,maya.chafer@example.com,Brazil,Aurora Headphones,Audio,4,129.0,516.0,2025-08-26,False
+100545,Nina Meyer,nina.meyer@example.com,United Kingdom,Terra Notebook,Office,5,12.75,63.75,2025-12-24,True
+100546,Sara Chafer,sara.chafer@example.com,Romania,Lumen E-Reader,Tablets,2,149.0,298.0,2025-11-12,True
+100547,Zoe Okafor,zoe.okafor@example.com,France,Orbit Charger,Accessories,2,29.99,59.98,2025-12-04,True
+100548,Noah Tanaka,noah.tanaka@example.com,India,Atlas Backpack,Travel,5,64.9,324.5,2025-07-26,False
+100549,Ava Haddad,ava.haddad@example.com,United States,Cinder Coffee Mug,Home,2,18.5,37.0,2024-04-09,True
+100550,Zoe Read,zoe.read@example.com,Japan,Orbit Charger,Accessories,3,29.99,89.97,2024-12-26,True
+100551,Maya Lopez,maya.lopez@example.com,Canada,Nimbus Keyboard,Accessories,3,89.5,268.5,2024-10-28,True
+100552,Noah Rossi,noah.rossi@example.com,India,Lumen E-Reader,Tablets,5,149.0,745.0,2024-09-26,True
+100553,Hugo Read,hugo.read@example.com,India,Terra Notebook,Office,1,12.75,12.75,2025-07-26,True
+100554,Ley Lopez,ley.lopez@example.com,United Kingdom,Nimbus Keyboard,Accessories,1,89.5,89.5,2024-10-28,True
+100555,Aria Tanaka,aria.tanaka@example.com,Romania,Lumen E-Reader,Tablets,3,149.0,447.0,2024-12-07,True
+100556,Zoe Novak,zoe.novak@example.com,Japan,Comet Mouse,Accessories,2,39.99,79.98,2024-07-02,True
+100557,Noah Read,noah.read@example.com,Romania,Drift Webcam 4K,Accessories,2,74.25,148.5,2025-01-11,True
+100558,Liam Silva,liam.silva@example.com,Brazil,Nimbus Keyboard,Accessories,2,89.5,179.0,2024-11-20,True
+100559,Lex Tanaka,lex.tanaka@example.com,Brazil,Atlas Backpack,Travel,5,64.9,324.5,2024-12-11,True
+100560,Zoe Lopez,zoe.lopez@example.com,Japan,Comet Mouse,Accessories,5,39.99,199.95,2025-09-18,True
+100561,Ley Chafer,ley.chafer@example.com,Brazil,Lumen E-Reader,Tablets,3,149.0,447.0,2025-05-07,True
+100562,Omar Lopez,omar.lopez@example.com,United States,Echo Desk Lamp,Home,5,42.0,210.0,2024-11-12,True
+100563,Liam Novak,liam.novak@example.com,Australia,Atlas Backpack,Travel,5,64.9,324.5,2024-11-11,True
+100564,Maya Khan,maya.khan@example.com,France,Cinder Coffee Mug,Home,3,18.5,55.5,2025-01-17,True
+100565,Ley Lopez,ley.lopez@example.com,Canada,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2024-05-21,False
+100566,Noah Khan,noah.khan@example.com,France,Comet Mouse,Accessories,2,39.99,79.98,2024-11-03,True
+100567,Sara Patel,sara.patel@example.com,Germany,Lumen E-Reader,Tablets,4,149.0,596.0,2024-09-27,True
+100568,Hugo Patel,hugo.patel@example.com,Japan,Cinder Coffee Mug,Home,1,18.5,18.5,2024-08-23,True
+100569,Ava Khan,ava.khan@example.com,United Kingdom,Nimbus Keyboard,Accessories,2,89.5,179.0,2024-10-27,True
+100570,Lex Roy,lex.roy@example.com,India,Cinder Coffee Mug,Home,4,18.5,74.0,2025-06-01,True
+100571,Ava Lopez,ava.lopez@example.com,Germany,Nimbus Keyboard,Accessories,5,89.5,447.5,2024-12-28,False
+100572,Liam Lopez,liam.lopez@example.com,United Kingdom,Comet Mouse,Accessories,3,39.99,119.97,2024-05-25,True
+100573,Nina Roy,nina.roy@example.com,Canada,Orbit Charger,Accessories,1,29.99,29.99,2024-09-08,False
+100574,Nina Patel,nina.patel@example.com,Japan,"Vertex Monitor 27""",Displays,3,319.99,959.97,2025-11-26,True
+100575,Sara Cohen,sara.cohen@example.com,France,Nimbus Keyboard,Accessories,5,89.5,447.5,2024-02-02,False
+100576,Omar Roy,omar.roy@example.com,Germany,"Vertex Monitor 27""",Displays,5,319.99,1599.95,2025-04-24,True
+100577,Hugo Cohen,hugo.cohen@example.com,France,Lumen E-Reader,Tablets,4,149.0,596.0,2024-03-06,True
+100578,Aria Read,aria.read@example.com,Japan,Lumen E-Reader,Tablets,1,149.0,149.0,2024-09-15,True
+100579,Ava Read,ava.read@example.com,United Kingdom,Orbit Charger,Accessories,1,29.99,29.99,2024-04-24,True
+100580,Ley Cohen,ley.cohen@example.com,Germany,Drift Webcam 4K,Accessories,2,74.25,148.5,2025-10-03,True
+100581,Ley Tanaka,ley.tanaka@example.com,Romania,Echo Desk Lamp,Home,3,42.0,126.0,2025-12-19,False
+100582,Omar Cohen,omar.cohen@example.com,Japan,Pulse Smartwatch,Wearables,4,199.0,796.0,2024-06-08,True
+100583,Hugo Okafor,hugo.okafor@example.com,United Kingdom,Orbit Charger,Accessories,4,29.99,119.96,2025-03-22,True
+100584,Liam Tanaka,liam.tanaka@example.com,Brazil,Echo Desk Lamp,Home,4,42.0,168.0,2025-08-18,False
+100585,Sara Meyer,sara.meyer@example.com,Japan,Comet Mouse,Accessories,3,39.99,119.97,2024-05-24,True
+100586,Ava Okafor,ava.okafor@example.com,France,Comet Mouse,Accessories,1,39.99,39.99,2024-10-19,True
+100587,Omar Chafer,omar.chafer@example.com,United Kingdom,Nimbus Keyboard,Accessories,5,89.5,447.5,2025-11-25,False
+100588,Nina Chafer,nina.chafer@example.com,Japan,Atlas Backpack,Travel,3,64.9,194.7,2025-09-17,False
+100589,Ley Lopez,ley.lopez@example.com,Romania,Nimbus Keyboard,Accessories,2,89.5,179.0,2024-09-05,True
+100590,Zoe Meyer,zoe.meyer@example.com,Canada,Atlas Backpack,Travel,2,64.9,129.8,2025-01-08,True
+100591,Mia Khan,mia.khan@example.com,Australia,Aurora Headphones,Audio,3,129.0,387.0,2024-11-07,True
+100592,Maya Cohen,maya.cohen@example.com,Canada,Cinder Coffee Mug,Home,4,18.5,74.0,2024-01-21,True
+100593,Hugo Lopez,hugo.lopez@example.com,United Kingdom,Orbit Charger,Accessories,3,29.99,89.97,2024-07-21,True
+100594,Omar Novak,omar.novak@example.com,United Kingdom,Comet Mouse,Accessories,5,39.99,199.95,2025-04-17,True
+100595,Aria Rossi,aria.rossi@example.com,Canada,Pulse Smartwatch,Wearables,4,199.0,796.0,2024-09-05,True
+100596,Mia Khan,mia.khan@example.com,Australia,"Vertex Monitor 27""",Displays,3,319.99,959.97,2024-03-06,True
+100597,Hugo Rossi,hugo.rossi@example.com,India,Comet Mouse,Accessories,2,39.99,79.98,2025-12-04,True
+100598,Ethan Tanaka,ethan.tanaka@example.com,Japan,Lumen E-Reader,Tablets,5,149.0,745.0,2025-01-08,False
+100599,Omar Meyer,omar.meyer@example.com,France,Drift Webcam 4K,Accessories,2,74.25,148.5,2024-10-05,False
+100600,Lex Reed,lex.reed@example.com,India,Drift Webcam 4K,Accessories,5,74.25,371.25,2024-12-24,True
+100601,Lex Khan,lex.khan@example.com,Romania,Lumen E-Reader,Tablets,4,149.0,596.0,2025-08-06,True
+100602,Nina Meyer,nina.meyer@example.com,Japan,Drift Webcam 4K,Accessories,5,74.25,371.25,2025-03-24,True
+100603,Liam Tanaka,liam.tanaka@example.com,Germany,Atlas Backpack,Travel,5,64.9,324.5,2024-07-13,False
+100604,Ivy Chafer,ivy.chafer@example.com,India,"Vertex Monitor 27""",Displays,5,319.99,1599.95,2024-10-04,False
+100605,Liam Meyer,liam.meyer@example.com,France,Atlas Backpack,Travel,1,64.9,64.9,2024-02-16,True
+100606,Liam Meyer,liam.meyer@example.com,India,"Vertex Monitor 27""",Displays,1,319.99,319.99,2025-06-28,False
+100607,Noah Roy,noah.roy@example.com,India,Lumen E-Reader,Tablets,4,149.0,596.0,2025-10-26,True
+100608,Maya Rossi,maya.rossi@example.com,Germany,Terra Notebook,Office,5,12.75,63.75,2025-03-09,True
+100609,Mia Reed,mia.reed@example.com,Romania,Comet Mouse,Accessories,3,39.99,119.97,2025-05-07,False
+100610,Hugo Patel,hugo.patel@example.com,France,Nimbus Keyboard,Accessories,5,89.5,447.5,2024-09-01,True
+100611,Mia Okafor,mia.okafor@example.com,Brazil,Pulse Smartwatch,Wearables,4,199.0,796.0,2024-03-14,True
+100612,Lex Read,lex.read@example.com,Romania,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2025-10-09,True
+100613,Nina Patel,nina.patel@example.com,France,Lumen E-Reader,Tablets,4,149.0,596.0,2025-03-12,True
+100614,Ethan Read,ethan.read@example.com,Brazil,Aurora Headphones,Audio,5,129.0,645.0,2025-12-05,True
+100615,Sara Khan,sara.khan@example.com,Canada,Terra Notebook,Office,2,12.75,25.5,2024-02-07,True
+100616,Maya Cohen,maya.cohen@example.com,United States,"Vertex Monitor 27""",Displays,5,319.99,1599.95,2024-07-21,False
+100617,Ava Rossi,ava.rossi@example.com,Romania,Drift Webcam 4K,Accessories,4,74.25,297.0,2025-02-03,True
+100618,Ley Khan,ley.khan@example.com,India,Atlas Backpack,Travel,1,64.9,64.9,2025-10-21,True
+100619,Hugo Meyer,hugo.meyer@example.com,Canada,Nimbus Keyboard,Accessories,2,89.5,179.0,2025-01-07,True
+100620,Liam Patel,liam.patel@example.com,Australia,"Vertex Monitor 27""",Displays,3,319.99,959.97,2024-10-17,True
+100621,Mia Meyer,mia.meyer@example.com,Brazil,Drift Webcam 4K,Accessories,1,74.25,74.25,2024-11-01,True
+100622,Ava Read,ava.read@example.com,India,Cinder Coffee Mug,Home,3,18.5,55.5,2025-10-07,True
+100623,Hugo Okafor,hugo.okafor@example.com,France,Comet Mouse,Accessories,1,39.99,39.99,2025-12-27,True
+100624,Omar Cohen,omar.cohen@example.com,Australia,Pulse Smartwatch,Wearables,3,199.0,597.0,2024-08-13,True
+100625,Lex Silva,lex.silva@example.com,Germany,Cinder Coffee Mug,Home,5,18.5,92.5,2024-09-10,True
+100626,Ava Patel,ava.patel@example.com,France,"Vertex Monitor 27""",Displays,3,319.99,959.97,2025-12-15,True
+100627,Omar Tanaka,omar.tanaka@example.com,Canada,Lumen E-Reader,Tablets,3,149.0,447.0,2025-10-28,False
+100628,Ava Read,ava.read@example.com,Australia,Comet Mouse,Accessories,4,39.99,159.96,2024-06-14,True
+100629,Noah Lopez,noah.lopez@example.com,Australia,Nimbus Keyboard,Accessories,3,89.5,268.5,2025-02-13,True
+100630,Aria Cohen,aria.cohen@example.com,Japan,Comet Mouse,Accessories,5,39.99,199.95,2025-06-12,True
+100631,Omar Read,omar.read@example.com,Canada,Drift Webcam 4K,Accessories,2,74.25,148.5,2024-04-24,True
+100632,Lex Chafer,lex.chafer@example.com,Australia,Lumen E-Reader,Tablets,2,149.0,298.0,2025-03-25,False
+100633,Liam Khan,liam.khan@example.com,Romania,Orbit Charger,Accessories,4,29.99,119.96,2024-09-02,True
+100634,Ley Meyer,ley.meyer@example.com,Romania,Pulse Smartwatch,Wearables,4,199.0,796.0,2025-08-06,True
+100635,Liam Lopez,liam.lopez@example.com,Australia,Aurora Headphones,Audio,4,129.0,516.0,2024-01-17,True
+100636,Ethan Lopez,ethan.lopez@example.com,Brazil,Nimbus Keyboard,Accessories,5,89.5,447.5,2025-11-25,False
+100637,Ava Okafor,ava.okafor@example.com,Brazil,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2024-01-22,True
+100638,Omar Khan,omar.khan@example.com,Romania,Pulse Smartwatch,Wearables,3,199.0,597.0,2025-03-18,True
+100639,Lex Tanaka,lex.tanaka@example.com,Brazil,Atlas Backpack,Travel,3,64.9,194.7,2024-08-14,True
+100640,Hugo Patel,hugo.patel@example.com,India,Pulse Smartwatch,Wearables,3,199.0,597.0,2025-08-06,True
+100641,Omar Novak,omar.novak@example.com,United Kingdom,Lumen E-Reader,Tablets,1,149.0,149.0,2024-09-14,True
+100642,Mia Silva,mia.silva@example.com,Canada,Terra Notebook,Office,2,12.75,25.5,2024-03-14,True
+100643,Liam Rossi,liam.rossi@example.com,France,Orbit Charger,Accessories,5,29.99,149.95,2025-08-10,True
+100644,Aria Meyer,aria.meyer@example.com,Germany,Nimbus Keyboard,Accessories,4,89.5,358.0,2024-01-07,True
+100645,Ethan Rossi,ethan.rossi@example.com,Canada,Orbit Charger,Accessories,1,29.99,29.99,2025-05-12,True
+100646,Noah Reed,noah.reed@example.com,United States,Aurora Headphones,Audio,3,129.0,387.0,2025-02-12,True
+100647,Omar Chafer,omar.chafer@example.com,France,Atlas Backpack,Travel,5,64.9,324.5,2024-05-12,True
+100648,Noah Tanaka,noah.tanaka@example.com,Germany,Terra Notebook,Office,4,12.75,51.0,2025-10-10,True
+100649,Zoe Rossi,zoe.rossi@example.com,India,Drift Webcam 4K,Accessories,3,74.25,222.75,2025-02-03,False
+100650,Mia Cohen,mia.cohen@example.com,United Kingdom,Pulse Smartwatch,Wearables,3,199.0,597.0,2025-05-15,True
+100651,Ley Okafor,ley.okafor@example.com,Canada,Atlas Backpack,Travel,5,64.9,324.5,2025-03-06,True
+100652,Zoe Okafor,zoe.okafor@example.com,Germany,Lumen E-Reader,Tablets,3,149.0,447.0,2024-03-13,False
+100653,Ava Reed,ava.reed@example.com,United States,Echo Desk Lamp,Home,5,42.0,210.0,2024-07-17,True
+100654,Ava Khan,ava.khan@example.com,Japan,Aurora Headphones,Audio,5,129.0,645.0,2024-11-13,True
+100655,Mia Okafor,mia.okafor@example.com,Japan,Aurora Headphones,Audio,4,129.0,516.0,2024-09-27,False
+100656,Ivy Novak,ivy.novak@example.com,Canada,Pulse Smartwatch,Wearables,3,199.0,597.0,2025-09-09,True
+100657,Zoe Okafor,zoe.okafor@example.com,Romania,"Vertex Monitor 27""",Displays,2,319.99,639.98,2025-11-24,True
+100658,Omar Roy,omar.roy@example.com,United Kingdom,"Vertex Monitor 27""",Displays,5,319.99,1599.95,2025-08-18,True
+100659,Ava Tanaka,ava.tanaka@example.com,India,Aurora Headphones,Audio,3,129.0,387.0,2025-03-10,False
+100660,Noah Rossi,noah.rossi@example.com,United Kingdom,Drift Webcam 4K,Accessories,3,74.25,222.75,2025-09-01,True
+100661,Ethan Patel,ethan.patel@example.com,United States,Echo Desk Lamp,Home,3,42.0,126.0,2025-05-20,True
+100662,Ivy Lopez,ivy.lopez@example.com,India,Pulse Smartwatch,Wearables,2,199.0,398.0,2025-07-08,False
+100663,Hugo Novak,hugo.novak@example.com,Australia,Cinder Coffee Mug,Home,4,18.5,74.0,2025-02-14,True
+100664,Noah Patel,noah.patel@example.com,United Kingdom,Atlas Backpack,Travel,3,64.9,194.7,2025-07-07,True
+100665,Zoe Silva,zoe.silva@example.com,Canada,Aurora Headphones,Audio,1,129.0,129.0,2025-05-23,True
+100666,Mia Cohen,mia.cohen@example.com,United States,Nimbus Keyboard,Accessories,2,89.5,179.0,2024-03-04,True
+100667,Zoe Okafor,zoe.okafor@example.com,Australia,Echo Desk Lamp,Home,1,42.0,42.0,2024-03-01,True
+100668,Ley Roy,ley.roy@example.com,Brazil,Aurora Headphones,Audio,4,129.0,516.0,2025-12-26,False
+100669,Ava Rossi,ava.rossi@example.com,United Kingdom,Drift Webcam 4K,Accessories,1,74.25,74.25,2025-02-18,True
+100670,Mia Reed,mia.reed@example.com,United States,Aurora Headphones,Audio,4,129.0,516.0,2024-12-08,True
+100671,Ethan Chafer,ethan.chafer@example.com,Australia,Terra Notebook,Office,1,12.75,12.75,2025-12-25,False
+100672,Sara Chafer,sara.chafer@example.com,United Kingdom,Echo Desk Lamp,Home,4,42.0,168.0,2025-03-21,True
+100673,Hugo Reed,hugo.reed@example.com,Germany,"Vertex Monitor 27""",Displays,5,319.99,1599.95,2025-08-21,True
+100674,Ley Reed,ley.reed@example.com,Germany,Nimbus Keyboard,Accessories,2,89.5,179.0,2024-11-14,True
+100675,Zoe Patel,zoe.patel@example.com,Germany,Aurora Headphones,Audio,5,129.0,645.0,2025-04-01,True
+100676,Omar Patel,omar.patel@example.com,Romania,Terra Notebook,Office,4,12.75,51.0,2024-06-25,False
+100677,Zoe Tanaka,zoe.tanaka@example.com,Brazil,Comet Mouse,Accessories,5,39.99,199.95,2024-01-12,True
+100678,Hugo Lopez,hugo.lopez@example.com,Canada,Comet Mouse,Accessories,2,39.99,79.98,2024-06-18,True
+100679,Maya Cohen,maya.cohen@example.com,United States,Echo Desk Lamp,Home,2,42.0,84.0,2025-06-24,False
+100680,Liam Haddad,liam.haddad@example.com,France,Echo Desk Lamp,Home,4,42.0,168.0,2025-09-23,True
+100681,Omar Silva,omar.silva@example.com,Brazil,"Vertex Monitor 27""",Displays,3,319.99,959.97,2025-05-28,True
+100682,Liam Rossi,liam.rossi@example.com,Germany,"Vertex Monitor 27""",Displays,2,319.99,639.98,2024-08-10,True
+100683,Noah Cohen,noah.cohen@example.com,France,Echo Desk Lamp,Home,1,42.0,42.0,2025-12-06,True
+100684,Omar Rossi,omar.rossi@example.com,Australia,Pulse Smartwatch,Wearables,5,199.0,995.0,2025-12-03,True
+100685,Noah Rossi,noah.rossi@example.com,France,Cinder Coffee Mug,Home,2,18.5,37.0,2025-09-05,True
+100686,Ley Roy,ley.roy@example.com,Germany,Orbit Charger,Accessories,3,29.99,89.97,2024-09-22,False
+100687,Aria Silva,aria.silva@example.com,Australia,Drift Webcam 4K,Accessories,1,74.25,74.25,2024-08-07,False
+100688,Omar Novak,omar.novak@example.com,France,Cinder Coffee Mug,Home,4,18.5,74.0,2025-01-12,True
+100689,Hugo Khan,hugo.khan@example.com,Canada,Nimbus Keyboard,Accessories,2,89.5,179.0,2024-08-26,True
+100690,Ley Lopez,ley.lopez@example.com,Brazil,Terra Notebook,Office,4,12.75,51.0,2024-10-09,True
+100691,Hugo Khan,hugo.khan@example.com,Australia,Aurora Headphones,Audio,1,129.0,129.0,2024-02-24,True
+100692,Nina Chafer,nina.chafer@example.com,Australia,Lumen E-Reader,Tablets,5,149.0,745.0,2024-09-24,True
+100693,Hugo Khan,hugo.khan@example.com,Brazil,Orbit Charger,Accessories,5,29.99,149.95,2025-12-22,True
+100694,Ava Silva,ava.silva@example.com,India,Drift Webcam 4K,Accessories,5,74.25,371.25,2025-11-06,True
+100695,Omar Tanaka,omar.tanaka@example.com,France,Pulse Smartwatch,Wearables,3,199.0,597.0,2025-06-14,True
+100696,Nina Rossi,nina.rossi@example.com,Romania,Terra Notebook,Office,3,12.75,38.25,2024-10-18,True
+100697,Maya Lopez,maya.lopez@example.com,Brazil,Terra Notebook,Office,3,12.75,38.25,2025-08-13,False
+100698,Ivy Read,ivy.read@example.com,France,Atlas Backpack,Travel,1,64.9,64.9,2024-05-01,True
+100699,Mia Chafer,mia.chafer@example.com,United Kingdom,Pulse Smartwatch,Wearables,1,199.0,199.0,2024-02-02,True
+100700,Zoe Silva,zoe.silva@example.com,Romania,Aurora Headphones,Audio,3,129.0,387.0,2024-04-09,True
+100701,Ava Meyer,ava.meyer@example.com,Australia,Cinder Coffee Mug,Home,5,18.5,92.5,2024-12-11,True
+100702,Zoe Tanaka,zoe.tanaka@example.com,Germany,Terra Notebook,Office,5,12.75,63.75,2025-01-24,True
+100703,Nina Khan,nina.khan@example.com,Brazil,Nimbus Keyboard,Accessories,3,89.5,268.5,2025-07-28,False
+100704,Maya Chafer,maya.chafer@example.com,United States,Terra Notebook,Office,5,12.75,63.75,2025-01-10,True
+100705,Ley Lopez,ley.lopez@example.com,Brazil,Atlas Backpack,Travel,2,64.9,129.8,2024-03-02,True
+100706,Nina Tanaka,nina.tanaka@example.com,France,Atlas Backpack,Travel,5,64.9,324.5,2024-04-14,True
+100707,Nina Silva,nina.silva@example.com,Germany,Drift Webcam 4K,Accessories,3,74.25,222.75,2025-10-24,False
+100708,Nina Read,nina.read@example.com,France,Comet Mouse,Accessories,4,39.99,159.96,2025-12-05,True
+100709,Ethan Lopez,ethan.lopez@example.com,India,Lumen E-Reader,Tablets,4,149.0,596.0,2024-09-20,True
+100710,Noah Chafer,noah.chafer@example.com,United Kingdom,Lumen E-Reader,Tablets,1,149.0,149.0,2025-06-22,True
+100711,Ava Khan,ava.khan@example.com,India,Orbit Charger,Accessories,4,29.99,119.96,2025-06-07,True
+100712,Omar Novak,omar.novak@example.com,Japan,Nimbus Keyboard,Accessories,3,89.5,268.5,2025-10-27,True
+100713,Ethan Meyer,ethan.meyer@example.com,United States,Drift Webcam 4K,Accessories,4,74.25,297.0,2024-04-22,True
+100714,Maya Okafor,maya.okafor@example.com,United States,Comet Mouse,Accessories,1,39.99,39.99,2024-10-05,True
+100715,Aria Read,aria.read@example.com,Germany,Nimbus Keyboard,Accessories,3,89.5,268.5,2025-08-16,False
+100716,Mia Okafor,mia.okafor@example.com,Australia,"Vertex Monitor 27""",Displays,2,319.99,639.98,2025-09-16,True
+100717,Zoe Okafor,zoe.okafor@example.com,India,Terra Notebook,Office,1,12.75,12.75,2024-05-06,False
+100718,Mia Patel,mia.patel@example.com,United Kingdom,Terra Notebook,Office,5,12.75,63.75,2024-08-21,True
+100719,Ava Roy,ava.roy@example.com,Brazil,Orbit Charger,Accessories,3,29.99,89.97,2024-01-10,True
+100720,Sara Roy,sara.roy@example.com,France,Lumen E-Reader,Tablets,4,149.0,596.0,2024-06-16,True
+100721,Noah Khan,noah.khan@example.com,France,Drift Webcam 4K,Accessories,2,74.25,148.5,2025-09-23,False
+100722,Mia Reed,mia.reed@example.com,Brazil,"Vertex Monitor 27""",Displays,3,319.99,959.97,2025-07-24,False
+100723,Ley Novak,ley.novak@example.com,United Kingdom,Pulse Smartwatch,Wearables,3,199.0,597.0,2024-09-09,True
+100724,Sara Read,sara.read@example.com,France,Cinder Coffee Mug,Home,1,18.5,18.5,2025-04-05,True
+100725,Nina Novak,nina.novak@example.com,India,Drift Webcam 4K,Accessories,1,74.25,74.25,2024-07-08,True
+100726,Nina Read,nina.read@example.com,Canada,Atlas Backpack,Travel,3,64.9,194.7,2024-04-21,False
+100727,Noah Novak,noah.novak@example.com,United Kingdom,Lumen E-Reader,Tablets,2,149.0,298.0,2024-07-25,False
+100728,Liam Meyer,liam.meyer@example.com,Germany,Drift Webcam 4K,Accessories,3,74.25,222.75,2024-03-11,True
+100729,Zoe Okafor,zoe.okafor@example.com,India,Nimbus Keyboard,Accessories,3,89.5,268.5,2025-05-15,True
+100730,Aria Reed,aria.reed@example.com,Japan,Orbit Charger,Accessories,3,29.99,89.97,2024-02-05,False
+100731,Maya Meyer,maya.meyer@example.com,Romania,Atlas Backpack,Travel,3,64.9,194.7,2024-10-08,True
+100732,Ivy Cohen,ivy.cohen@example.com,Japan,Comet Mouse,Accessories,4,39.99,159.96,2025-12-21,True
+100733,Aria Roy,aria.roy@example.com,Japan,Echo Desk Lamp,Home,4,42.0,168.0,2024-04-08,False
+100734,Maya Haddad,maya.haddad@example.com,Australia,Aurora Headphones,Audio,4,129.0,516.0,2024-04-03,False
+100735,Ethan Rossi,ethan.rossi@example.com,Brazil,Atlas Backpack,Travel,4,64.9,259.6,2025-04-14,True
+100736,Ivy Meyer,ivy.meyer@example.com,Brazil,Terra Notebook,Office,4,12.75,51.0,2025-10-24,True
+100737,Noah Lopez,noah.lopez@example.com,France,Orbit Charger,Accessories,1,29.99,29.99,2024-08-15,True
+100738,Ivy Reed,ivy.reed@example.com,France,Lumen E-Reader,Tablets,5,149.0,745.0,2025-12-02,True
+100739,Noah Patel,noah.patel@example.com,Australia,Orbit Charger,Accessories,1,29.99,29.99,2025-08-13,True
+100740,Maya Rossi,maya.rossi@example.com,Japan,Aurora Headphones,Audio,4,129.0,516.0,2025-05-20,True
+100741,Hugo Lopez,hugo.lopez@example.com,Canada,Drift Webcam 4K,Accessories,4,74.25,297.0,2024-12-17,False
+100742,Maya Meyer,maya.meyer@example.com,Japan,Terra Notebook,Office,5,12.75,63.75,2025-07-11,True
+100743,Zoe Tanaka,zoe.tanaka@example.com,Canada,Atlas Backpack,Travel,2,64.9,129.8,2024-05-11,True
+100744,Liam Okafor,liam.okafor@example.com,Germany,Drift Webcam 4K,Accessories,1,74.25,74.25,2024-12-15,True
+100745,Ava Lopez,ava.lopez@example.com,France,Terra Notebook,Office,4,12.75,51.0,2024-07-18,True
+100746,Maya Silva,maya.silva@example.com,Japan,Pulse Smartwatch,Wearables,5,199.0,995.0,2024-03-06,True
+100747,Ivy Roy,ivy.roy@example.com,Canada,Aurora Headphones,Audio,3,129.0,387.0,2025-11-06,False
+100748,Zoe Chafer,zoe.chafer@example.com,United Kingdom,Nimbus Keyboard,Accessories,5,89.5,447.5,2024-08-16,True
+100749,Noah Patel,noah.patel@example.com,Canada,Nimbus Keyboard,Accessories,5,89.5,447.5,2024-04-19,True
+100750,Ethan Roy,ethan.roy@example.com,Romania,Echo Desk Lamp,Home,1,42.0,42.0,2024-04-18,True
+100751,Sara Lopez,sara.lopez@example.com,Japan,Lumen E-Reader,Tablets,1,149.0,149.0,2024-01-21,True
+100752,Zoe Rossi,zoe.rossi@example.com,Romania,Nimbus Keyboard,Accessories,5,89.5,447.5,2025-06-03,False
+100753,Nina Silva,nina.silva@example.com,Romania,Drift Webcam 4K,Accessories,3,74.25,222.75,2024-08-24,True
+100754,Liam Haddad,liam.haddad@example.com,Brazil,Comet Mouse,Accessories,3,39.99,119.97,2025-07-27,False
+100755,Nina Rossi,nina.rossi@example.com,United Kingdom,"Vertex Monitor 27""",Displays,1,319.99,319.99,2025-03-04,True
+100756,Lex Cohen,lex.cohen@example.com,France,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2024-12-07,True
+100757,Ava Meyer,ava.meyer@example.com,Germany,Terra Notebook,Office,5,12.75,63.75,2025-12-23,True
+100758,Maya Okafor,maya.okafor@example.com,Romania,Aurora Headphones,Audio,4,129.0,516.0,2025-05-17,True
+100759,Omar Cohen,omar.cohen@example.com,Romania,Drift Webcam 4K,Accessories,5,74.25,371.25,2025-09-24,True
+100760,Ethan Patel,ethan.patel@example.com,Australia,Drift Webcam 4K,Accessories,5,74.25,371.25,2025-04-01,False
+100761,Ethan Novak,ethan.novak@example.com,Romania,Comet Mouse,Accessories,2,39.99,79.98,2025-07-02,True
+100762,Noah Patel,noah.patel@example.com,United States,Orbit Charger,Accessories,2,29.99,59.98,2024-12-10,True
+100763,Ava Read,ava.read@example.com,France,Aurora Headphones,Audio,5,129.0,645.0,2025-01-04,True
+100764,Ley Roy,ley.roy@example.com,Romania,Terra Notebook,Office,5,12.75,63.75,2024-03-07,True
+100765,Ley Reed,ley.reed@example.com,Canada,Orbit Charger,Accessories,4,29.99,119.96,2024-11-05,True
+100766,Sara Tanaka,sara.tanaka@example.com,Canada,"Vertex Monitor 27""",Displays,3,319.99,959.97,2025-12-02,True
+100767,Lex Meyer,lex.meyer@example.com,France,Terra Notebook,Office,3,12.75,38.25,2024-04-19,True
+100768,Maya Reed,maya.reed@example.com,Japan,Pulse Smartwatch,Wearables,1,199.0,199.0,2025-01-11,True
+100769,Sara Lopez,sara.lopez@example.com,Romania,Drift Webcam 4K,Accessories,5,74.25,371.25,2025-03-20,False
+100770,Maya Patel,maya.patel@example.com,United States,Aurora Headphones,Audio,3,129.0,387.0,2025-07-03,True
+100771,Mia Cohen,mia.cohen@example.com,Australia,Echo Desk Lamp,Home,3,42.0,126.0,2025-03-04,True
+100772,Ivy Patel,ivy.patel@example.com,Canada,Lumen E-Reader,Tablets,1,149.0,149.0,2024-08-17,False
+100773,Ley Reed,ley.reed@example.com,United Kingdom,Echo Desk Lamp,Home,5,42.0,210.0,2025-03-25,True
+100774,Aria Lopez,aria.lopez@example.com,Australia,Orbit Charger,Accessories,2,29.99,59.98,2024-08-13,True
+100775,Noah Khan,noah.khan@example.com,United States,Nimbus Keyboard,Accessories,3,89.5,268.5,2024-06-15,True
+100776,Ava Lopez,ava.lopez@example.com,United States,Orbit Charger,Accessories,3,29.99,89.97,2025-11-07,True
+100777,Mia Read,mia.read@example.com,Brazil,Aurora Headphones,Audio,5,129.0,645.0,2025-11-04,True
+100778,Zoe Read,zoe.read@example.com,Romania,Comet Mouse,Accessories,1,39.99,39.99,2024-04-18,True
+100779,Ley Read,ley.read@example.com,Romania,Drift Webcam 4K,Accessories,3,74.25,222.75,2024-03-03,True
+100780,Liam Cohen,liam.cohen@example.com,United States,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2024-01-16,True
+100781,Ivy Khan,ivy.khan@example.com,Germany,Cinder Coffee Mug,Home,1,18.5,18.5,2025-07-06,True
+100782,Liam Meyer,liam.meyer@example.com,Romania,Orbit Charger,Accessories,4,29.99,119.96,2025-05-11,True
+100783,Hugo Patel,hugo.patel@example.com,Germany,Orbit Charger,Accessories,5,29.99,149.95,2025-10-05,False
+100784,Maya Reed,maya.reed@example.com,Germany,Terra Notebook,Office,4,12.75,51.0,2025-05-22,True
+100785,Maya Tanaka,maya.tanaka@example.com,Australia,Echo Desk Lamp,Home,2,42.0,84.0,2024-10-09,True
+100786,Nina Silva,nina.silva@example.com,Brazil,Terra Notebook,Office,3,12.75,38.25,2025-08-01,False
+100787,Ava Cohen,ava.cohen@example.com,Japan,Echo Desk Lamp,Home,4,42.0,168.0,2025-06-20,True
+100788,Noah Khan,noah.khan@example.com,Brazil,Cinder Coffee Mug,Home,1,18.5,18.5,2024-05-18,True
+100789,Omar Roy,omar.roy@example.com,Australia,Lumen E-Reader,Tablets,5,149.0,745.0,2024-08-13,False
+100790,Mia Rossi,mia.rossi@example.com,India,Terra Notebook,Office,5,12.75,63.75,2025-10-26,True
+100791,Hugo Chafer,hugo.chafer@example.com,Romania,Drift Webcam 4K,Accessories,1,74.25,74.25,2025-02-19,True
+100792,Ley Lopez,ley.lopez@example.com,Japan,Comet Mouse,Accessories,4,39.99,159.96,2025-07-03,True
+100793,Sara Rossi,sara.rossi@example.com,Brazil,Atlas Backpack,Travel,4,64.9,259.6,2025-11-22,False
+100794,Mia Rossi,mia.rossi@example.com,United States,Drift Webcam 4K,Accessories,5,74.25,371.25,2024-11-05,True
+100795,Lex Roy,lex.roy@example.com,Canada,Atlas Backpack,Travel,5,64.9,324.5,2024-04-22,True
+100796,Lex Meyer,lex.meyer@example.com,India,Orbit Charger,Accessories,3,29.99,89.97,2025-02-19,False
+100797,Noah Roy,noah.roy@example.com,United States,Drift Webcam 4K,Accessories,3,74.25,222.75,2025-09-02,False
+100798,Noah Rossi,noah.rossi@example.com,United Kingdom,Pulse Smartwatch,Wearables,1,199.0,199.0,2024-04-14,True
+100799,Nina Novak,nina.novak@example.com,India,Pulse Smartwatch,Wearables,4,199.0,796.0,2025-07-18,True
+100800,Zoe Tanaka,zoe.tanaka@example.com,France,Drift Webcam 4K,Accessories,2,74.25,148.5,2025-06-27,True
+100801,Lex Rossi,lex.rossi@example.com,Japan,Orbit Charger,Accessories,2,29.99,59.98,2024-02-21,False
+100802,Hugo Reed,hugo.reed@example.com,Japan,Echo Desk Lamp,Home,4,42.0,168.0,2024-03-21,True
+100803,Aria Tanaka,aria.tanaka@example.com,India,Terra Notebook,Office,5,12.75,63.75,2024-08-17,True
+100804,Aria Tanaka,aria.tanaka@example.com,Australia,Cinder Coffee Mug,Home,3,18.5,55.5,2024-07-20,False
+100805,Ethan Rossi,ethan.rossi@example.com,France,Terra Notebook,Office,2,12.75,25.5,2025-07-18,True
+100806,Ivy Haddad,ivy.haddad@example.com,Brazil,Atlas Backpack,Travel,4,64.9,259.6,2024-10-16,True
+100807,Ava Silva,ava.silva@example.com,United Kingdom,Terra Notebook,Office,5,12.75,63.75,2025-09-03,True
+100808,Omar Khan,omar.khan@example.com,Germany,Lumen E-Reader,Tablets,4,149.0,596.0,2025-10-02,True
+100809,Noah Patel,noah.patel@example.com,Canada,Nimbus Keyboard,Accessories,4,89.5,358.0,2025-10-24,True
+100810,Ley Patel,ley.patel@example.com,Japan,Aurora Headphones,Audio,3,129.0,387.0,2024-12-20,True
+100811,Hugo Patel,hugo.patel@example.com,United States,Atlas Backpack,Travel,3,64.9,194.7,2025-10-06,True
+100812,Sara Read,sara.read@example.com,United States,Terra Notebook,Office,5,12.75,63.75,2025-08-03,False
+100813,Ava Rossi,ava.rossi@example.com,Japan,Aurora Headphones,Audio,3,129.0,387.0,2025-05-28,True
+100814,Hugo Khan,hugo.khan@example.com,Romania,Atlas Backpack,Travel,2,64.9,129.8,2024-11-15,True
+100815,Zoe Read,zoe.read@example.com,Canada,Terra Notebook,Office,2,12.75,25.5,2024-09-28,False
+100816,Ava Silva,ava.silva@example.com,Canada,Atlas Backpack,Travel,2,64.9,129.8,2025-07-08,True
+100817,Hugo Novak,hugo.novak@example.com,Romania,Drift Webcam 4K,Accessories,2,74.25,148.5,2025-01-21,True
+100818,Aria Khan,aria.khan@example.com,Canada,Nimbus Keyboard,Accessories,2,89.5,179.0,2025-08-10,True
+100819,Maya Reed,maya.reed@example.com,India,"Vertex Monitor 27""",Displays,2,319.99,639.98,2025-08-09,False
+100820,Aria Roy,aria.roy@example.com,Canada,Nimbus Keyboard,Accessories,3,89.5,268.5,2025-11-11,True
+100821,Sara Haddad,sara.haddad@example.com,Brazil,Comet Mouse,Accessories,5,39.99,199.95,2025-10-21,True
+100822,Ley Read,ley.read@example.com,United Kingdom,Aurora Headphones,Audio,1,129.0,129.0,2025-08-25,True
+100823,Mia Okafor,mia.okafor@example.com,Australia,Orbit Charger,Accessories,5,29.99,149.95,2025-11-23,True
+100824,Ley Lopez,ley.lopez@example.com,Germany,Nimbus Keyboard,Accessories,1,89.5,89.5,2024-07-04,True
+100825,Sara Tanaka,sara.tanaka@example.com,United Kingdom,Pulse Smartwatch,Wearables,2,199.0,398.0,2025-04-02,False
+100826,Ava Haddad,ava.haddad@example.com,Romania,Atlas Backpack,Travel,2,64.9,129.8,2024-12-04,False
+100827,Omar Silva,omar.silva@example.com,Japan,Cinder Coffee Mug,Home,5,18.5,92.5,2024-12-06,True
+100828,Ethan Novak,ethan.novak@example.com,United Kingdom,Comet Mouse,Accessories,4,39.99,159.96,2025-12-22,True
+100829,Ley Read,ley.read@example.com,United Kingdom,Drift Webcam 4K,Accessories,1,74.25,74.25,2024-07-13,True
+100830,Ivy Read,ivy.read@example.com,Canada,Aurora Headphones,Audio,2,129.0,258.0,2024-08-07,True
+100831,Zoe Novak,zoe.novak@example.com,Japan,Echo Desk Lamp,Home,1,42.0,42.0,2025-04-20,True
+100832,Liam Tanaka,liam.tanaka@example.com,Germany,Terra Notebook,Office,3,12.75,38.25,2024-02-03,True
+100833,Lex Patel,lex.patel@example.com,Canada,Echo Desk Lamp,Home,1,42.0,42.0,2024-11-21,False
+100834,Ivy Novak,ivy.novak@example.com,Japan,Cinder Coffee Mug,Home,3,18.5,55.5,2025-07-19,False
+100835,Hugo Patel,hugo.patel@example.com,India,Echo Desk Lamp,Home,4,42.0,168.0,2025-12-25,True
+100836,Ava Lopez,ava.lopez@example.com,India,Lumen E-Reader,Tablets,1,149.0,149.0,2025-02-19,True
+100837,Ley Cohen,ley.cohen@example.com,India,Orbit Charger,Accessories,3,29.99,89.97,2024-11-21,False
+100838,Noah Rossi,noah.rossi@example.com,Canada,Pulse Smartwatch,Wearables,1,199.0,199.0,2025-11-07,False
+100839,Ivy Roy,ivy.roy@example.com,United Kingdom,Orbit Charger,Accessories,2,29.99,59.98,2025-02-21,True
+100840,Ethan Khan,ethan.khan@example.com,Australia,Orbit Charger,Accessories,4,29.99,119.96,2024-01-07,False
+100841,Omar Chafer,omar.chafer@example.com,Germany,Echo Desk Lamp,Home,4,42.0,168.0,2025-08-18,True
+100842,Maya Tanaka,maya.tanaka@example.com,Brazil,Nimbus Keyboard,Accessories,1,89.5,89.5,2024-06-26,True
+100843,Nina Khan,nina.khan@example.com,Canada,Lumen E-Reader,Tablets,5,149.0,745.0,2024-12-19,True
+100844,Ava Haddad,ava.haddad@example.com,Canada,Terra Notebook,Office,2,12.75,25.5,2024-08-20,False
+100845,Hugo Novak,hugo.novak@example.com,Japan,Drift Webcam 4K,Accessories,1,74.25,74.25,2024-05-27,True
+100846,Ethan Meyer,ethan.meyer@example.com,Germany,Drift Webcam 4K,Accessories,5,74.25,371.25,2024-02-16,True
+100847,Omar Chafer,omar.chafer@example.com,India,Comet Mouse,Accessories,2,39.99,79.98,2025-12-22,True
+100848,Ava Novak,ava.novak@example.com,Japan,Atlas Backpack,Travel,5,64.9,324.5,2025-04-25,False
+100849,Zoe Cohen,zoe.cohen@example.com,United Kingdom,Comet Mouse,Accessories,1,39.99,39.99,2024-07-06,True
+100850,Noah Silva,noah.silva@example.com,Romania,Echo Desk Lamp,Home,2,42.0,84.0,2024-03-04,True
+100851,Sara Meyer,sara.meyer@example.com,United States,Cinder Coffee Mug,Home,2,18.5,37.0,2025-02-01,False
+100852,Liam Khan,liam.khan@example.com,United Kingdom,Terra Notebook,Office,5,12.75,63.75,2025-12-26,True
+100853,Ethan Okafor,ethan.okafor@example.com,Japan,Drift Webcam 4K,Accessories,2,74.25,148.5,2025-09-15,True
+100854,Zoe Meyer,zoe.meyer@example.com,Romania,Terra Notebook,Office,1,12.75,12.75,2024-12-16,True
+100855,Ava Novak,ava.novak@example.com,India,Aurora Headphones,Audio,3,129.0,387.0,2024-09-08,False
+100856,Noah Khan,noah.khan@example.com,France,Atlas Backpack,Travel,3,64.9,194.7,2024-08-25,True
+100857,Mia Read,mia.read@example.com,Germany,Nimbus Keyboard,Accessories,2,89.5,179.0,2024-11-28,True
+100858,Ethan Tanaka,ethan.tanaka@example.com,United States,Drift Webcam 4K,Accessories,2,74.25,148.5,2024-11-12,True
+100859,Nina Read,nina.read@example.com,Canada,Pulse Smartwatch,Wearables,5,199.0,995.0,2024-02-24,False
+100860,Noah Silva,noah.silva@example.com,Canada,Drift Webcam 4K,Accessories,1,74.25,74.25,2024-02-08,True
+100861,Omar Meyer,omar.meyer@example.com,Australia,Pulse Smartwatch,Wearables,4,199.0,796.0,2025-04-25,False
+100862,Mia Khan,mia.khan@example.com,Australia,Lumen E-Reader,Tablets,4,149.0,596.0,2025-04-03,True
+100863,Ethan Haddad,ethan.haddad@example.com,Australia,Cinder Coffee Mug,Home,2,18.5,37.0,2025-03-13,True
+100864,Ethan Okafor,ethan.okafor@example.com,United Kingdom,Lumen E-Reader,Tablets,3,149.0,447.0,2024-06-05,False
+100865,Omar Haddad,omar.haddad@example.com,Germany,Aurora Headphones,Audio,2,129.0,258.0,2025-08-14,False
+100866,Ley Chafer,ley.chafer@example.com,Japan,Aurora Headphones,Audio,5,129.0,645.0,2024-10-18,True
+100867,Ava Roy,ava.roy@example.com,Australia,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2025-08-09,False
+100868,Nina Okafor,nina.okafor@example.com,Brazil,Lumen E-Reader,Tablets,2,149.0,298.0,2025-10-08,True
+100869,Omar Silva,omar.silva@example.com,India,Atlas Backpack,Travel,1,64.9,64.9,2024-01-16,True
+100870,Noah Haddad,noah.haddad@example.com,India,Cinder Coffee Mug,Home,5,18.5,92.5,2025-12-27,False
+100871,Ethan Chafer,ethan.chafer@example.com,United States,Comet Mouse,Accessories,5,39.99,199.95,2025-04-05,True
+100872,Mia Novak,mia.novak@example.com,Canada,Comet Mouse,Accessories,1,39.99,39.99,2025-03-23,True
+100873,Omar Okafor,omar.okafor@example.com,Canada,Atlas Backpack,Travel,1,64.9,64.9,2025-03-28,True
+100874,Zoe Patel,zoe.patel@example.com,United States,Pulse Smartwatch,Wearables,4,199.0,796.0,2024-07-23,True
+100875,Ivy Read,ivy.read@example.com,Romania,Cinder Coffee Mug,Home,3,18.5,55.5,2024-11-03,True
+100876,Ley Okafor,ley.okafor@example.com,Brazil,Nimbus Keyboard,Accessories,5,89.5,447.5,2024-02-13,True
+100877,Omar Haddad,omar.haddad@example.com,Japan,Pulse Smartwatch,Wearables,3,199.0,597.0,2024-09-23,True
+100878,Zoe Cohen,zoe.cohen@example.com,Germany,Lumen E-Reader,Tablets,5,149.0,745.0,2025-12-25,True
+100879,Hugo Chafer,hugo.chafer@example.com,Brazil,Terra Notebook,Office,2,12.75,25.5,2025-05-17,True
+100880,Lex Haddad,lex.haddad@example.com,Brazil,Comet Mouse,Accessories,3,39.99,119.97,2025-08-17,True
+100881,Ava Tanaka,ava.tanaka@example.com,France,Terra Notebook,Office,5,12.75,63.75,2025-08-20,True
+100882,Sara Okafor,sara.okafor@example.com,Canada,Comet Mouse,Accessories,2,39.99,79.98,2024-02-13,True
+100883,Lex Khan,lex.khan@example.com,United Kingdom,Comet Mouse,Accessories,2,39.99,79.98,2024-12-05,True
+100884,Aria Chafer,aria.chafer@example.com,United Kingdom,"Vertex Monitor 27""",Displays,1,319.99,319.99,2025-11-18,True
+100885,Ethan Cohen,ethan.cohen@example.com,United States,Cinder Coffee Mug,Home,4,18.5,74.0,2025-04-03,False
+100886,Maya Chafer,maya.chafer@example.com,India,"Vertex Monitor 27""",Displays,3,319.99,959.97,2025-11-21,True
+100887,Ethan Meyer,ethan.meyer@example.com,France,Orbit Charger,Accessories,5,29.99,149.95,2025-08-10,True
+100888,Liam Patel,liam.patel@example.com,United Kingdom,Aurora Headphones,Audio,2,129.0,258.0,2024-08-12,True
+100889,Maya Rossi,maya.rossi@example.com,Brazil,Nimbus Keyboard,Accessories,2,89.5,179.0,2025-08-06,True
+100890,Zoe Okafor,zoe.okafor@example.com,Japan,"Vertex Monitor 27""",Displays,3,319.99,959.97,2024-12-23,True
+100891,Maya Silva,maya.silva@example.com,Germany,Drift Webcam 4K,Accessories,2,74.25,148.5,2024-06-19,False
+100892,Lex Cohen,lex.cohen@example.com,France,Drift Webcam 4K,Accessories,2,74.25,148.5,2024-11-11,True
+100893,Zoe Cohen,zoe.cohen@example.com,Japan,Echo Desk Lamp,Home,5,42.0,210.0,2025-02-01,True
+100894,Ethan Patel,ethan.patel@example.com,Brazil,Drift Webcam 4K,Accessories,4,74.25,297.0,2024-01-24,True
+100895,Noah Cohen,noah.cohen@example.com,Canada,Orbit Charger,Accessories,3,29.99,89.97,2025-10-22,False
+100896,Omar Okafor,omar.okafor@example.com,Germany,Echo Desk Lamp,Home,3,42.0,126.0,2025-01-05,True
+100897,Ava Read,ava.read@example.com,Romania,Nimbus Keyboard,Accessories,4,89.5,358.0,2024-08-12,False
+100898,Ivy Meyer,ivy.meyer@example.com,Romania,Orbit Charger,Accessories,2,29.99,59.98,2024-05-07,False
+100899,Noah Rossi,noah.rossi@example.com,France,Echo Desk Lamp,Home,1,42.0,42.0,2025-04-16,True
+100900,Omar Lopez,omar.lopez@example.com,India,Nimbus Keyboard,Accessories,3,89.5,268.5,2024-12-28,True
+100901,Nina Cohen,nina.cohen@example.com,Brazil,Nimbus Keyboard,Accessories,3,89.5,268.5,2025-05-15,True
+100902,Ava Chafer,ava.chafer@example.com,India,Terra Notebook,Office,4,12.75,51.0,2025-05-06,True
+100903,Liam Roy,liam.roy@example.com,Japan,Terra Notebook,Office,4,12.75,51.0,2024-03-07,True
+100904,Aria Lopez,aria.lopez@example.com,Romania,Pulse Smartwatch,Wearables,1,199.0,199.0,2025-02-01,True
+100905,Liam Read,liam.read@example.com,France,Cinder Coffee Mug,Home,2,18.5,37.0,2025-12-19,True
+100906,Zoe Chafer,zoe.chafer@example.com,United Kingdom,Drift Webcam 4K,Accessories,4,74.25,297.0,2025-01-27,True
+100907,Aria Meyer,aria.meyer@example.com,France,Aurora Headphones,Audio,4,129.0,516.0,2025-04-01,True
+100908,Zoe Read,zoe.read@example.com,Germany,Aurora Headphones,Audio,4,129.0,516.0,2025-07-06,True
+100909,Hugo Novak,hugo.novak@example.com,Germany,Lumen E-Reader,Tablets,1,149.0,149.0,2025-08-03,True
+100910,Ley Meyer,ley.meyer@example.com,India,Echo Desk Lamp,Home,5,42.0,210.0,2025-11-22,True
+100911,Hugo Rossi,hugo.rossi@example.com,France,Comet Mouse,Accessories,3,39.99,119.97,2024-05-06,True
+100912,Zoe Cohen,zoe.cohen@example.com,Brazil,Echo Desk Lamp,Home,2,42.0,84.0,2024-01-09,True
+100913,Sara Reed,sara.reed@example.com,United Kingdom,Pulse Smartwatch,Wearables,1,199.0,199.0,2025-09-21,True
+100914,Noah Chafer,noah.chafer@example.com,Germany,Orbit Charger,Accessories,2,29.99,59.98,2024-09-11,True
+100915,Aria Rossi,aria.rossi@example.com,United Kingdom,Orbit Charger,Accessories,3,29.99,89.97,2025-02-18,True
+100916,Aria Silva,aria.silva@example.com,France,Nimbus Keyboard,Accessories,2,89.5,179.0,2025-06-25,True
+100917,Ley Reed,ley.reed@example.com,Australia,Drift Webcam 4K,Accessories,1,74.25,74.25,2024-09-08,True
+100918,Maya Reed,maya.reed@example.com,France,"Vertex Monitor 27""",Displays,5,319.99,1599.95,2024-07-15,True
+100919,Ava Rossi,ava.rossi@example.com,Canada,Drift Webcam 4K,Accessories,1,74.25,74.25,2025-05-23,True
+100920,Aria Tanaka,aria.tanaka@example.com,Brazil,Atlas Backpack,Travel,5,64.9,324.5,2024-12-10,False
+100921,Aria Khan,aria.khan@example.com,Japan,Lumen E-Reader,Tablets,2,149.0,298.0,2024-05-05,True
+100922,Ava Roy,ava.roy@example.com,Germany,Terra Notebook,Office,1,12.75,12.75,2024-08-25,True
+100923,Mia Khan,mia.khan@example.com,Romania,Nimbus Keyboard,Accessories,5,89.5,447.5,2024-08-04,True
+100924,Ivy Khan,ivy.khan@example.com,Germany,Aurora Headphones,Audio,1,129.0,129.0,2024-10-07,True
+100925,Mia Silva,mia.silva@example.com,United States,Orbit Charger,Accessories,3,29.99,89.97,2024-03-28,True
+100926,Lex Meyer,lex.meyer@example.com,Japan,Pulse Smartwatch,Wearables,3,199.0,597.0,2024-09-19,False
+100927,Aria Meyer,aria.meyer@example.com,Australia,Nimbus Keyboard,Accessories,5,89.5,447.5,2024-05-06,True
+100928,Noah Haddad,noah.haddad@example.com,Australia,Terra Notebook,Office,1,12.75,12.75,2025-06-23,True
+100929,Ethan Novak,ethan.novak@example.com,Brazil,Comet Mouse,Accessories,2,39.99,79.98,2025-07-07,True
+100930,Nina Khan,nina.khan@example.com,Canada,Pulse Smartwatch,Wearables,1,199.0,199.0,2024-09-05,True
+100931,Ley Okafor,ley.okafor@example.com,United States,Aurora Headphones,Audio,5,129.0,645.0,2024-06-16,False
+100932,Lex Tanaka,lex.tanaka@example.com,Canada,Atlas Backpack,Travel,3,64.9,194.7,2024-09-14,True
+100933,Aria Roy,aria.roy@example.com,Canada,Lumen E-Reader,Tablets,1,149.0,149.0,2025-03-01,True
+100934,Ethan Novak,ethan.novak@example.com,Canada,Comet Mouse,Accessories,4,39.99,159.96,2024-02-05,True
+100935,Hugo Meyer,hugo.meyer@example.com,Germany,Comet Mouse,Accessories,2,39.99,79.98,2025-04-11,True
+100936,Aria Roy,aria.roy@example.com,India,Comet Mouse,Accessories,2,39.99,79.98,2025-05-25,True
+100937,Omar Meyer,omar.meyer@example.com,Brazil,Aurora Headphones,Audio,4,129.0,516.0,2025-11-20,True
+100938,Ethan Lopez,ethan.lopez@example.com,Canada,Aurora Headphones,Audio,2,129.0,258.0,2024-02-09,True
+100939,Mia Novak,mia.novak@example.com,Germany,Drift Webcam 4K,Accessories,1,74.25,74.25,2024-02-16,True
+100940,Zoe Roy,zoe.roy@example.com,Japan,Atlas Backpack,Travel,3,64.9,194.7,2025-10-20,False
+100941,Ava Novak,ava.novak@example.com,Canada,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2024-05-22,True
+100942,Noah Read,noah.read@example.com,France,"Vertex Monitor 27""",Displays,3,319.99,959.97,2024-01-14,True
+100943,Ava Roy,ava.roy@example.com,India,Echo Desk Lamp,Home,3,42.0,126.0,2025-08-02,False
+100944,Noah Novak,noah.novak@example.com,Canada,Aurora Headphones,Audio,2,129.0,258.0,2025-03-10,True
+100945,Ethan Patel,ethan.patel@example.com,Canada,Comet Mouse,Accessories,5,39.99,199.95,2025-08-18,True
+100946,Noah Haddad,noah.haddad@example.com,Canada,Cinder Coffee Mug,Home,3,18.5,55.5,2025-10-22,True
+100947,Lex Cohen,lex.cohen@example.com,Romania,Nimbus Keyboard,Accessories,1,89.5,89.5,2024-03-27,True
+100948,Maya Okafor,maya.okafor@example.com,Brazil,Atlas Backpack,Travel,1,64.9,64.9,2025-02-14,True
+100949,Ley Roy,ley.roy@example.com,Australia,Pulse Smartwatch,Wearables,1,199.0,199.0,2024-04-21,True
+100950,Ava Reed,ava.reed@example.com,United Kingdom,Terra Notebook,Office,1,12.75,12.75,2024-06-06,False
+100951,Ley Haddad,ley.haddad@example.com,Romania,Echo Desk Lamp,Home,4,42.0,168.0,2025-05-01,True
+100952,Omar Haddad,omar.haddad@example.com,Romania,Pulse Smartwatch,Wearables,4,199.0,796.0,2025-06-19,False
+100953,Ethan Khan,ethan.khan@example.com,Brazil,Terra Notebook,Office,2,12.75,25.5,2025-09-26,True
+100954,Ley Silva,ley.silva@example.com,Brazil,Atlas Backpack,Travel,3,64.9,194.7,2025-04-16,True
+100955,Maya Khan,maya.khan@example.com,United Kingdom,"Vertex Monitor 27""",Displays,2,319.99,639.98,2025-01-10,True
+100956,Nina Patel,nina.patel@example.com,Germany,Lumen E-Reader,Tablets,5,149.0,745.0,2024-10-11,True
+100957,Omar Patel,omar.patel@example.com,India,"Vertex Monitor 27""",Displays,4,319.99,1279.96,2024-06-26,False
+100958,Aria Read,aria.read@example.com,India,"Vertex Monitor 27""",Displays,3,319.99,959.97,2025-04-14,True
+100959,Omar Lopez,omar.lopez@example.com,Japan,Echo Desk Lamp,Home,5,42.0,210.0,2024-11-23,True
+100960,Zoe Meyer,zoe.meyer@example.com,Canada,Echo Desk Lamp,Home,2,42.0,84.0,2025-11-18,True
+100961,Aria Patel,aria.patel@example.com,United States,Cinder Coffee Mug,Home,5,18.5,92.5,2024-06-15,False
+100962,Zoe Okafor,zoe.okafor@example.com,India,Orbit Charger,Accessories,3,29.99,89.97,2025-06-28,True
+100963,Ava Novak,ava.novak@example.com,United Kingdom,Lumen E-Reader,Tablets,4,149.0,596.0,2025-11-06,True
+100964,Omar Chafer,omar.chafer@example.com,Germany,Cinder Coffee Mug,Home,2,18.5,37.0,2024-04-01,True
+100965,Aria Read,aria.read@example.com,France,Echo Desk Lamp,Home,4,42.0,168.0,2025-07-21,True
+100966,Mia Silva,mia.silva@example.com,United States,Aurora Headphones,Audio,2,129.0,258.0,2025-05-22,True
+100967,Sara Rossi,sara.rossi@example.com,United States,Nimbus Keyboard,Accessories,4,89.5,358.0,2024-02-11,True
+100968,Aria Khan,aria.khan@example.com,Germany,Cinder Coffee Mug,Home,3,18.5,55.5,2025-12-27,False
+100969,Ava Meyer,ava.meyer@example.com,Germany,Terra Notebook,Office,5,12.75,63.75,2025-08-03,True
+100970,Ava Patel,ava.patel@example.com,Romania,Pulse Smartwatch,Wearables,3,199.0,597.0,2025-12-24,True
+100971,Nina Chafer,nina.chafer@example.com,Japan,Drift Webcam 4K,Accessories,1,74.25,74.25,2024-05-15,True
+100972,Aria Meyer,aria.meyer@example.com,France,Nimbus Keyboard,Accessories,4,89.5,358.0,2025-12-04,True
+100973,Nina Tanaka,nina.tanaka@example.com,United Kingdom,Orbit Charger,Accessories,2,29.99,59.98,2024-06-16,True
+100974,Aria Read,aria.read@example.com,United States,Nimbus Keyboard,Accessories,5,89.5,447.5,2024-12-26,True
+100975,Lex Lopez,lex.lopez@example.com,Brazil,Cinder Coffee Mug,Home,3,18.5,55.5,2024-09-28,True
+100976,Ethan Roy,ethan.roy@example.com,United Kingdom,Nimbus Keyboard,Accessories,4,89.5,358.0,2025-02-27,True
+100977,Lex Chafer,lex.chafer@example.com,Brazil,Drift Webcam 4K,Accessories,4,74.25,297.0,2025-01-09,True
+100978,Aria Patel,aria.patel@example.com,India,Echo Desk Lamp,Home,4,42.0,168.0,2025-12-14,True
+100979,Aria Khan,aria.khan@example.com,France,Drift Webcam 4K,Accessories,3,74.25,222.75,2024-06-14,True
+100980,Aria Lopez,aria.lopez@example.com,Canada,Terra Notebook,Office,3,12.75,38.25,2024-01-21,True
+100981,Sara Tanaka,sara.tanaka@example.com,United States,Orbit Charger,Accessories,2,29.99,59.98,2025-04-21,True
+100982,Omar Khan,omar.khan@example.com,Australia,Comet Mouse,Accessories,2,39.99,79.98,2024-10-22,True
+100983,Ley Tanaka,ley.tanaka@example.com,United Kingdom,Echo Desk Lamp,Home,2,42.0,84.0,2024-11-19,True
+100984,Maya Read,maya.read@example.com,India,Lumen E-Reader,Tablets,1,149.0,149.0,2025-03-13,True
+100985,Aria Reed,aria.reed@example.com,United States,Atlas Backpack,Travel,2,64.9,129.8,2024-09-21,True
+100986,Mia Reed,mia.reed@example.com,Australia,Comet Mouse,Accessories,4,39.99,159.96,2025-12-28,False
+100987,Nina Meyer,nina.meyer@example.com,United Kingdom,Cinder Coffee Mug,Home,5,18.5,92.5,2024-02-12,False
+100988,Omar Khan,omar.khan@example.com,India,Nimbus Keyboard,Accessories,5,89.5,447.5,2025-11-16,False
+100989,Hugo Chafer,hugo.chafer@example.com,United Kingdom,Lumen E-Reader,Tablets,3,149.0,447.0,2025-07-05,True
+100990,Mia Meyer,mia.meyer@example.com,Australia,Lumen E-Reader,Tablets,3,149.0,447.0,2025-03-14,True
+100991,Ivy Read,ivy.read@example.com,Romania,Aurora Headphones,Audio,2,129.0,258.0,2025-04-12,True
+100992,Sara Tanaka,sara.tanaka@example.com,Canada,Comet Mouse,Accessories,1,39.99,39.99,2024-06-23,True
+100993,Mia Okafor,mia.okafor@example.com,Romania,Cinder Coffee Mug,Home,4,18.5,74.0,2025-02-04,True
+100994,Ivy Cohen,ivy.cohen@example.com,Brazil,Lumen E-Reader,Tablets,4,149.0,596.0,2024-01-09,True
+100995,Nina Read,nina.read@example.com,Japan,Cinder Coffee Mug,Home,3,18.5,55.5,2024-10-06,True
+100996,Noah Tanaka,noah.tanaka@example.com,Japan,Pulse Smartwatch,Wearables,4,199.0,796.0,2024-06-23,True
+100997,Zoe Read,zoe.read@example.com,United States,Comet Mouse,Accessories,3,39.99,119.97,2024-08-28,True
+100998,Lex Okafor,lex.okafor@example.com,United Kingdom,Pulse Smartwatch,Wearables,4,199.0,796.0,2025-10-27,True
+100999,Lex Lopez,lex.lopez@example.com,Japan,Pulse Smartwatch,Wearables,4,199.0,796.0,2025-12-16,True
+101000,Zoe Lopez,zoe.lopez@example.com,United States,Orbit Charger,Accessories,4,29.99,119.96,2024-03-02,True
