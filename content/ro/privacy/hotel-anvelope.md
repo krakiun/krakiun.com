@@ -41,7 +41,7 @@ Traficul este criptat cu TLS. Parolele sunt stocate sub formă de hash. În inte
 
 ## Păstrare și ștergere
 
-Utilizatorii pot șterge clienți, seturi și fotografii oricând, direct din aplicație. Proprietarul atelierului poate exporta toate datele (CSV/Excel/JSON) și poate cere ștergerea completă a contului scriind la **contact@anvelope.app**. Datele șterse sunt eliminate prompt din sistemele active și din copiile de siguranță într-un termen rezonabil, de regulă în cel mult 30 de zile.
+Utilizatorii pot șterge clienți, seturi și fotografii oricând, direct din aplicație. Proprietarul atelierului poate exporta toate datele (CSV/Excel/JSON) și poate șterge complet contul direct din aplicație (Setări → Profil → Șterge contul) sau poate cere ștergerea scriind la **contact@anvelope.app**. Datele șterse sunt eliminate prompt din sistemele active și din copiile de siguranță într-un termen rezonabil, de regulă în cel mult 30 de zile.
 
 ## Drepturile dumneavoastră
 

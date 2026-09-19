@@ -41,7 +41,7 @@ Traffic is encrypted with TLS. Passwords are stored hashed. Inside a workshop, a
 
 ## Retention and deletion
 
-Users can delete customers, tyre sets and photos at any time from within the app. A workshop owner can export all data (CSV/Excel/JSON) and can request full account deletion by writing to **contact@anvelope.app**. Deleted data is removed promptly from active systems and from backups within a reasonable period, normally no more than 30 days.
+Users can delete customers, tyre sets and photos at any time from within the app. A workshop owner can export all data (CSV/Excel/JSON) and can delete the account entirely from inside the app (Settings → Profile → Delete account) or request deletion by writing to **contact@anvelope.app**. Deleted data is removed promptly from active systems and from backups within a reasonable period, normally no more than 30 days.
 
 ## Your rights
 
