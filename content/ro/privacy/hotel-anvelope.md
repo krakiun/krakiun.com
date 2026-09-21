@@ -5,7 +5,7 @@ build:
   render: always
 ---
 
-**Data intrării în vigoare: 19 septembrie 2026**
+**Data intrării în vigoare: 21 septembrie 2026**
 
 ## Despre aplicație
 
@@ -30,6 +30,12 @@ Datele despre clienții atelierului sunt introduse de atelier. În raport cu ace
 ## E-mailuri
 
 Trimitem exclusiv e-mailuri tranzacționale: invitații pentru colegi, resetare de parolă și memento-uri pe care utilizatorul alege să le trimită propriilor clienți. Livrarea se face prin **Amazon SES**. Nu trimitem newslettere și nu facem marketing.
+
+## Abonamente și plăți
+
+Planurile plătite se vând ca abonamente cu reînnoire automată prin magazinul platformei: **App Store**, pe iPhone, iPad și Mac. Plata este gestionată integral de magazin. **Noi nu vedem și nu primim datele cardului.** De la magazin primim doar o confirmare semnată a tranzacției (produsul cumpărat, data cumpărării și data expirării, un identificator anonim de tranzacție), pe care serverul nostru o verifică criptografic pentru a activa planul service-ului tău. Magazinul ne anunță și despre reînnoiri, anulări sau rambursări, ca planul să rămână corect.
+
+Abonamentul se gestionează și se anulează din contul de magazin, nu din aplicație: pe dispozitivele Apple, Setări → numele tău → Abonamente. Anularea oprește reînnoirea; planul rămâne activ până la sfârșitul perioadei plătite. Termenii de utilizare pentru abonamentele cumpărate prin Apple sunt [termenii standard Apple (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
 
 ## Ce NU facem
 

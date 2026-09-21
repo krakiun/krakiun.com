@@ -5,7 +5,7 @@ build:
   render: always
 ---
 
-**Effective date: 19 September 2026**
+**Effective date: 21 September 2026**
 
 ## About the app
 
@@ -30,6 +30,12 @@ The **camera** is used only to scan QR/barcode labels and to take photos that th
 ## E-mails
 
 We send transactional e-mail only: team invitations, password resets, and reminders the user chooses to send to their own customers. Delivery is handled by **Amazon SES**. We send no newsletters and no marketing.
+
+## Subscriptions and payments
+
+Paid plans are sold as auto-renewing subscriptions through the platform's store: **Apple's App Store** on iPhone, iPad and Mac. Payment is handled entirely by the store. **We never see or receive your card details.** From the store we receive only a signed transaction record (product purchased, purchase and expiry dates, an anonymous transaction identifier), which our server verifies cryptographically in order to activate the plan for your workshop. The store also notifies our server about renewals, cancellations and refunds so the plan stays in sync.
+
+You manage or cancel a subscription in your store account, not in the app: on Apple devices, Settings → your name → Subscriptions. Cancelling stops the renewal; the plan stays active until the end of the paid period. Terms of Use for subscriptions bought through Apple are Apple's standard [Terms of Use (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
 
 ## What we do not do
 
