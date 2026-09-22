@@ -1,6 +1,6 @@
 ---
 title: "Ce iese dacă antrenezi un LLM românesc pe date brute publice — un experiment onest"
-date: 2026-09-22T14:30:00+03:00
+date: 2026-09-22T14:05:39+03:00
 image: '/images/llm-romana.png'
 tags: ['ai', 'llm', 'limba-romana']
 ---

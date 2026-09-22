@@ -1,6 +1,6 @@
 ---
 title: "What happens if you train a Romanian LLM on raw public data — an honest experiment"
-date: 2026-09-22T14:30:00+03:00
+date: 2026-09-22T14:05:39+03:00
 image: '/images/llm-romana.png'
 tags: ['ai', 'llm', 'romanian']
 ---

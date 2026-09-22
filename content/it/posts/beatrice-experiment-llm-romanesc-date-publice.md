@@ -1,6 +1,6 @@
 ---
 title: "Cosa succede se addestri un LLM rumeno su dati pubblici grezzi — un esperimento onesto"
-date: 2026-09-22T14:30:00+03:00
+date: 2026-09-22T14:05:39+03:00
 image: '/images/llm-romana.png'
 tags: ['ai', 'llm', 'romanian']
 ---
