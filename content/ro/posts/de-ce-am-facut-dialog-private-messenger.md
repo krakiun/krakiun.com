@@ -7,8 +7,6 @@ tags: ['dialog', 'securitate', 'ai']
 
 În ultima vreme primesc des aceeași întrebare: **de ce am făcut o aplicație de conversații private, atât de orientată spre privacy, și ce urmăresc cu ea?** Așa că am zis să răspund o dată, aici, pentru toată lumea.
 
-![Dialog Private Messenger - conversație în aplicație](/images/dialog-private-messenger-chat.png)
-
 ## Adevărul despre cum a apărut Dialog
 
 Realitatea e mult mai puțin spectaculoasă decât și-ar imagina unii. **[Dialog](https://dialog.pm) nu a pornit cu un obiectiv anume.** A ieșit din vreo 2-3 ore de vibe coding și alte 2-3 ore de discuții cu AI-ul.
